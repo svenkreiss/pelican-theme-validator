@@ -4,11 +4,10 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/archives.html":92.44-92.44: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/archives.html":111.22-111.22: error: The “align” attribute on the “p” element is obsolete. Use CSS instead.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":21.121-21.121: error: Bad value “http://fonts.googleapis.com/css?family=Gudea:400,400italic|Alegreya+SC” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":48.59-48.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":59.57-59.57: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":69.48-69.48: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":81.44-81.44: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":100.22-100.22: error: The “align” attribute on the “p” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":62.57-62.57: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":72.48-72.48: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":84.44-84.44: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":103.22-103.22: error: The “align” attribute on the “p” element is obsolete. Use CSS instead.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":21.121-21.121: error: Bad value “http://fonts.googleapis.com/css?family=Gudea:400,400italic|Alegreya+SC” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":49.49-49.49: error: End tag “li” seen, but there were open elements.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":49.38-49.38: error: Unclosed element “a”.

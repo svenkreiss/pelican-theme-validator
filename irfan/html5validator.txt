@@ -1,6 +1,5 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/archives.html":74.82-74.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/authors.html":50.59-50.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/authors.html":69.82-69.82: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/authors.html":72.82-72.82: error: No “p” element in scope but a “p” end tag seen.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/categories.html":71.82-71.82: error: No “p” element in scope but a “p” end tag seen.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/index.html":56.98-56.98: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/index.html":89.82-89.82: error: No “p” element in scope but a “p” end tag seen.

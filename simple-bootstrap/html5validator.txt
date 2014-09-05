@@ -1,4 +1,3 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/archives.html":24.16-24.16: error: Element “h3” not allowed as child of element “dl” in this context. (Suppressing further errors from this subtree.)
 "file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/archives.html":25.37-25.37: error: Element “ul” not allowed as child of element “dl” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/authors.html":21.59-21.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
 Found files to validate: 8

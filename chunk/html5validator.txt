@@ -6,7 +6,6 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/chunk/output/authors.html":29.32-29.32: error: Duplicate attribute “class”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/chunk/output/authors.html":30.32-30.32: error: Duplicate attribute “class”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/chunk/output/authors.html":31.32-31.32: error: Duplicate attribute “class”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/chunk/output/authors.html":41.59-41.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
 "file:/Users/zween/tech/pelican-theme-validator/output_all/chunk/output/categories.html":28.32-28.32: error: Duplicate attribute “class”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/chunk/output/categories.html":29.32-29.32: error: Duplicate attribute “class”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/chunk/output/categories.html":30.32-30.32: error: Duplicate attribute “class”.

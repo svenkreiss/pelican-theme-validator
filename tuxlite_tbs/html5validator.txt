@@ -1,4 +1,3 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/authors.html":52.59-52.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":53.49-53.49: error: End tag “li” seen, but there were open elements.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":53.38-53.38: error: Unclosed element “a”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":53.50-53.50: error: Element “a” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)

@@ -4,8 +4,7 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/archives.html":22.46-22.46: error: Unclosed element “div”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/authors.html":28.103-28.103: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/authors.html":32.56-32.56: error: Element “span” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/authors.html":40.59-40.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/authors.html":98.7-98.7: error: End tag for  “body” seen, but there were unclosed elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/authors.html":101.7-101.7: error: End tag for  “body” seen, but there were unclosed elements.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/authors.html":22.46-22.46: error: Unclosed element “div”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/categories.html":28.103-28.103: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/categories.html":32.56-32.56: error: Element “span” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)

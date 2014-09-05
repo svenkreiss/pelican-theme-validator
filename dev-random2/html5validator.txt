@@ -2,7 +2,6 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/archives.html":30.17-30.17: error: The element “h2” must not appear as a descendant of the “dt” element.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/archives.html":43.12-43.12: error: Element “dl” is missing a required instance of child element “dd”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/authors.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/authors.html":27.59-27.59: error: Element “li” not allowed as child of element “section” in this context. (Suppressing further errors from this subtree.)
 "file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/categories.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/index.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/my-first-review.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.

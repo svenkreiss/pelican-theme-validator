@@ -1,6 +1,5 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/foundation-default-colours/output/archives.html":91.60-91.60: error: Bad value “content” for attribute “role” on element “div”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/foundation-default-colours/output/authors.html":91.60-91.60: error: Bad value “content” for attribute “role” on element “div”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/foundation-default-colours/output/authors.html":92.59-92.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
 "file:/Users/zween/tech/pelican-theme-validator/output_all/foundation-default-colours/output/categories.html":91.60-91.60: error: Bad value “content” for attribute “role” on element “div”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/foundation-default-colours/output/index.html":91.60-91.60: error: Bad value “content” for attribute “role” on element “div”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/foundation-default-colours/output/my-first-review.html":91.60-91.60: error: Bad value “content” for attribute “role” on element “div”.

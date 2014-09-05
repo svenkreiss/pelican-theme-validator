@@ -1,2 +1,1 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/maggner-pelican/output/authors.html":14.59-14.59: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
 Found files to validate: 8
