@@ -83,9 +83,9 @@ def main():
             os.system('ghp-import -b {0} {1}'.format(t, 'output/'))
             os.system('git push origin {0}'.format(t))
 
-        for t in themes:
-            print('--- local: '+t+' ---')
-            os.system('html5validator --root=output_all/'+t+'/output/ | tee output_all/'+t+'/html5validator.txt')
+    for t in themes:
+        print('--- local: '+t+' ---')
+        os.system('html5validator --root=output_all/'+t+'/output/ 2>&1 | tee output_all/'+t+'/html5validator.txt')
 
     # create screen captures with phantomjs
     os.system('phantomjs screen_captures.js')
