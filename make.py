@@ -55,7 +55,7 @@ def main():
     print(themes)
 
     # for tests, just do one
-    themes = themes[0:11]
+    # themes = themes[0:1]
 
     rst_write(themes)
 
