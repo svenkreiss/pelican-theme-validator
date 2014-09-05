@@ -1,1 +1,21 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/authors.html":29.59-29.59: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/authors.html":29.130-29.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/index.html":39.101-39.101: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/index.html":39.105-39.105: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/index.html":42.4-42.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/index.html":46.5-46.5: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/index.html":47.10-47.10: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/my-first-review.html":41.101-41.101: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/my-first-review.html":41.105-41.105: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/my-first-review.html":44.4-44.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/author/sven-kreiss.html":39.102-39.102: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/author/sven-kreiss.html":39.106-39.106: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/author/sven-kreiss.html":42.4-42.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/author/sven-kreiss.html":46.5-46.5: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/author/sven-kreiss.html":47.10-47.10: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/category/review.html":39.102-39.102: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/category/review.html":39.106-39.106: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/category/review.html":42.4-42.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/category/review.html":46.5-46.5: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/category/review.html":47.10-47.10: error: Stray end tag “section”.
 Found files to validate: 8

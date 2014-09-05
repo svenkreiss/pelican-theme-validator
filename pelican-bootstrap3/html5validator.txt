@@ -1,1 +1,36 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/archives.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/archives.html":128.75-128.75: error: Element “me@svenkreiss.com” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/archives.html":131.90-131.90: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/archives.html":128.75-128.75: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/authors.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/authors.html":66.12-66.12: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/authors.html":66.83-66.83: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/authors.html":121.75-121.75: error: Element “me@svenkreiss.com” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/authors.html":124.90-124.90: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/authors.html":121.75-121.75: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/categories.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/categories.html":137.75-137.75: error: Element “me@svenkreiss.com” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/categories.html":140.90-140.90: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/categories.html":137.75-137.75: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/index.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/index.html":127.75-127.75: error: Element “me@svenkreiss.com” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/index.html":130.90-130.90: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/index.html":127.75-127.75: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/my-first-review.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/my-first-review.html":146.75-146.75: error: Element “me@svenkreiss.com” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/my-first-review.html":149.90-149.90: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/my-first-review.html":146.75-146.75: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/tags.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/tags.html":86.54-86.54: error: Duplicate ID “tags”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/tags.html":124.75-124.75: error: Element “me@svenkreiss.com” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/tags.html":127.90-127.90: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/tags.html":124.75-124.75: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/author/sven-kreiss.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/author/sven-kreiss.html":127.75-127.75: error: Element “me@svenkreiss.com” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/author/sven-kreiss.html":130.90-130.90: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/author/sven-kreiss.html":127.75-127.75: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/category/review.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/category/review.html":128.75-128.75: error: Element “me@svenkreiss.com” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/category/review.html":131.90-131.90: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/category/review.html":128.75-128.75: error: Unclosed element “me@svenkreiss.com”.
 Found files to validate: 8

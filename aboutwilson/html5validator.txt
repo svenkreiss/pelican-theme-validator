@@ -1,1 +1,40 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/archives.html":87.44-87.44: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/archives.html":87.53-87.53: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/archives.html":87.44-87.44: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/categories.html":30.49-30.49: error: End tag “li” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/categories.html":30.38-30.38: error: Unclosed element “a”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/categories.html":30.50-30.50: error: Element “a” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/categories.html":31.5-31.5: error: End tag “ul” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/categories.html":32.8-32.8: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/categories.html":33.7-33.7: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/categories.html":34.6-34.6: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/categories.html":43.23-43.23: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/categories.html":43.23-43.23: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/categories.html":43.23-43.23: error fatal: Cannot recover after last error. Any further errors will be ignored.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/index.html":37.55-37.55: error: Element “me@svenkreiss.com” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/index.html":37.62-37.62: error: End tag “span” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/index.html":37.55-37.55: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/index.html":102.44-102.44: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/index.html":102.53-102.53: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/index.html":102.44-102.44: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/my-first-review.html":32.23-32.23: error: Element “h4” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/my-first-review.html":32.59-32.59: error: End tag “h4” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/my-first-review.html":32.54-32.54: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/my-first-review.html":92.44-92.44: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/my-first-review.html":92.53-92.53: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/my-first-review.html":92.44-92.44: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/tags.html":109.44-109.44: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/tags.html":109.53-109.53: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/tags.html":109.44-109.44: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/author/sven-kreiss.html":37.55-37.55: error: Element “me@svenkreiss.com” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/author/sven-kreiss.html":37.62-37.62: error: End tag “span” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/author/sven-kreiss.html":37.55-37.55: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/author/sven-kreiss.html":102.44-102.44: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/author/sven-kreiss.html":102.53-102.53: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/author/sven-kreiss.html":102.44-102.44: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/category/review.html":83.44-83.44: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/category/review.html":83.53-83.53: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/category/review.html":83.44-83.44: error: Unclosed element “me@svenkreiss.com”.
 Found files to validate: 8

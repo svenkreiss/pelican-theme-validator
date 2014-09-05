@@ -1,1 +1,51 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/archives.html":52.63-52.63: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/archives.html":52.67-52.67: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/archives.html":55.216-55.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/archives.html":63.121-63.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/archives.html":64.89-64.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/authors.html":41.59-41.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/authors.html":41.130-41.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/authors.html":45.63-45.63: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/authors.html":45.67-45.67: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/authors.html":48.216-48.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/authors.html":56.121-56.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/authors.html":57.89-57.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/categories.html":47.63-47.63: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/categories.html":47.67-47.67: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/categories.html":50.216-50.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/categories.html":58.121-58.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/categories.html":59.89-59.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/index.html":56.110-56.110: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/index.html":56.114-56.114: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/index.html":74.63-74.63: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/index.html":74.67-74.67: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/index.html":77.216-77.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/index.html":85.121-85.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/index.html":86.89-86.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/my-first-review.html":50.94-50.94: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/my-first-review.html":50.98-50.98: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/my-first-review.html":61.63-61.63: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/my-first-review.html":61.67-61.67: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/my-first-review.html":64.216-64.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/my-first-review.html":72.121-72.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/my-first-review.html":73.89-73.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/tags.html":47.63-47.63: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/tags.html":47.67-47.67: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/tags.html":50.216-50.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/tags.html":58.121-58.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/tags.html":59.89-59.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/author/sven-kreiss.html":56.111-56.111: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/author/sven-kreiss.html":56.115-56.115: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/author/sven-kreiss.html":74.64-74.64: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/author/sven-kreiss.html":74.68-74.68: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/author/sven-kreiss.html":77.216-77.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/author/sven-kreiss.html":85.121-85.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/author/sven-kreiss.html":86.89-86.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/category/review.html":56.111-56.111: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/category/review.html":56.115-56.115: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/category/review.html":74.64-74.64: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/category/review.html":74.68-74.68: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/category/review.html":77.216-77.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/category/review.html":85.121-85.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/category/review.html":86.89-86.89: error: An “a” start tag seen but an element of the same type was already open.
 Found files to validate: 8

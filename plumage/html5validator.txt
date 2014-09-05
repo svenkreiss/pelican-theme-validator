@@ -1,1 +1,33 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/archives.html":146.63-146.63: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/archives.html":146.68-146.68: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/archives.html":146.63-146.63: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/authors.html":62.59-62.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/authors.html":62.130-62.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/authors.html":117.63-117.63: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/authors.html":117.68-117.68: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/authors.html":117.63-117.63: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/categories.html":127.63-127.63: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/categories.html":127.68-127.68: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/categories.html":127.63-127.63: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/index.html":142.63-142.63: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/index.html":142.68-142.68: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/index.html":142.63-142.63: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/my-first-review.html":81.121-81.121: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/my-first-review.html":81.125-81.125: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/my-first-review.html":81.139-81.139: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/my-first-review.html":87.162-87.162: error: Bad value “tag tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/my-first-review.html":148.63-148.63: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/my-first-review.html":148.68-148.68: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/my-first-review.html":148.63-148.63: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/tags.html":127.63-127.63: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/tags.html":127.68-127.68: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/tags.html":127.63-127.63: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/author/sven-kreiss.html":57.170-57.170: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/author/sven-kreiss.html":57.174-57.174: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/author/sven-kreiss.html":146.63-146.63: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/author/sven-kreiss.html":146.68-146.68: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/author/sven-kreiss.html":146.63-146.63: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/category/review.html":124.63-124.63: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/category/review.html":124.68-124.68: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/category/review.html":124.63-124.63: error: Unclosed element “me@svenkreiss.com”.
 Found files to validate: 8

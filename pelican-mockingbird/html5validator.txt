@@ -1,1 +1,5 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-mockingbird/output/authors.html":22.89-22.89: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-mockingbird/output/authors.html":22.160-22.160: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-mockingbird/output/author/sven-kreiss.html":14.115-14.115: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-mockingbird/output/author/sven-kreiss.html":14.119-14.119: error: End tag “a” violates nesting rules.
 Found files to validate: 8

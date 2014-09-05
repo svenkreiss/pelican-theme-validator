@@ -1,1 +1,15 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/authors.html":34.59-34.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/authors.html":34.130-34.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/index.html":1.2-1.2: error: Saw “<?”. Probable cause: Attempt to use an XML processing instruction in HTML. (XML processing instructions are not supported in HTML.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/index.html":35.22-35.22: error: Duplicate ID “content”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/my-first-review.html":42.80-42.80: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/my-first-review.html":45.62-45.62: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/my-first-review.html":45.66-45.66: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/author/sven-kreiss.html":1.20-1.20: error: Start tag seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/author/sven-kreiss.html":1.20-1.20: error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/author/sven-kreiss.html":3.80-3.80: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/author/sven-kreiss.html":6.62-6.62: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/author/sven-kreiss.html":6.66-6.66: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/category/review.html":1.2-1.2: error: Saw “<?”. Probable cause: Attempt to use an XML processing instruction in HTML. (XML processing instructions are not supported in HTML.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/category/review.html":35.22-35.22: error: Duplicate ID “content”.
 Found files to validate: 8

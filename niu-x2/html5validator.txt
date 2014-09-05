@@ -1,1 +1,19 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/archives.html":109.45-109.45: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/archives.html":109.49-109.49: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/authors.html":81.59-81.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/authors.html":81.130-81.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/authors.html":95.45-95.45: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/authors.html":95.49-95.49: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/categories.html":102.45-102.45: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/categories.html":102.49-102.49: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/index.html":121.45-121.45: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/index.html":121.49-121.49: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/my-first-review.html":107.45-107.45: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/my-first-review.html":107.49-107.49: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/tags.html":118.45-118.45: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/tags.html":118.49-118.49: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/author/sven-kreiss.html":121.46-121.46: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/author/sven-kreiss.html":121.50-121.50: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/category/review.html":121.46-121.46: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/niu-x2/output/category/review.html":121.50-121.50: error: End tag “a” violates nesting rules.
 Found files to validate: 8

@@ -1,1 +1,16 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/archives.html":74.82-74.82: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/authors.html":50.59-50.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/authors.html":50.130-50.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/authors.html":69.82-69.82: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/categories.html":71.82-71.82: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/index.html":56.98-56.98: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/index.html":89.82-89.82: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/my-first-review.html":59.59-59.59: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/my-first-review.html":59.59-59.59: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/my-first-review.html":86.82-86.82: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tags.html":68.82-68.82: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/author/sven-kreiss.html":56.99-56.99: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/author/sven-kreiss.html":89.82-89.82: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/category/review.html":56.99-56.99: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/category/review.html":89.82-89.82: error: No “p” element in scope but a “p” end tag seen.
 Found files to validate: 8

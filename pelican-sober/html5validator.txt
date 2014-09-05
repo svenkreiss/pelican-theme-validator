@@ -1,1 +1,14 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-sober/output/authors.html":14.59-14.59: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-sober/output/authors.html":14.130-14.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-sober/output/index.html":23.106-23.106: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-sober/output/index.html":23.110-23.110: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-sober/output/my-first-review.html":30.101-30.101: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-sober/output/my-first-review.html":30.105-30.105: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-sober/output/author/sven-kreiss.html":15.47-15.47: error: Element “me@svenkreiss.com” not allowed as child of element “h2” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-sober/output/author/sven-kreiss.html":15.52-15.52: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-sober/output/author/sven-kreiss.html":15.47-15.47: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-sober/output/author/sven-kreiss.html":23.107-23.107: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-sober/output/author/sven-kreiss.html":23.111-23.111: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-sober/output/category/review.html":23.107-23.107: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-sober/output/category/review.html":23.111-23.111: error: End tag “a” violates nesting rules.
 Found files to validate: 8

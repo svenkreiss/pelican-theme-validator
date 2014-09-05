@@ -1,1 +1,20 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/archives.html":73.53-73.53: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/archives.html":87.22-87.22: error: Duplicate ID “content”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/categories.html":73.53-73.53: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/index.html":73.53-73.53: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/index.html":95.92-95.92: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/index.html":95.96-95.96: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/my-first-review.html":73.53-73.53: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/my-first-review.html":87.22-87.22: error: Duplicate ID “content”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/my-first-review.html":106.92-106.92: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/my-first-review.html":106.96-106.96: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/tags.html":73.53-73.53: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/author/sven-kreiss.html":73.53-73.53: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/author/sven-kreiss.html":95.93-95.93: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/author/sven-kreiss.html":95.97-95.97: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/category/review.html":73.53-73.53: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/category/review.html":95.93-95.93: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/category/review.html":95.97-95.97: error: End tag “a” violates nesting rules.
 Found files to validate: 8

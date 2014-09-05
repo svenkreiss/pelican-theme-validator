@@ -1,1 +1,13 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pujangga/output/archives.html":51.48-51.48: error: Duplicate ID “content”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pujangga/output/archives.html":56.133-56.133: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pujangga/output/archives.html":56.137-56.137: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pujangga/output/archives.html":66.13-66.13: error: Stray end tag “dl”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pujangga/output/authors.html":50.59-50.59: error: Element “li” not allowed as child of element “section” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pujangga/output/authors.html":50.130-50.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pujangga/output/index.html":52.129-52.129: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pujangga/output/index.html":52.133-52.133: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pujangga/output/my-first-review.html":55.90-55.90: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pujangga/output/my-first-review.html":55.94-55.94: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pujangga/output/author/sven-kreiss.html":52.130-52.130: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pujangga/output/author/sven-kreiss.html":52.134-52.134: error: End tag “a” violates nesting rules.
 Found files to validate: 8

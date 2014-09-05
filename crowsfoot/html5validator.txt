@@ -1,1 +1,27 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/archives.html":44.41-44.41: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/archives.html":48.10-48.10: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/archives.html":44.41-44.41: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/authors.html":34.59-34.59: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/authors.html":34.130-34.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/authors.html":39.41-39.41: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/authors.html":43.10-43.10: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/authors.html":39.41-39.41: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/categories.html":41.41-41.41: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/categories.html":45.10-45.10: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/categories.html":41.41-41.41: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/index.html":67.41-67.41: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/index.html":71.10-71.10: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/index.html":67.41-67.41: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/my-first-review.html":60.41-60.41: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/my-first-review.html":64.10-64.10: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/my-first-review.html":60.41-60.41: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/tags.html":38.41-38.41: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/tags.html":42.10-42.10: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/tags.html":38.41-38.41: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/author/sven-kreiss.html":67.41-67.41: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/author/sven-kreiss.html":71.10-71.10: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/author/sven-kreiss.html":67.41-67.41: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/category/review.html":67.41-67.41: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/category/review.html":71.10-71.10: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/category/review.html":67.41-67.41: error: Unclosed element “me@svenkreiss.com”.
 Found files to validate: 8

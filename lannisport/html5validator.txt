@@ -1,1 +1,38 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/archives.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/archives.html":62.64-62.64: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/archives.html":64.28-64.28: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/archives.html":62.64-62.64: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/authors.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/authors.html":48.59-48.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/authors.html":48.130-48.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/authors.html":55.64-55.64: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/authors.html":57.28-57.28: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/authors.html":55.64-55.64: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/categories.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/categories.html":57.64-57.64: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/categories.html":59.28-59.28: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/categories.html":57.64-57.64: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/index.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/index.html":56.18-56.18: error: Stray end tag “footer”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/index.html":65.64-65.64: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/index.html":67.28-67.28: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/index.html":65.64-65.64: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/my-first-review.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/my-first-review.html":61.17-61.17: error: Stray end tag “footer”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/my-first-review.html":69.64-69.64: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/my-first-review.html":71.28-71.28: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/my-first-review.html":69.64-69.64: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/tags.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/tags.html":54.64-54.64: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/tags.html":56.28-56.28: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/tags.html":54.64-54.64: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/author/sven-kreiss.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/author/sven-kreiss.html":56.18-56.18: error: Stray end tag “footer”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/author/sven-kreiss.html":65.64-65.64: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/author/sven-kreiss.html":67.28-67.28: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/author/sven-kreiss.html":65.64-65.64: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/category/review.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/category/review.html":62.64-62.64: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/category/review.html":64.28-64.28: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/category/review.html":62.64-62.64: error: Unclosed element “me@svenkreiss.com”.
 Found files to validate: 8

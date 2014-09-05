@@ -1,1 +1,55 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/archives.html":28.103-28.103: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/archives.html":32.56-32.56: error: Element “span” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/archives.html":103.7-103.7: error: End tag for  “body” seen, but there were unclosed elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/archives.html":22.46-22.46: error: Unclosed element “div”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/authors.html":28.103-28.103: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/authors.html":32.56-32.56: error: Element “span” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/authors.html":40.59-40.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/authors.html":40.130-40.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/authors.html":98.7-98.7: error: End tag for  “body” seen, but there were unclosed elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/authors.html":22.46-22.46: error: Unclosed element “div”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/categories.html":28.103-28.103: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/categories.html":32.56-32.56: error: Element “span” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/categories.html":100.7-100.7: error: End tag for  “body” seen, but there were unclosed elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/categories.html":22.46-22.46: error: Unclosed element “div”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/index.html":28.103-28.103: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/index.html":32.56-32.56: error: Element “span” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/index.html":48.107-48.107: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/index.html":54.48-54.48: error: Element “p” not allowed as child of element “h4” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/index.html":130.7-130.7: error: End tag for  “body” seen, but there were unclosed elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/index.html":22.46-22.46: error: Unclosed element “div”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/my-first-review.html":28.103-28.103: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/my-first-review.html":32.56-32.56: error: Element “span” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/my-first-review.html":34.96-34.96: error: No space between attributes.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/my-first-review.html":34.96-34.96: error: Saw “<” when expecting an attribute name. Probable cause: Missing “>” immediately before.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/my-first-review.html":34.107-34.107: error: Duplicate attribute “class”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/my-first-review.html":34.124-34.124: error: Attribute “<span” not allowed on element “span” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/my-first-review.html":46.94-46.94: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/my-first-review.html":46.98-46.98: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/my-first-review.html":54.20-54.20: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/my-first-review.html":116.7-116.7: error: End tag for  “body” seen, but there were unclosed elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/my-first-review.html":22.46-22.46: error: Unclosed element “div”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/tags.html":28.103-28.103: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/tags.html":32.56-32.56: error: Element “span” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/tags.html":97.7-97.7: error: End tag for  “body” seen, but there were unclosed elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/tags.html":22.46-22.46: error: Unclosed element “div”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/author/sven-kreiss.html":28.104-28.104: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/author/sven-kreiss.html":32.56-32.56: error: Element “span” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/author/sven-kreiss.html":42.41-42.41: error: Element “me@svenkreiss.com” not allowed as child of element “h1” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/author/sven-kreiss.html":42.51-42.51: error: End tag “h1” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/author/sven-kreiss.html":42.41-42.41: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/author/sven-kreiss.html":47.107-47.107: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/author/sven-kreiss.html":53.48-53.48: error: Element “p” not allowed as child of element “h4” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/author/sven-kreiss.html":129.7-129.7: error: End tag for  “body” seen, but there were unclosed elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/author/sven-kreiss.html":22.46-22.46: error: Unclosed element “div”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/category/review.html":28.104-28.104: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/category/review.html":32.56-32.56: error: Element “span” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/category/review.html":34.97-34.97: error: No space between attributes.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/category/review.html":34.97-34.97: error: Saw “<” when expecting an attribute name. Probable cause: Missing “>” immediately before.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/category/review.html":34.108-34.108: error: Duplicate attribute “class”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/category/review.html":34.125-34.125: error: Attribute “<span” not allowed on element “span” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/category/review.html":47.107-47.107: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/category/review.html":53.48-53.48: error: Element “p” not allowed as child of element “h4” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/category/review.html":129.7-129.7: error: End tag for  “body” seen, but there were unclosed elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pure/output/category/review.html":22.46-22.46: error: Unclosed element “div”.
 Found files to validate: 8

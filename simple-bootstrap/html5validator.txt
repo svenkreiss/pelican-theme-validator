@@ -1,1 +1,10 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/archives.html":24.16-24.16: error: Element “h3” not allowed as child of element “dl” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/archives.html":25.37-25.37: error: Element “ul” not allowed as child of element “dl” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/authors.html":21.59-21.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/authors.html":21.130-21.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/my-first-review.html":38.91-38.91: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/my-first-review.html":38.95-38.95: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/author/sven-kreiss.html":22.47-22.47: error: Element “me@svenkreiss.com” not allowed as child of element “h2” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/author/sven-kreiss.html":22.52-22.52: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/author/sven-kreiss.html":22.47-22.47: error: Unclosed element “me@svenkreiss.com”.
 Found files to validate: 8

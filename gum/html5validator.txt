@@ -1,1 +1,22 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/archives.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/authors.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/authors.html":44.59-44.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/authors.html":44.130-44.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/categories.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/index.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/index.html":57.115-57.115: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/index.html":57.119-57.119: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/my-first-review.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/my-first-review.html":61.101-61.101: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/my-first-review.html":61.105-61.105: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/tags.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/author/sven-kreiss.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/author/sven-kreiss.html":45.47-45.47: error: Element “me@svenkreiss.com” not allowed as child of element “h2” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/author/sven-kreiss.html":45.52-45.52: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/author/sven-kreiss.html":45.47-45.47: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/author/sven-kreiss.html":57.116-57.116: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/author/sven-kreiss.html":57.120-57.120: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/category/review.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/category/review.html":57.116-57.116: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/category/review.html":57.120-57.120: error: End tag “a” violates nesting rules.
 Found files to validate: 8

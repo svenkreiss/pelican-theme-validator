@@ -1,1 +1,20 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/index.html":39.101-39.101: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/index.html":39.105-39.105: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/index.html":42.4-42.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/index.html":45.5-45.5: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/my-first-review.html":41.101-41.101: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/my-first-review.html":41.105-41.105: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/my-first-review.html":44.4-44.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/tags.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/tags.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/author/sven-kreiss.html":39.102-39.102: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/author/sven-kreiss.html":39.106-39.106: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/author/sven-kreiss.html":42.4-42.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/author/sven-kreiss.html":45.5-45.5: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/category/review.html":39.102-39.102: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/category/review.html":39.106-39.106: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/category/review.html":42.4-42.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/category/review.html":45.5-45.5: error: Stray end tag “ol”.
 Found files to validate: 8

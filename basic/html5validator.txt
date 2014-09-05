@@ -1,1 +1,22 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/archives.html":25.7-25.7: error: Stray end tag “head”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/authors.html":25.7-25.7: error: Stray end tag “head”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/authors.html":33.59-33.59: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/authors.html":33.130-33.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/categories.html":25.7-25.7: error: Stray end tag “head”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/index.html":25.7-25.7: error: Stray end tag “head”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/index.html":42.106-42.106: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/index.html":42.110-42.110: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/my-first-review.html":29.7-29.7: error: Stray end tag “head”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/my-first-review.html":49.101-49.101: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/my-first-review.html":49.105-49.105: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/tags.html":25.7-25.7: error: Stray end tag “head”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/author/sven-kreiss.html":25.7-25.7: error: Stray end tag “head”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/author/sven-kreiss.html":34.47-34.47: error: Element “me@svenkreiss.com” not allowed as child of element “h2” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/author/sven-kreiss.html":34.52-34.52: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/author/sven-kreiss.html":34.47-34.47: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/author/sven-kreiss.html":42.107-42.107: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/author/sven-kreiss.html":42.111-42.111: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/category/review.html":25.7-25.7: error: Stray end tag “head”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/category/review.html":42.107-42.107: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/category/review.html":42.111-42.111: error: End tag “a” violates nesting rules.
 Found files to validate: 8

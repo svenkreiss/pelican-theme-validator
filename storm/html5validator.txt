@@ -1,1 +1,5 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/storm/output/archives.html":24.12-24.12: error: Element “dl” is missing a required child element.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/storm/output/my-first-review.html":25.97-25.97: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/storm/output/my-first-review.html":25.101-25.101: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/storm/output/my-first-review.html":27.18-27.18: error: The “align” attribute on the “p” element is obsolete. Use CSS instead.
 Found files to validate: 8

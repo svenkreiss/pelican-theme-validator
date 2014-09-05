@@ -1,1 +1,19 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/index.html":40.101-40.101: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/index.html":40.105-40.105: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/index.html":48.17-48.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/index.html":49.22-49.22: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/my-first-review.html":43.101-43.101: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/my-first-review.html":43.105-43.105: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/tags.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/tags.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/author/sven-kreiss.html":40.102-40.102: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/author/sven-kreiss.html":40.106-40.106: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/author/sven-kreiss.html":48.17-48.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/author/sven-kreiss.html":49.22-49.22: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/category/review.html":40.102-40.102: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/category/review.html":40.106-40.106: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/category/review.html":48.17-48.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/category/review.html":49.22-49.22: error: Stray end tag “section”.
 Found files to validate: 8

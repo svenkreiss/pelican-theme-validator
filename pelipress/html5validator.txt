@@ -1,1 +1,63 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/archives.html":60.55-60.55: error: Attribute “pubdate” not allowed on element “time” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/archives.html":88.30-88.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/archives.html":99.23-99.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/archives.html":107.25-107.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/archives.html":118.33-118.33: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/archives.html":121.4-121.4: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/archives.html":118.33-118.33: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/authors.html":50.59-50.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/authors.html":50.130-50.130: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/authors.html":64.30-64.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/authors.html":75.23-75.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/authors.html":83.25-83.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/authors.html":94.33-94.33: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/authors.html":97.4-97.4: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/authors.html":94.33-94.33: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/categories.html":66.30-66.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/categories.html":77.23-77.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/categories.html":85.25-85.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/categories.html":96.33-96.33: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/categories.html":99.4-99.4: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/categories.html":96.33-96.33: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/index.html":56.67-56.67: error: Attribute “pubdate” not allowed on element “time” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/index.html":61.56-61.56: error: Bad value “full-article” for attribute “rel” on element “a”: The string “full-article” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/index.html":81.30-81.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/index.html":92.23-92.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/index.html":100.25-100.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/index.html":111.33-111.33: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/index.html":114.4-114.4: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/index.html":111.33-111.33: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":54.67-54.67: error: Attribute “pubdate” not allowed on element “time” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":61.62-61.62: error: Element “me@svenkreiss.com” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":61.69-61.69: error: End tag “span” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":61.62-61.62: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":63.45-63.45: error: Attribute “pubdate” not allowed on element “time” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":80.30-80.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":91.23-91.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":99.25-99.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":110.33-110.33: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":113.4-113.4: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":110.33-110.33: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tags.html":63.30-63.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tags.html":74.23-74.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tags.html":82.25-82.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tags.html":93.33-93.33: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tags.html":96.4-96.4: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tags.html":93.33-93.33: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/author/sven-kreiss.html":56.67-56.67: error: Attribute “pubdate” not allowed on element “time” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/author/sven-kreiss.html":61.57-61.57: error: Bad value “full-article” for attribute “rel” on element “a”: The string “full-article” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/author/sven-kreiss.html":81.30-81.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/author/sven-kreiss.html":92.23-92.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/author/sven-kreiss.html":100.25-100.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/author/sven-kreiss.html":111.33-111.33: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/author/sven-kreiss.html":114.4-114.4: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/author/sven-kreiss.html":111.33-111.33: error: Unclosed element “me@svenkreiss.com”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/category/review.html":56.67-56.67: error: Attribute “pubdate” not allowed on element “time” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/category/review.html":61.57-61.57: error: Bad value “full-article” for attribute “rel” on element “a”: The string “full-article” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/category/review.html":81.30-81.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/category/review.html":92.23-92.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/category/review.html":100.25-100.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/category/review.html":111.33-111.33: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/category/review.html":114.4-114.4: error: End tag “p” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/category/review.html":111.33-111.33: error: Unclosed element “me@svenkreiss.com”.
 Found files to validate: 8
