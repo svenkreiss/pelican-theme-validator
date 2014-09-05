@@ -19,7 +19,8 @@ def rst(themes):
         out += '.. image:: https://travis-ci.org/svenkreiss/pelican-theme-validator.svg?branch={0}\n'.format(t)
         out += '    :target: https://travis-ci.org/svenkreiss/pelican-theme-validator/branches\n'
         out += '\n'
-        out += '`preview <http://www.svenkreiss.com/pelican-theme-validator/{0}/output/>`_, '.format(t)
+        out += '`preview <http://www.svenkreiss.com/pelican-theme-validator/{0}/output/>`_,\n'.format(t)
+        out += '`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/{0}/>`_,\n'.format(t)
         out += '`html5validator output <http://www.svenkreiss.com/pelican-theme-validator/{0}/html5validator.txt>`_\n'.format(t)
         out += '\n'
         out += '.. image:: http://www.svenkreiss.com/pelican-theme-validator/{0}/screen_capture.png\n'.format(t)
@@ -56,6 +57,9 @@ def main():
                         action="store_true", default=False,
                         help="skip validation and git pushes on individual "
                         "branches")
+    parser.add_argument("--skip_screen_captures",
+                        action="store_true", default=False,
+                        help="skip taking screen captures")
     args = parser.parse_args()
 
     themes = os.listdir(args.themes)
@@ -70,25 +74,26 @@ def main():
 
     rst_write(themes)
 
-    if not args.skip_validation:
-        for t in themes:
-            print('--- '+t+' ---')
-            rebuild(args.themes+t)
-            # copy for gh-pages
-            os.system('mkdir -p output_all/'+t)
-            os.system('cp -r output output_all/'+t)
+    for t in themes:
+        print('--- '+t+' ---')
+        rebuild(args.themes+t)
+        # copy for gh-pages
+        os.system('mkdir -p output_all/'+t)
+        os.system('cp -r output output_all/'+t)
+
+        if not args.skip_validation:
             # cp the travis file
             os.system('cp travis_for_theme_branches.yml output/.travis.yml')
             # import into branch and git push
             os.system('ghp-import -b {0} {1}'.format(t, 'output/'))
             os.system('git push origin {0}'.format(t))
 
-    for t in themes:
         print('--- local: '+t+' ---')
-        os.system('html5validator --root=output_all/'+t+'/output/ 2>&1 | tee output_all/'+t+'/html5validator.txt')
+        os.system('html5validator --root=output_all/'+t+'/output/ --blacklist=templates 2>&1 | tee output_all/'+t+'/html5validator.txt')
 
-    # create screen captures with phantomjs
-    os.system('phantomjs screen_captures.js')
+    if not args.skip_screen_captures:
+        # create screen captures with phantomjs
+        os.system('phantomjs screen_captures.js')
 
     # push gh-pages branch
     os.system('ghp-import -b gh-pages output_all')

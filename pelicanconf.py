@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 import os
 
-AUTHOR = u'Sven Kreiss <me@svenkreiss.com>'
+AUTHOR = u'Sven Kreiss'
 SITENAME = u'Pelican Theme Validator'
 SITEURL = ''
 
