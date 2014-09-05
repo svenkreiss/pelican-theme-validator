@@ -13,9 +13,9 @@ def rebuild(theme):
 def rst(themes):
     out = ''
     for t in themes:
-        out += t+'\n'
-        out += '+'*len(t)+'\n'
-        out += '`preview <http://www.svenkreiss.com/pelican-theme-validator/{0}/>`_\n\n'.format(t)
+        title = '`{0} <http://www.svenkreiss.com/pelican-theme-validator/{0}/output/>`_'.format(t)
+        out += title+'\n'
+        out += '+'*len(title)+'\n'
         out += '.. image:: https://travis-ci.org/svenkreiss/pelican-theme-validator.svg?branch={0}\n'.format(t)
         out += '    :target: https://travis-ci.org/svenkreiss/pelican-theme-validator/branches\n'
         out += '\n'
