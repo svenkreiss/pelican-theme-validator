@@ -5,6 +5,7 @@ import os
 import git
 import time
 import argparse
+import subprocess
 
 
 def rebuild(theme):
@@ -21,7 +22,31 @@ def rst_git_info(location):
     return out
 
 
-def rst(themes):
+def repo_link(theme_location, remote='origin'):
+    """This is a hack to extract an html link from 'git remote -v'."""
+    o = subprocess.check_output(['git', 'remote', '-v'],
+                                cwd=theme_location).split('\n')
+    for l in o:
+        if remote in l and '(fetch)' in l:
+            url = l.replace(remote, '').replace('(fetch)', '').strip()
+            if url.endswith('.git'):
+                url = url[:-4]
+            if url.startswith('git:'):
+                url = 'https:'+url[4:]
+            return url
+
+
+def src_link(theme_name, location):
+    url = repo_link(location+'/'+theme_name)
+
+    # if it is from the main pelican-themes repo
+    if url == 'https://github.com/getpelican/pelican-themes':
+        url += '/tree/master/'+theme_name
+
+    return url
+
+
+def rst(themes, location):
     out = ''
     for t in themes:
         title = '`{0} <http://www.svenkreiss.com/pelican-theme-validator/{0}/output/>`_'.format(t)
@@ -30,7 +55,7 @@ def rst(themes):
         out += title+'\n'
         out += '+'*len(title)+'\n'
         out += '`live preview <http://www.svenkreiss.com/pelican-theme-validator/{0}/output/>`_,\n'.format(t)
-        out += '`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/{0}/>`_,\n'.format(t)
+        out += '`source on GitHub <{0}>`_,\n'.format(src_link(t, location))
         out += '`html5validator output <http://www.svenkreiss.com/pelican-theme-validator/{0}/html5validator.txt>`_\n'.format(t)
         out += '\n'
         out += '.. image:: http://www.svenkreiss.com/pelican-theme-validator/{0}/status.svg\n'.format(t)
@@ -46,7 +71,7 @@ def rst(themes):
 def rst_write(themes, location):
     # process THEMES.rst
     with open("THEMES.rst", 'w') as f:
-        f.write(rst(themes))
+        f.write(rst(themes, location))
 
     # process README.rst
     readme = open('README.rst', 'r').readlines()
@@ -57,7 +82,7 @@ def rst_write(themes, location):
         readme = readme[:begin_marker+1] + readme[end_marker:]
     # get new info (if anything goes wrong, this does not overwrite the README)
     info = rst_git_info(location)
-    themes_list = rst(themes)
+    themes_list = rst(themes, location)
     # write new README and insert new list
     with open('README.rst', 'w') as f_readme:
         for l in readme:
@@ -70,6 +95,9 @@ def rst_write(themes, location):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("themes", help="path to clone of pelican-themes")
+    parser.add_argument("--skip_rebuild",
+                        action="store_true", default=False,
+                        help="skip rebuild")
     parser.add_argument("--skip_validation",
                         action="store_true", default=False,
                         help="skip validation and git pushes on individual "
@@ -93,10 +121,11 @@ def main():
 
     for t in themes:
         print('--- '+t+' ---')
-        rebuild(args.themes+t)
-        # copy for gh-pages
-        os.system('mkdir -p output_all/'+t)
-        os.system('cp -r output output_all/'+t)
+        if not args.skip_rebuild:
+            rebuild(args.themes+t)
+            # copy for gh-pages
+            os.system('mkdir -p output_all/'+t)
+            os.system('cp -r output output_all/'+t)
 
         if not args.skip_validation:
             s = os.system('html5validator --root=output_all/'+t+'/output/ --blacklist=templates &> output_all/'+t+'/html5validator.txt')

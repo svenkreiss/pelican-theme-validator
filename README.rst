@@ -13,7 +13,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `aboutwilson <http://www.svenkreiss.com/pelican-theme-validator/aboutwilson/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/aboutwilson/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/aboutwilson/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/aboutwilson>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/aboutwilson/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/aboutwilson/status.svg
@@ -28,7 +28,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `basic <http://www.svenkreiss.com/pelican-theme-validator/basic/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/basic/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/basic/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/basic>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/basic/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/basic/status.svg
@@ -43,7 +43,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `bluegrasshopper <http://www.svenkreiss.com/pelican-theme-validator/bluegrasshopper/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/bluegrasshopper/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/bluegrasshopper/>`_,
+`source on GitHub <https://github.com/gregseth/pelican-bgh>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/bluegrasshopper/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/bluegrasshopper/status.svg
@@ -58,7 +58,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `blueidea <http://www.svenkreiss.com/pelican-theme-validator/blueidea/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/blueidea/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/blueidea/>`_,
+`source on GitHub <https://github.com/blueicefield/pelican-blueidea>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/blueidea/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/blueidea/status.svg
@@ -73,7 +73,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `bold <http://www.svenkreiss.com/pelican-theme-validator/bold/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/bold/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/bold/>`_,
+`source on GitHub <https://github.com/demianbrecht/pelican-bold>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/bold/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/bold/status.svg
@@ -88,7 +88,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `bootlex <http://www.svenkreiss.com/pelican-theme-validator/bootlex/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/bootlex/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/bootlex/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/bootlex>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/bootlex/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/bootlex/status.svg
@@ -103,7 +103,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `bootstrap <http://www.svenkreiss.com/pelican-theme-validator/bootstrap/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/bootstrap/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/bootstrap/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/bootstrap>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/bootstrap/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/bootstrap/status.svg
@@ -118,7 +118,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `bootstrap2 <http://www.svenkreiss.com/pelican-theme-validator/bootstrap2/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/bootstrap2/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/bootstrap2/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/bootstrap2>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/bootstrap2/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/bootstrap2/status.svg
@@ -133,7 +133,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `bootstrap2-dark <http://www.svenkreiss.com/pelican-theme-validator/bootstrap2-dark/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/bootstrap2-dark/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/bootstrap2-dark/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/bootstrap2-dark>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/bootstrap2-dark/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/bootstrap2-dark/status.svg
@@ -148,7 +148,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `brownstone <http://www.svenkreiss.com/pelican-theme-validator/brownstone/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/brownstone/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/brownstone/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/brownstone>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/brownstone/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/brownstone/status.svg
@@ -163,7 +163,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `BT3-Flat <http://www.svenkreiss.com/pelican-theme-validator/BT3-Flat/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/BT3-Flat/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/BT3-Flat/>`_,
+`source on GitHub <https://github.com/KenMercusLai/BT3-Flat>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/BT3-Flat/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/BT3-Flat/status.svg
@@ -178,7 +178,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `built-texts <http://www.svenkreiss.com/pelican-theme-validator/built-texts/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/built-texts/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/built-texts/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/built-texts>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/built-texts/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/built-texts/status.svg
@@ -193,7 +193,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `burrito <http://www.svenkreiss.com/pelican-theme-validator/burrito/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/burrito/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/burrito/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/burrito>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/burrito/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/burrito/status.svg
@@ -208,7 +208,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `cebong <http://www.svenkreiss.com/pelican-theme-validator/cebong/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/cebong/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/cebong/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/cebong>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/cebong/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/cebong/status.svg
@@ -223,7 +223,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `chunk <http://www.svenkreiss.com/pelican-theme-validator/chunk/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/chunk/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/chunk/>`_,
+`source on GitHub <https://github.com/tbunnyman/pelican-chunk>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/chunk/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/chunk/status.svg
@@ -238,7 +238,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `crowsfoot <http://www.svenkreiss.com/pelican-theme-validator/crowsfoot/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/crowsfoot/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/crowsfoot/>`_,
+`source on GitHub <https://github.com/porterjamesj/crowsfoot>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/crowsfoot/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/crowsfoot/status.svg
@@ -253,7 +253,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `dev-random <http://www.svenkreiss.com/pelican-theme-validator/dev-random/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/dev-random/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/dev-random/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/dev-random>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/dev-random/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/dev-random/status.svg
@@ -268,7 +268,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `dev-random2 <http://www.svenkreiss.com/pelican-theme-validator/dev-random2/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/dev-random2/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/dev-random2/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/dev-random2>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/dev-random2/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/dev-random2/status.svg
@@ -283,7 +283,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `elegant <http://www.svenkreiss.com/pelican-theme-validator/elegant/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/elegant/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/elegant/>`_,
+`source on GitHub <https://github.com/talha131/pelican-elegant>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/elegant/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/elegant/status.svg
@@ -298,7 +298,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `foundation-default-colours <http://www.svenkreiss.com/pelican-theme-validator/foundation-default-colours/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/foundation-default-colours/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/foundation-default-colours/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/foundation-default-colours>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/foundation-default-colours/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/foundation-default-colours/status.svg
@@ -313,7 +313,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `franticworld <http://www.svenkreiss.com/pelican-theme-validator/franticworld/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/franticworld/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/franticworld/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/franticworld>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/franticworld/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/franticworld/status.svg
@@ -328,7 +328,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `fresh <http://www.svenkreiss.com/pelican-theme-validator/fresh/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/fresh/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/fresh/>`_,
+`source on GitHub <https://github.com/jsliang/pelican-fresh>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/fresh/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/fresh/status.svg
@@ -343,7 +343,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `gum <http://www.svenkreiss.com/pelican-theme-validator/gum/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/gum/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/gum/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/gum>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/gum/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/gum/status.svg
@@ -358,7 +358,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `html5-dopetrope <http://www.svenkreiss.com/pelican-theme-validator/html5-dopetrope/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/html5-dopetrope/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/html5-dopetrope/>`_,
+`source on GitHub <https://github.com/PierrePaul/html5-dopetrope>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/html5-dopetrope/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/html5-dopetrope/status.svg
@@ -373,7 +373,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `irfan <http://www.svenkreiss.com/pelican-theme-validator/irfan/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/irfan/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/irfan/>`_,
+`source on GitHub <https://github.com/erfaan/pelican-theme-irfan>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/irfan/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/irfan/status.svg
@@ -388,7 +388,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `iris <http://www.svenkreiss.com/pelican-theme-validator/iris/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/iris/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/iris/>`_,
+`source on GitHub <https://github.com/slok/iris>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/iris/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/iris/status.svg
@@ -403,7 +403,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `jesuislibre <http://www.svenkreiss.com/pelican-theme-validator/jesuislibre/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/jesuislibre/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/jesuislibre/>`_,
+`source on GitHub <https://github.com/badele/pelican-theme-jesuislibre>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/jesuislibre/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/jesuislibre/status.svg
@@ -418,7 +418,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `Just-Read <http://www.svenkreiss.com/pelican-theme-validator/Just-Read/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/Just-Read/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/Just-Read/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/Just-Read>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/Just-Read/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/Just-Read/status.svg
@@ -433,7 +433,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `lannisport <http://www.svenkreiss.com/pelican-theme-validator/lannisport/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/lannisport/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/lannisport/>`_,
+`source on GitHub <https://github.com/siovene/lannisport>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/lannisport/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/lannisport/status.svg
@@ -448,7 +448,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `lazystrap <http://www.svenkreiss.com/pelican-theme-validator/lazystrap/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/lazystrap/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/lazystrap/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/lazystrap>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/lazystrap/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/lazystrap/status.svg
@@ -463,7 +463,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `lightweight <http://www.svenkreiss.com/pelican-theme-validator/lightweight/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/lightweight/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/lightweight/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/lightweight>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/lightweight/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/lightweight/status.svg
@@ -478,7 +478,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `lovers <http://www.svenkreiss.com/pelican-theme-validator/lovers/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/lovers/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/lovers/>`_,
+`source on GitHub <https://github.com/chdoig/pelican-bootstrap3-lovers>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/lovers/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/lovers/status.svg
@@ -493,7 +493,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `maggner-pelican <http://www.svenkreiss.com/pelican-theme-validator/maggner-pelican/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/maggner-pelican/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/maggner-pelican/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/maggner-pelican>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/maggner-pelican/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/maggner-pelican/status.svg
@@ -508,7 +508,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `martyalchin <http://www.svenkreiss.com/pelican-theme-validator/martyalchin/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/martyalchin/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/martyalchin/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/martyalchin>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/martyalchin/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/martyalchin/status.svg
@@ -523,7 +523,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `mnmlist <http://www.svenkreiss.com/pelican-theme-validator/mnmlist/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/mnmlist/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/mnmlist/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/mnmlist>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/mnmlist/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/mnmlist/status.svg
@@ -538,7 +538,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `monospace <http://www.svenkreiss.com/pelican-theme-validator/monospace/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/monospace/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/monospace/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/monospace>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/monospace/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/monospace/status.svg
@@ -553,7 +553,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `neat <http://www.svenkreiss.com/pelican-theme-validator/neat/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/neat/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/neat/>`_,
+`source on GitHub <https://github.com/BYK/pelican-neat>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/neat/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/neat/status.svg
@@ -568,7 +568,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `new-bootstrap2 <http://www.svenkreiss.com/pelican-theme-validator/new-bootstrap2/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/new-bootstrap2/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/new-bootstrap2/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/new-bootstrap2>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/new-bootstrap2/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/new-bootstrap2/status.svg
@@ -583,7 +583,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `niu-x2 <http://www.svenkreiss.com/pelican-theme-validator/niu-x2/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/niu-x2/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/niu-x2/>`_,
+`source on GitHub <http://github.com/wilbur-ma/niu-x2>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/niu-x2/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/niu-x2/status.svg
@@ -598,7 +598,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `nmnlist <http://www.svenkreiss.com/pelican-theme-validator/nmnlist/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/nmnlist/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/nmnlist/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/nmnlist>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/nmnlist/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/nmnlist/status.svg
@@ -613,7 +613,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `notebook <http://www.svenkreiss.com/pelican-theme-validator/notebook/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/notebook/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/notebook/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/notebook>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/notebook/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/notebook/status.svg
@@ -628,7 +628,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `notmyidea-cms <http://www.svenkreiss.com/pelican-theme-validator/notmyidea-cms/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/notmyidea-cms/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/notmyidea-cms/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/notmyidea-cms>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/notmyidea-cms/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/notmyidea-cms/status.svg
@@ -643,7 +643,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `notmyidea-cms-fr <http://www.svenkreiss.com/pelican-theme-validator/notmyidea-cms-fr/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/notmyidea-cms-fr/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/notmyidea-cms-fr/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/notmyidea-cms-fr>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/notmyidea-cms-fr/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/notmyidea-cms-fr/status.svg
@@ -658,7 +658,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `pelican-bootstrap3 <http://www.svenkreiss.com/pelican-theme-validator/pelican-bootstrap3/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/pelican-bootstrap3/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/pelican-bootstrap3/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/pelican-bootstrap3/status.svg
@@ -673,7 +673,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `pelican-cait <http://www.svenkreiss.com/pelican-theme-validator/pelican-cait/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/pelican-cait/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/pelican-cait/>`_,
+`source on GitHub <https://github.com/hdra/pelican-cait>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/pelican-cait/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/pelican-cait/status.svg
@@ -688,7 +688,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `pelican-iliork <http://www.svenkreiss.com/pelican-theme-validator/pelican-iliork/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/pelican-iliork/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/pelican-iliork/>`_,
+`source on GitHub <https://github.com/yuex/pelican-iliork>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/pelican-iliork/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/pelican-iliork/status.svg
@@ -703,7 +703,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `pelican-mockingbird <http://www.svenkreiss.com/pelican-theme-validator/pelican-mockingbird/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/pelican-mockingbird/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/pelican-mockingbird/>`_,
+`source on GitHub <https://github.com/wrl/pelican-mockingbird>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/pelican-mockingbird/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/pelican-mockingbird/status.svg
@@ -718,7 +718,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `pelican-simplegrey <http://www.svenkreiss.com/pelican-theme-validator/pelican-simplegrey/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/pelican-simplegrey/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/pelican-simplegrey/>`_,
+`source on GitHub <https://github.com/fle/pelican-simplegrey>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/pelican-simplegrey/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/pelican-simplegrey/status.svg
@@ -733,7 +733,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `pelican-sober <http://www.svenkreiss.com/pelican-theme-validator/pelican-sober/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/pelican-sober/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/pelican-sober/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/pelican-sober>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/pelican-sober/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/pelican-sober/status.svg
@@ -748,7 +748,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `pelicanthemes-generator <http://www.svenkreiss.com/pelican-theme-validator/pelicanthemes-generator/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/pelicanthemes-generator/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/pelicanthemes-generator/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/pelicanthemes-generator>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/pelicanthemes-generator/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/pelicanthemes-generator/status.svg
@@ -763,7 +763,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `pelipress <http://www.svenkreiss.com/pelican-theme-validator/pelipress/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/pelipress/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/pelipress/>`_,
+`source on GitHub <https://github.com/jjimenezlopez/pelipress>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/pelipress/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/pelipress/status.svg
@@ -778,7 +778,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `plumage <http://www.svenkreiss.com/pelican-theme-validator/plumage/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/plumage/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/plumage/>`_,
+`source on GitHub <https://github.com/kdeldycke/plumage>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/plumage/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/plumage/status.svg
@@ -793,7 +793,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `pujangga <http://www.svenkreiss.com/pelican-theme-validator/pujangga/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/pujangga/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/pujangga/>`_,
+`source on GitHub <https://github.com/habibillah/pujangga>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/pujangga/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/pujangga/status.svg
@@ -808,7 +808,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `pure <http://www.svenkreiss.com/pelican-theme-validator/pure/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/pure/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/pure/>`_,
+`source on GitHub <https://github.com/danclaudiupop/pure>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/pure/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/pure/status.svg
@@ -823,7 +823,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `relapse <http://www.svenkreiss.com/pelican-theme-validator/relapse/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/relapse/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/relapse/>`_,
+`source on GitHub <https://github.com/wamonite/relapse>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/relapse/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/relapse/status.svg
@@ -838,7 +838,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `Responsive-Pelican <http://www.svenkreiss.com/pelican-theme-validator/Responsive-Pelican/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/Responsive-Pelican/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/Responsive-Pelican/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/Responsive-Pelican>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/Responsive-Pelican/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/Responsive-Pelican/status.svg
@@ -853,7 +853,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `simple-bootstrap <http://www.svenkreiss.com/pelican-theme-validator/simple-bootstrap/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/simple-bootstrap/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/simple-bootstrap/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/simple-bootstrap>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/simple-bootstrap/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/simple-bootstrap/status.svg
@@ -868,7 +868,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `sneakyidea <http://www.svenkreiss.com/pelican-theme-validator/sneakyidea/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/sneakyidea/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/sneakyidea/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/sneakyidea>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/sneakyidea/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/sneakyidea/status.svg
@@ -883,7 +883,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `SoMA <http://www.svenkreiss.com/pelican-theme-validator/SoMA/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/SoMA/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/SoMA/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/SoMA>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/SoMA/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/SoMA/status.svg
@@ -898,7 +898,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `SoMA2 <http://www.svenkreiss.com/pelican-theme-validator/SoMA2/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/SoMA2/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/SoMA2/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/SoMA2>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/SoMA2/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/SoMA2/status.svg
@@ -913,7 +913,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `sora <http://www.svenkreiss.com/pelican-theme-validator/sora/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/sora/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/sora/>`_,
+`source on GitHub <https://github.com/if1live/pelican-sora>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/sora/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/sora/status.svg
@@ -928,7 +928,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `storm <http://www.svenkreiss.com/pelican-theme-validator/storm/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/storm/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/storm/>`_,
+`source on GitHub <https://github.com/redVi/storm>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/storm/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/storm/status.svg
@@ -943,7 +943,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `subtle <http://www.svenkreiss.com/pelican-theme-validator/subtle/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/subtle/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/subtle/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/subtle>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/subtle/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/subtle/status.svg
@@ -958,7 +958,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `sundown <http://www.svenkreiss.com/pelican-theme-validator/sundown/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/sundown/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/sundown/>`_,
+`source on GitHub <https://github.com/keningle/pelican-sundown>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/sundown/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/sundown/status.svg
@@ -973,7 +973,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `svbhack <http://www.svenkreiss.com/pelican-theme-validator/svbhack/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/svbhack/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/svbhack/>`_,
+`source on GitHub <https://github.com/giulivo/pelican-svbhack>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/svbhack/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/svbhack/status.svg
@@ -988,7 +988,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `svbtle <http://www.svenkreiss.com/pelican-theme-validator/svbtle/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/svbtle/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/svbtle/>`_,
+`source on GitHub <https://github.com/wting/pelican-svbtle>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/svbtle/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/svbtle/status.svg
@@ -1003,7 +1003,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `syte <http://www.svenkreiss.com/pelican-theme-validator/syte/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/syte/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/syte/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/syte>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/syte/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/syte/status.svg
@@ -1018,7 +1018,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `tuxlite_tbs <http://www.svenkreiss.com/pelican-theme-validator/tuxlite_tbs/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/tuxlite_tbs/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/tuxlite_tbs/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/tuxlite_tbs>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/tuxlite_tbs/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/tuxlite_tbs/status.svg
@@ -1033,7 +1033,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `tuxlite_zf <http://www.svenkreiss.com/pelican-theme-validator/tuxlite_zf/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/tuxlite_zf/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/tuxlite_zf/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/tuxlite_zf>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/tuxlite_zf/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/tuxlite_zf/status.svg
@@ -1048,7 +1048,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `twenty-html5up <http://www.svenkreiss.com/pelican-theme-validator/twenty-html5up/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/twenty-html5up/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/twenty-html5up/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/twenty-html5up>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/twenty-html5up/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/twenty-html5up/status.svg
@@ -1063,7 +1063,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `voidy-bootstrap <http://www.svenkreiss.com/pelican-theme-validator/voidy-bootstrap/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/voidy-bootstrap/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/voidy-bootstrap/>`_,
+`source on GitHub <https://github.com/robulouski/voidy-bootstrap>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/voidy-bootstrap/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/voidy-bootstrap/status.svg
@@ -1078,7 +1078,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `water-iris <http://www.svenkreiss.com/pelican-theme-validator/water-iris/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/water-iris/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/water-iris/>`_,
+`source on GitHub <https://github.com/jarv/water-iris>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/water-iris/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/water-iris/status.svg
@@ -1093,7 +1093,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `waterspill <http://www.svenkreiss.com/pelican-theme-validator/waterspill/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/waterspill/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/waterspill/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/waterspill>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/waterspill/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/waterspill/status.svg
@@ -1108,7 +1108,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `waterspill-en <http://www.svenkreiss.com/pelican-theme-validator/waterspill-en/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/waterspill-en/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/waterspill-en/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/waterspill-en>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/waterspill-en/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/waterspill-en/status.svg
@@ -1123,7 +1123,7 @@ Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.
 `zurb-F5-basic <http://www.svenkreiss.com/pelican-theme-validator/zurb-F5-basic/output/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `live preview <http://www.svenkreiss.com/pelican-theme-validator/zurb-F5-basic/output/>`_,
-`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/zurb-F5-basic/>`_,
+`source on GitHub <https://github.com/getpelican/pelican-themes/tree/master/zurb-F5-basic>`_,
 `html5validator output <http://www.svenkreiss.com/pelican-theme-validator/zurb-F5-basic/html5validator.txt>`_
 
 .. image:: http://www.svenkreiss.com/pelican-theme-validator/zurb-F5-basic/status.svg
