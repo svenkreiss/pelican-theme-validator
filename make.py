@@ -16,7 +16,8 @@ def rst_git_info(location):
     repo = git.Repo(location)
     headcommit = repo.heads[0].commit
     out = 'Based on commit '+headcommit.id_abbrev+' from ' + \
-          time.strftime('%a, %d %b %Y %H:%M', headcommit.committed_date)+'.'
+          time.strftime('%a, %d %b %Y %H:%M', headcommit.committed_date) + \
+          '.\n\n'
     return out
 
 
