@@ -29,12 +29,12 @@ def rst(themes):
         out += '\n'
         out += title+'\n'
         out += '+'*len(title)+'\n'
-        out += '.. image:: http://www.svenkreiss.com/pelican-theme-validator/{0}/status.svg\n'.format(t)
-        out += '    :target: http://www.svenkreiss.com/pelican-theme-validator/{0}/html5validator.txt\n'.format(t)
-        out += '\n'
-        out += '`preview <http://www.svenkreiss.com/pelican-theme-validator/{0}/output/>`_,\n'.format(t)
+        out += '`live preview <http://www.svenkreiss.com/pelican-theme-validator/{0}/output/>`_,\n'.format(t)
         out += '`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/{0}/>`_,\n'.format(t)
         out += '`html5validator output <http://www.svenkreiss.com/pelican-theme-validator/{0}/html5validator.txt>`_\n'.format(t)
+        out += '\n'
+        out += '.. image:: http://www.svenkreiss.com/pelican-theme-validator/{0}/status.svg\n'.format(t)
+        out += '    :target: http://www.svenkreiss.com/pelican-theme-validator/{0}/html5validator.txt\n'.format(t)
         out += '\n'
         out += '.. image:: http://www.svenkreiss.com/pelican-theme-validator/{0}/screen_capture.png\n'.format(t)
         out += '    :target: http://www.svenkreiss.com/pelican-theme-validator/{0}/output/\n'.format(t)
