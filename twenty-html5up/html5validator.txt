@@ -1,16 +1,4 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/authors.html":14.59-14.59: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/authors.html":14.130-14.130: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/index.html":23.106-23.106: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/index.html":23.110-23.110: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/my-first-review.html":30.101-30.101: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/my-first-review.html":30.105-30.105: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/author/sven-kreiss.html":15.47-15.47: error: Element “me@svenkreiss.com” not allowed as child of element “h2” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/author/sven-kreiss.html":15.52-15.52: error: End tag “h2” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/author/sven-kreiss.html":15.47-15.47: error: Unclosed element “me@svenkreiss.com”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/author/sven-kreiss.html":23.107-23.107: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/author/sven-kreiss.html":23.111-23.111: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/category/review.html":23.107-23.107: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/category/review.html":23.111-23.111: error: End tag “a” violates nesting rules.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/theme/templates/github-view.html":1.59-1.59: error: Start tag seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/theme/templates/github-view.html":1.59-1.59: error: Element “head” is missing a required instance of child element “title”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/twenty-html5up/output/theme/templates/github-view.html":5.67-5.67: error: Bad value “http://github.com/{{ login }}” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.

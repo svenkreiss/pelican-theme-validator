@@ -1,26 +1,5 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/archives.html":100.77-100.77: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/archives.html":100.81-100.81: error: End tag “p” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/archives.html":100.77-100.77: error: Unclosed element “me@svenkreiss.com”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/categories.html":91.77-91.77: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/categories.html":91.81-91.81: error: End tag “p” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/categories.html":91.77-91.77: error: Unclosed element “me@svenkreiss.com”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/index.html":117.77-117.77: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/index.html":117.81-117.81: error: End tag “p” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/index.html":117.77-117.77: error: Unclosed element “me@svenkreiss.com”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/my-first-review.html":107.77-107.77: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/my-first-review.html":107.81-107.81: error: End tag “p” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/my-first-review.html":107.77-107.77: error: Unclosed element “me@svenkreiss.com”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":92.77-92.77: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":92.81-92.81: error: End tag “p” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":92.77-92.77: error: Unclosed element “me@svenkreiss.com”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/author/sven-kreiss.html":117.77-117.77: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/author/sven-kreiss.html":117.81-117.81: error: End tag “p” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/author/sven-kreiss.html":117.77-117.77: error: Unclosed element “me@svenkreiss.com”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/category/review.html":117.77-117.77: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/category/review.html":117.81-117.81: error: End tag “p” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/category/review.html":117.77-117.77: error: Unclosed element “me@svenkreiss.com”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/theme/templates/github-view.html":1.59-1.59: error: Start tag seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/theme/templates/github-view.html":1.59-1.59: error: Element “head” is missing a required instance of child element “title”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/theme/templates/github-view.html":5.67-5.67: error: Bad value “http://github.com/{{ login }}” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.

@@ -1,11 +1,4 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/archives.html":125.81-125.81: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/archives.html":125.90-125.90: error: End tag “p” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/archives.html":125.81-125.81: error: Unclosed element “me@svenkreiss.com”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/authors.html":52.59-52.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/authors.html":52.130-52.130: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/authors.html":113.81-113.81: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/authors.html":113.90-113.90: error: End tag “p” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/authors.html":113.81-113.81: error: Unclosed element “me@svenkreiss.com”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":53.49-53.49: error: End tag “li” seen, but there were open elements.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":53.38-53.38: error: Unclosed element “a”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":53.50-53.50: error: Element “a” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
@@ -14,29 +7,6 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":66.33-66.33: error: An “a” start tag seen but an element of the same type was already open.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":66.33-66.33: error: End tag “a” violates nesting rules.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":66.33-66.33: error fatal: Cannot recover after last error. Any further errors will be ignored.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/index.html":62.85-62.85: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/index.html":62.89-62.89: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/index.html":145.81-145.81: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/index.html":145.90-145.90: error: End tag “p” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/index.html":145.81-145.81: error: Unclosed element “me@svenkreiss.com”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/my-first-review.html":57.85-57.85: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/my-first-review.html":57.89-57.89: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/my-first-review.html":128.81-128.81: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/my-first-review.html":128.90-128.90: error: End tag “p” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/my-first-review.html":128.81-128.81: error: Unclosed element “me@svenkreiss.com”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/tags.html":114.81-114.81: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/tags.html":114.90-114.90: error: End tag “p” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/tags.html":114.81-114.81: error: Unclosed element “me@svenkreiss.com”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/author/sven-kreiss.html":62.86-62.86: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/author/sven-kreiss.html":62.90-62.90: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/author/sven-kreiss.html":145.82-145.82: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/author/sven-kreiss.html":145.91-145.91: error: End tag “p” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/author/sven-kreiss.html":145.82-145.82: error: Unclosed element “me@svenkreiss.com”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/category/review.html":62.86-62.86: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/category/review.html":62.90-62.90: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/category/review.html":145.82-145.82: error: Element “me@svenkreiss.com” not allowed as child of element “p” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/category/review.html":145.91-145.91: error: End tag “p” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/category/review.html":145.82-145.82: error: Unclosed element “me@svenkreiss.com”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/theme/templates/github-view.html":1.59-1.59: error: Start tag seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/theme/templates/github-view.html":1.59-1.59: error: Element “head” is missing a required instance of child element “title”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/theme/templates/github-view.html":5.67-5.67: error: Bad value “http://github.com/{{ login }}” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.

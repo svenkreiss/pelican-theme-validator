@@ -1,33 +1,4 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/archives.html":56.57-56.57: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/archives.html":56.61-56.61: error: End tag “a” violates nesting rules.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/authors.html":43.59-43.59: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/authors.html":43.130-43.130: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/authors.html":49.57-49.57: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/authors.html":49.61-49.61: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/categories.html":51.57-51.57: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/categories.html":51.61-51.61: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/index.html":58.53-58.53: error: Element “me@svenkreiss.com” not allowed as child of element “abbr” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/index.html":60.21-60.21: error: End tag “abbr” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/index.html":58.53-58.53: error: Unclosed element “me@svenkreiss.com”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/index.html":79.57-79.57: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/index.html":79.61-79.61: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/my-first-review.html":52.43-52.43: error: Element “me@svenkreiss.com” not allowed as child of element “abbr” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/my-first-review.html":54.11-54.11: error: End tag “abbr” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/my-first-review.html":52.43-52.43: error: Unclosed element “me@svenkreiss.com”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/my-first-review.html":65.57-65.57: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/my-first-review.html":65.61-65.61: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/tags.html":51.57-51.57: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/tags.html":51.61-51.61: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/author/sven-kreiss.html":58.53-58.53: error: Element “me@svenkreiss.com” not allowed as child of element “abbr” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/author/sven-kreiss.html":60.21-60.21: error: End tag “abbr” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/author/sven-kreiss.html":58.53-58.53: error: Unclosed element “me@svenkreiss.com”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/author/sven-kreiss.html":79.58-79.58: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/author/sven-kreiss.html":79.62-79.62: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/category/review.html":58.53-58.53: error: Element “me@svenkreiss.com” not allowed as child of element “abbr” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/category/review.html":60.21-60.21: error: End tag “abbr” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/category/review.html":58.53-58.53: error: Unclosed element “me@svenkreiss.com”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/category/review.html":79.58-79.58: error: Element “me@svenkreiss.com” not allowed as child of element “a” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/category/review.html":79.62-79.62: error: End tag “a” violates nesting rules.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/theme/templates/github-view.html":1.59-1.59: error: Start tag seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/theme/templates/github-view.html":1.59-1.59: error: Element “head” is missing a required instance of child element “title”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/water-iris/output/theme/templates/github-view.html":5.67-5.67: error: Bad value “http://github.com/{{ login }}” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
