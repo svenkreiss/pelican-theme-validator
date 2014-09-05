@@ -15,6 +15,7 @@ def rst(themes):
     for t in themes:
         out += t+'\n'
         out += '+'*len(t)+'\n'
+        out += '`preview <http://www.svenkreiss.com/pelican-theme-validator/{0}/>`_\n'
         out += '.. image:: https://travis-ci.org/svenkreiss/pelican-theme-validator.svg?branch={0}\n'.format(t)
         out += '    :target: https://travis-ci.org/svenkreiss/pelican-theme-validator/branches\n'
         out += '\n'
@@ -61,11 +62,17 @@ def main():
     for t in themes:
         print('--- '+t+' ---')
         rebuild(args.themes+t)
+        # copy for gh-pages
+        os.system('mkdir -p output_all/'+t)
+        os.system('cp -r output output_all/'+t)
         # cp the travis file
-        os.system("cp travis_for_theme_branches.yml output/.travis.yml")
+        os.system('cp travis_for_theme_branches.yml output/.travis.yml')
         # import into branch and git push
-        os.system("ghp-import -b {0} {1}".format(t, "output/"))
-        os.system("git push origin {0}".format(t))
+        os.system('ghp-import -b {0} {1}'.format(t, 'output/'))
+        os.system('git push origin {0}'.format(t))
+
+    os.system('ghp-import -b gh-pages output_all')
+    os.system('git push origin gh-pages')
 
 
 if __name__ == "__main__":
