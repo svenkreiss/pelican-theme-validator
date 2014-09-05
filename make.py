@@ -10,13 +10,35 @@ def rebuild(theme):
     os.system("PELICAN_THEME={0} make html".format(theme))
 
 
-def rst(themes, output="THEMES.rst"):
-    with open(output, 'w') as f:
-        for t in themes:
-            f.write(t+'\n')
-            f.write('+'*len(t)+'\n')
-            f.write('.. image:: https://travis-ci.org/svenkreiss/pelican-theme-validator.svg?branch={0}\n'.format(t))
-            f.write('\n')
+def rst(themes):
+    out = ''
+    for t in themes:
+        out += t+'\n'
+        out += '+'*len(t)+'\n'
+        out += '.. image:: https://travis-ci.org/svenkreiss/pelican-theme-validator.svg?branch={0}\n'.format(t)
+        out += '    ..target:: https://travis-ci.org/svenkreiss/pelican-theme-validator/branches\n'
+        out += '\n'
+    return out
+
+
+def rst_write(themes):
+    # process THEMES.rst
+    with open("THEMES.rst", 'w') as f:
+        f.write(rst(themes))
+
+    # process README.rst
+    readme = open('README.rst', 'r').readlines()
+    # cut old list
+    begin_marker = readme.index('.. include-list-of-themes\n')
+    end_marker = readme.index('.. end-list-of-themes\n')
+    if begin_marker and end_marker:
+        readme = readme[:begin_marker+1] + readme[end_marker:]
+    # write new README and insert new list
+    with open('README.rst', 'w') as f_readme:
+        for l in readme:
+            f_readme.write(l)
+            if '.. include-list-of-themes' in l:
+                f_readme.write(rst(themes))
 
 
 def main():
@@ -34,7 +56,7 @@ def main():
     # for tests, just do one
     themes = themes[10:11]
 
-    rst(themes)
+    rst_write(themes)
 
     for t in themes:
         print('--- '+t+' ---')
