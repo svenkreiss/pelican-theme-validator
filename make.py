@@ -2,6 +2,8 @@
 """Run this to recreate output for all themes."""
 
 import os
+import git
+import time
 import argparse
 
 
@@ -10,14 +12,22 @@ def rebuild(theme):
     os.system("PELICAN_THEME={0} make html".format(theme))
 
 
+def rst_git_info(location):
+    repo = git.Repo(location)
+    headcommit = repo.heads[0].commit
+    out = 'Based on commit '+headcommit.id_abbrev+' from ' + \
+          time.strftime('%a, %d %b %Y %H:%M', headcommit.committed_date)+'.'
+    return out
+
+
 def rst(themes):
     out = ''
     for t in themes:
         title = '`{0} <http://www.svenkreiss.com/pelican-theme-validator/{0}/output/>`_'.format(t)
         out += title+'\n'
         out += '+'*len(title)+'\n'
-        out += '.. image:: https://travis-ci.org/svenkreiss/pelican-theme-validator.svg?branch={0}\n'.format(t)
-        out += '    :target: https://travis-ci.org/svenkreiss/pelican-theme-validator/branches\n'
+        out += '.. image:: http://www.svenkreiss.com/pelican-theme-validator/{0}/status.svg\n'.format(t)
+        out += '    :target: http://www.svenkreiss.com/pelican-theme-validator/{0}/html5validator.txt\n'.format(t)
         out += '\n'
         out += '`preview <http://www.svenkreiss.com/pelican-theme-validator/{0}/output/>`_,\n'.format(t)
         out += '`source on GitHub <http://github.com/getpelican/pelican-themes/tree/master/{0}/>`_,\n'.format(t)
@@ -30,7 +40,7 @@ def rst(themes):
     return out
 
 
-def rst_write(themes):
+def rst_write(themes, location):
     # process THEMES.rst
     with open("THEMES.rst", 'w') as f:
         f.write(rst(themes))
@@ -42,12 +52,16 @@ def rst_write(themes):
     end_marker = readme.index('.. end-list-of-themes\n')
     if begin_marker and end_marker:
         readme = readme[:begin_marker+1] + readme[end_marker:]
+    # get new info (if anything goes wrong, this does not overwrite the README)
+    info = rst_git_info(location)
+    themes_list = rst(themes)
     # write new README and insert new list
     with open('README.rst', 'w') as f_readme:
         for l in readme:
             f_readme.write(l)
             if '.. include-list-of-themes' in l:
-                f_readme.write(rst(themes))
+                f_readme.write(info)
+                f_readme.write(themes_list)
 
 
 def main():
@@ -72,7 +86,7 @@ def main():
     # for tests, just do one
     # themes = themes[0:1]
 
-    rst_write(themes)
+    rst_write(themes, args.themes)
 
     for t in themes:
         print('--- '+t+' ---')
@@ -82,14 +96,11 @@ def main():
         os.system('cp -r output output_all/'+t)
 
         if not args.skip_validation:
-            # cp the travis file
-            os.system('cp travis_for_theme_branches.yml output/.travis.yml')
-            # import into branch and git push
-            os.system('ghp-import -b {0} {1}'.format(t, 'output/'))
-            os.system('git push origin {0}'.format(t))
-
-        print('--- local: '+t+' ---')
-        os.system('html5validator --root=output_all/'+t+'/output/ --blacklist=templates 2>&1 | tee output_all/'+t+'/html5validator.txt')
+            s = os.system('html5validator --root=output_all/'+t+'/output/ --blacklist=templates &> output_all/'+t+'/html5validator.txt')
+            if s == 0:
+                os.system('cp badges/HTML5-valid-green.svg output_all/'+t+'/status.svg')
+            else:
+                os.system('cp badges/HTML5-invalid-red.svg output_all/'+t+'/status.svg')
 
     if not args.skip_screen_captures:
         # create screen captures with phantomjs

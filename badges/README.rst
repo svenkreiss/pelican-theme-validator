@@ -1,0 +1,1 @@
+Generated with `shields.io <http://shields.io/>`_.
