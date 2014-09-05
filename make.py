@@ -37,7 +37,7 @@ def rst(themes):
         out += '.. image:: http://www.svenkreiss.com/pelican-theme-validator/{0}/screen_capture.png\n'.format(t)
         out += '    :target: http://www.svenkreiss.com/pelican-theme-validator/{0}/output/\n'.format(t)
         out += '    :alt: preview of theme {0}\n'.format(t)
-        out += '    :scale: 30%\n'
+        out += '    :width: 200px\n'
         out += '\n'
     return out
 
