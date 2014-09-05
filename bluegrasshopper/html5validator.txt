@@ -1,11 +1,32 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/index.html":51.17-51.17: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/index.html":52.22-52.22: error: Stray end tag “section”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/tags.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/tags.html": error: Element “head” is missing a required instance of child element “title”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/author/sven-kreiss.html":51.17-51.17: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/author/sven-kreiss.html":52.22-52.22: error: Stray end tag “section”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/category/review.html":51.17-51.17: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/category/review.html":52.22-52.22: error: Stray end tag “section”.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 702, in <module>
+    class Environment(object):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 705, in Environment
+    def __init__(self, search_path=None, platform=get_supported_platform(), python=PY_MAJOR):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 144, in get_supported_platform
+    plat = 'macosx-%s-%s' % ('.'.join(_macosx_vers()[:2]), m.group(3))
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 237, in _macosx_vers
+    version = platform.mac_ver()[0]
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/platform.py", line 809, in mac_ver
+    info = _mac_ver_xml()
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/platform.py", line 782, in _mac_ver_xml
+    import plistlib
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plistlib.py", line 209, in <module>
+    r"[\x00\x01\x02\x03\x04\x05\x06\x07\x08\x0b\x0c\x0e\x0f"
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 196, in compile
+    return _compile(pattern, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 246, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 502, in compile
+    code = _code(p, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 487, in _code
+    _compile(code, p.data, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 57, in _compile
+    _compile_charset(av, flags, code, fixup)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 183, in _compile_charset
+    for op, av in _optimize_charset(charset, fixup):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 231, in _optimize_charset
+    for c in charmap:
+KeyboardInterrupt

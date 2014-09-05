@@ -1,12 +1,12 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/index.html":42.4-42.4: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/index.html":45.5-45.5: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/my-first-review.html":44.4-44.4: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/tags.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/tags.html": error: Element “head” is missing a required instance of child element “title”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/author/sven-kreiss.html":42.4-42.4: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/author/sven-kreiss.html":45.5-45.5: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/category/review.html":42.4-42.4: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/category/review.html":45.5-45.5: error: Stray end tag “ol”.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 22, in <module>
+    import zipfile
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/zipfile.py", line 420, in <module>
+    class _ZipDecrypter:
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/zipfile.py", line 451, in _ZipDecrypter
+    crctable = _GenerateCRCTable()
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/zipfile.py", line 445, in _GenerateCRCTable
+    if crc & 1:
+KeyboardInterrupt

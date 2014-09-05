@@ -1,1 +1,34 @@
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 22, in <module>
+    import zipfile
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/zipfile.py", line 8, in <module>
+    import string
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/string.py", line 124, in <module>
+    class Template:
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/string.py", line 121, in __init__
+    cls.pattern = _re.compile(pattern, _re.IGNORECASE | _re.VERBOSE)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 196, in compile
+    return _compile(pattern, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 246, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 502, in compile
+    code = _code(p, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 487, in _code
+    _compile(code, p.data, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 101, in _compile
+    _compile(code, av[1], flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 142, in _compile
+    _compile(code, av, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 101, in _compile
+    _compile(code, av[1], flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 82, in _compile
+    _compile(code, av[2], flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 57, in _compile
+    _compile_charset(av, flags, code, fixup)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 183, in _compile_charset
+    for op, av in _optimize_charset(charset, fixup):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 219, in _optimize_charset
+    for i in range(fixup(av[0]), fixup(av[1])+1):
+KeyboardInterrupt

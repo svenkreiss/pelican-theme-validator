@@ -1,26 +1,6 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/archives.html":9.52-9.52: error: Bad value “kittycheck_rumble” for attribute “name” on element “meta”: Keyword “kittycheck_rumble” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/archives.html":10.65-10.65: error: Bad value “kittycheck_position” for attribute “name” on element “meta”: Keyword “kittycheck_position” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/archives.html":70.41-70.41: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/archives.html":84.22-84.22: error: Duplicate ID “content”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/categories.html":9.52-9.52: error: Bad value “kittycheck_rumble” for attribute “name” on element “meta”: Keyword “kittycheck_rumble” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/categories.html":10.65-10.65: error: Bad value “kittycheck_position” for attribute “name” on element “meta”: Keyword “kittycheck_position” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/categories.html":70.41-70.41: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/index.html":9.52-9.52: error: Bad value “kittycheck_rumble” for attribute “name” on element “meta”: Keyword “kittycheck_rumble” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/index.html":10.65-10.65: error: Bad value “kittycheck_position” for attribute “name” on element “meta”: Keyword “kittycheck_position” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/index.html":70.41-70.41: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/my-first-review.html":9.52-9.52: error: Bad value “kittycheck_rumble” for attribute “name” on element “meta”: Keyword “kittycheck_rumble” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/my-first-review.html":10.65-10.65: error: Bad value “kittycheck_position” for attribute “name” on element “meta”: Keyword “kittycheck_position” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/my-first-review.html":70.41-70.41: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/my-first-review.html":97.35-97.35: error: Duplicate ID “content”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/tags.html":9.52-9.52: error: Bad value “kittycheck_rumble” for attribute “name” on element “meta”: Keyword “kittycheck_rumble” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/tags.html":10.65-10.65: error: Bad value “kittycheck_position” for attribute “name” on element “meta”: Keyword “kittycheck_position” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/tags.html":70.41-70.41: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/author/sven-kreiss.html":9.52-9.52: error: Bad value “kittycheck_rumble” for attribute “name” on element “meta”: Keyword “kittycheck_rumble” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/author/sven-kreiss.html":10.65-10.65: error: Bad value “kittycheck_position” for attribute “name” on element “meta”: Keyword “kittycheck_position” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/author/sven-kreiss.html":70.41-70.41: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/category/review.html":9.52-9.52: error: Bad value “kittycheck_rumble” for attribute “name” on element “meta”: Keyword “kittycheck_rumble” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/category/review.html":10.65-10.65: error: Bad value “kittycheck_position” for attribute “name” on element “meta”: Keyword “kittycheck_position” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/new-bootstrap2/output/category/review.html":70.41-70.41: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 15, in <module>
+    """
+KeyboardInterrupt

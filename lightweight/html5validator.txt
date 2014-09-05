@@ -1,23 +1,4 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/archives.html":1.2-1.2: error: Saw “<?”. Probable cause: Attempt to use an XML processing instruction in HTML. (XML processing instructions are not supported in HTML.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/archives.html":23.38-23.38: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/authors.html":1.2-1.2: error: Saw “<?”. Probable cause: Attempt to use an XML processing instruction in HTML. (XML processing instructions are not supported in HTML.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/categories.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/categories.html": error: Element “head” is missing a required instance of child element “title”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/index.html":1.2-1.2: error: Saw “<?”. Probable cause: Attempt to use an XML processing instruction in HTML. (XML processing instructions are not supported in HTML.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/index.html":27.20-27.20: error: Text not allowed in element “details” in this context.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/index.html":27.81-27.81: error: Element “details” is missing a required instance of child element “summary”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/index.html":27.81-27.81: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/my-first-review.html":1.2-1.2: error: Saw “<?”. Probable cause: Attempt to use an XML processing instruction in HTML. (XML processing instructions are not supported in HTML.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/my-first-review.html":32.20-32.20: error: Text not allowed in element “details” in this context.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/my-first-review.html":32.81-32.81: error: Element “details” is missing a required instance of child element “summary”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/my-first-review.html":32.81-32.81: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/tags.html":1.2-1.2: error: Saw “<?”. Probable cause: Attempt to use an XML processing instruction in HTML. (XML processing instructions are not supported in HTML.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/author/sven-kreiss.html":1.2-1.2: error: Saw “<?”. Probable cause: Attempt to use an XML processing instruction in HTML. (XML processing instructions are not supported in HTML.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/author/sven-kreiss.html":27.20-27.20: error: Text not allowed in element “details” in this context.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/author/sven-kreiss.html":27.81-27.81: error: Element “details” is missing a required instance of child element “summary”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/author/sven-kreiss.html":27.81-27.81: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/category/review.html":1.2-1.2: error: Saw “<?”. Probable cause: Attempt to use an XML processing instruction in HTML. (XML processing instructions are not supported in HTML.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/category/review.html":28.20-28.20: error: Text not allowed in element “details” in this context.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/category/review.html":28.81-28.81: error: Element “details” is missing a required instance of child element “summary”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lightweight/output/category/review.html":28.81-28.81: error: Attribute “pubdate” not allowed on element “time” at this point.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/encodings/__init__.py", line 29, in <module>
+    """#"
+KeyboardInterrupt

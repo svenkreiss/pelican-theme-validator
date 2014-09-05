@@ -1,17 +1,32 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/archives.html":10.112-10.112: error: Bad value “http://fonts.googleapis.com/css?family=PT+Sans|PT+Serif|PT+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/archives.html":63.15-63.15: error: Named character reference was not terminated by a semicolon. (Or “&” should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/authors.html":10.112-10.112: error: Bad value “http://fonts.googleapis.com/css?family=PT+Sans|PT+Serif|PT+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/authors.html":59.15-59.15: error: Named character reference was not terminated by a semicolon. (Or “&” should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/categories.html":10.112-10.112: error: Bad value “http://fonts.googleapis.com/css?family=PT+Sans|PT+Serif|PT+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/categories.html":62.15-62.15: error: Named character reference was not terminated by a semicolon. (Or “&” should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/index.html":10.112-10.112: error: Bad value “http://fonts.googleapis.com/css?family=PT+Sans|PT+Serif|PT+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/index.html":66.15-66.15: error: Named character reference was not terminated by a semicolon. (Or “&” should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/my-first-review.html":10.112-10.112: error: Bad value “http://fonts.googleapis.com/css?family=PT+Sans|PT+Serif|PT+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/my-first-review.html":66.15-66.15: error: Named character reference was not terminated by a semicolon. (Or “&” should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/tags.html":10.112-10.112: error: Bad value “http://fonts.googleapis.com/css?family=PT+Sans|PT+Serif|PT+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/tags.html":61.15-61.15: error: Named character reference was not terminated by a semicolon. (Or “&” should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/author/sven-kreiss.html":10.112-10.112: error: Bad value “http://fonts.googleapis.com/css?family=PT+Sans|PT+Serif|PT+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/author/sven-kreiss.html":64.15-64.15: error: Named character reference was not terminated by a semicolon. (Or “&” should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/category/review.html":10.112-10.112: error: Bad value “http://fonts.googleapis.com/css?family=PT+Sans|PT+Serif|PT+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbhack/output/category/review.html":65.15-65.15: error: Named character reference was not terminated by a semicolon. (Or “&” should have been escaped as “&amp;”.)
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 22, in <module>
+    import zipfile
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/zipfile.py", line 8, in <module>
+    import string
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/string.py", line 124, in <module>
+    class Template:
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/string.py", line 121, in __init__
+    cls.pattern = _re.compile(pattern, _re.IGNORECASE | _re.VERBOSE)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 196, in compile
+    return _compile(pattern, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 246, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 498, in compile
+    p = sre_parse.parse(p, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 685, in parse
+    p = _parse_sub(source, pattern, 0)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 308, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 645, in _parse
+    p = _parse_sub(source, state)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 308, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 407, in _parse
+    this = sourceget()
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 203, in get
+    self.__next()
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 193, in __next
+    self.index = self.index + len(char)
+KeyboardInterrupt

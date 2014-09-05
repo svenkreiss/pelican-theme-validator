@@ -1,15 +1,16 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/BT3-Flat/output/index.html":17.128-17.128: error: Bad value “https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800|Dosis:300,400” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/BT3-Flat/output/index.html":290.89-290.89: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/BT3-Flat/output/my-first-review.html":17.128-17.128: error: Bad value “https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800|Dosis:300,400” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/BT3-Flat/output/my-first-review.html":106.169-106.169: error: Bad value “tag tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/BT3-Flat/output/my-first-review.html":124.60-124.60: error: “&” did not start a character reference. (“&” probably should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/BT3-Flat/output/my-first-review.html":124.87-124.87: error: “&” did not start a character reference. (“&” probably should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/BT3-Flat/output/my-first-review.html":124.109-124.109: error: “&” did not start a character reference. (“&” probably should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/BT3-Flat/output/my-first-review.html":124.118-124.118: error: “&” did not start a character reference. (“&” probably should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/BT3-Flat/output/my-first-review.html":124.212-124.212: error: Bad value “http://www.linkedin.com/shareArticle?mini=true&url=./my-first-review.html&title=My First Review&summary=&source=” for attribute “href” on element “a”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/BT3-Flat/output/author/sven-kreiss.html":17.128-17.128: error: Bad value “https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800|Dosis:300,400” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/BT3-Flat/output/author/sven-kreiss.html":290.89-290.89: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/BT3-Flat/output/category/review.html":17.128-17.128: error: Bad value “https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800|Dosis:300,400” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/BT3-Flat/output/category/review.html":106.114-106.114: error: End tag “span” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/BT3-Flat/output/category/review.html":106.87-106.87: error: Unclosed element “a”.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 702, in <module>
+    class Environment(object):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 705, in Environment
+    def __init__(self, search_path=None, platform=get_supported_platform(), python=PY_MAJOR):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 140, in get_supported_platform
+    plat = get_build_platform()
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 266, in get_build_platform
+    plat = get_platform()
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sysconfig.py", line 602, in get_platform
+    import _osx_support
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/_osx_support.py", line 1, in <module>
+    """Shared OS X support functions."""
+KeyboardInterrupt

@@ -1,1 +1,18 @@
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 702, in <module>
+    class Environment(object):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 705, in Environment
+    def __init__(self, search_path=None, platform=get_supported_platform(), python=PY_MAJOR):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 144, in get_supported_platform
+    plat = 'macosx-%s-%s' % ('.'.join(_macosx_vers()[:2]), m.group(3))
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 237, in _macosx_vers
+    version = platform.mac_ver()[0]
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/platform.py", line 809, in mac_ver
+    info = _mac_ver_xml()
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/platform.py", line 782, in _mac_ver_xml
+    import plistlib
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plistlib.py", line 62, in <module>
+    import datetime
+KeyboardInterrupt

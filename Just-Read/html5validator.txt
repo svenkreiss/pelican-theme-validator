@@ -1,17 +1,8 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/archives.html":12.121-12.121: error: Bad value “http://fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/archives.html":43.106-43.106: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/authors.html":12.121-12.121: error: Bad value “http://fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/categories.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/categories.html": error: Element “head” is missing a required instance of child element “title”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/index.html":12.121-12.121: error: Bad value “http://fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/index.html":37.7-37.7: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/index.html":41.6-41.6: error: Stray end tag “div”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/my-first-review.html":12.121-12.121: error: Bad value “http://fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/my-first-review.html":43.52-43.52: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/tags.html":12.121-12.121: error: Bad value “http://fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/author/sven-kreiss.html":12.121-12.121: error: Bad value “http://fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/author/sven-kreiss.html":37.7-37.7: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/author/sven-kreiss.html":41.6-41.6: error: Stray end tag “div”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/category/review.html":12.121-12.121: error: Bad value “http://fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/Just-Read/output/category/review.html":35.108-35.108: error: Attribute “pubdate” not allowed on element “time” at this point.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 22, in <module>
+    import zipfile
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/zipfile.py", line 11, in <module>
+    import zlib # We may need its compression method
+KeyboardInterrupt

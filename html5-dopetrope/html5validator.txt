@@ -1,14 +1,12 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/archives.html":74.82-74.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/authors.html":72.82-72.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/categories.html":71.82-71.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/index.html":56.98-56.98: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/index.html":89.82-89.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/my-first-review.html":59.59-59.59: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/my-first-review.html":59.59-59.59: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/my-first-review.html":86.82-86.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tags.html":68.82-68.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/author/sven-kreiss.html":56.99-56.99: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/author/sven-kreiss.html":89.82-89.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/category/review.html":56.99-56.99: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/category/review.html":89.82-89.82: error: No “p” element in scope but a “p” end tag seen.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 22, in <module>
+    import zipfile
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/zipfile.py", line 4, in <module>
+    import struct, os, time, sys, shutil
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/shutil.py", line 12, in <module>
+    import collections
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/collections.py", line 9, in <module>
+    from operator import itemgetter as _itemgetter, eq as _eq
+KeyboardInterrupt

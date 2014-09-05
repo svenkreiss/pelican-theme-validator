@@ -1,9 +1,8 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":53.49-53.49: error: End tag “li” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":53.38-53.38: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":53.50-53.50: error: Element “a” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":54.5-54.5: error: End tag “ul” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":56.14-56.14: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":66.33-66.33: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":66.33-66.33: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_tbs/output/categories.html":66.33-66.33: error fatal: Cannot recover after last error. Any further errors will be ignored.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 26, in <module>
+    import functools
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/functools.py", line 10, in <module>
+    from _functools import partial, reduce
+KeyboardInterrupt

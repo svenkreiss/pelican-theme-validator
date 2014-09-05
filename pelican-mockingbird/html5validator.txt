@@ -1,1 +1,14 @@
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 2688, in <module>
+    _declare_state('object', working_set = WorkingSet())
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 430, in __init__
+    self.add_entry(entry)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 444, in add_entry
+    for dist in find_distributions(entry, True):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 1764, in find_on_path
+    if os.path.isdir(fullpath):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/../lib/python2.7/genericpath.py", line 41, in isdir
+    st = os.stat(s)
+KeyboardInterrupt

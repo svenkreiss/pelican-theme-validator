@@ -1,4 +1,6 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap/output/my-first-review.html":73.7-73.7: error: End tag for  “body” seen, but there were unclosed elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap/output/my-first-review.html":54.24-54.24: error: Unclosed element “div”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap/output/my-first-review.html":35.30-35.30: error: Unclosed element “div”.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 15, in <module>
+    """
+KeyboardInterrupt

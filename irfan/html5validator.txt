@@ -1,14 +1,8 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/archives.html":74.82-74.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/authors.html":72.82-72.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/categories.html":71.82-71.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/index.html":56.98-56.98: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/index.html":89.82-89.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/my-first-review.html":59.59-59.59: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/my-first-review.html":59.59-59.59: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/my-first-review.html":86.82-86.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/tags.html":68.82-68.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/author/sven-kreiss.html":56.99-56.99: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/author/sven-kreiss.html":89.82-89.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/category/review.html":56.99-56.99: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/irfan/output/category/review.html":89.82-89.82: error: No “p” element in scope but a “p” end tag seen.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 31, in <module>
+    import platform
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/platform.py", line 10, in <module>
+    """
+KeyboardInterrupt

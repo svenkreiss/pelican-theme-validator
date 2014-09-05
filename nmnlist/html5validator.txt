@@ -1,3 +1,12 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/nmnlist/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/nmnlist/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 22, in <module>
+    import zipfile
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/zipfile.py", line 4, in <module>
+    import struct, os, time, sys, shutil
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/shutil.py", line 12, in <module>
+    import collections
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/collections.py", line 1, in <module>
+    __all__ = ['Counter', 'deque', 'defaultdict', 'namedtuple', 'OrderedDict']
+KeyboardInterrupt

@@ -1,3 +1,8 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 31, in <module>
+    import platform
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/platform.py", line 10, in <module>
+    """
+KeyboardInterrupt

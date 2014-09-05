@@ -1,9 +1,15 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/archives.html":25.7-25.7: error: Stray end tag “head”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/authors.html":25.7-25.7: error: Stray end tag “head”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/categories.html":25.7-25.7: error: Stray end tag “head”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/index.html":25.7-25.7: error: Stray end tag “head”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/my-first-review.html":29.7-29.7: error: Stray end tag “head”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/tags.html":25.7-25.7: error: Stray end tag “head”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/author/sven-kreiss.html":25.7-25.7: error: Stray end tag “head”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/category/review.html":25.7-25.7: error: Stray end tag “head”.
 Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 9, in <module>
+    load_entry_point('html5validator==0.1.5', 'console_scripts', 'html5validator')()
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/html5validator/cli.py", line 26, in main
+    sys.exit(v.validate(files, errors_only=args.error_only))
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/html5validator/validator.py", line 63, in validate
+    opts + files)
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/subprocess.py", line 522, in call
+    return Popen(*popenargs, **kwargs).wait()
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/subprocess.py", line 1375, in wait
+    pid, sts = _eintr_retry_call(os.waitpid, self.pid, 0)
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/subprocess.py", line 476, in _eintr_retry_call
+    return func(*args)
+KeyboardInterrupt

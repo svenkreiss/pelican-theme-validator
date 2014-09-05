@@ -1,12 +1,6 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/archives.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/authors.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/categories.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/index.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/index.html":56.18-56.18: error: Stray end tag “footer”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/my-first-review.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/my-first-review.html":61.17-61.17: error: Stray end tag “footer”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/tags.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/author/sven-kreiss.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/author/sven-kreiss.html":56.18-56.18: error: Stray end tag “footer”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/category/review.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/encodings/__init__.py", line 100, in search_function
+    level=0)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/encodings/utf_8.py", line 18, in <module>
+    class IncrementalEncoder(codecs.IncrementalEncoder):
+KeyboardInterrupt

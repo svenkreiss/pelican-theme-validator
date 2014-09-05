@@ -1,9 +1,16 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootlex/output/archives.html":6.111-6.111: error: Bad value “http://fonts.googleapis.com/css?family=Arimo:400,700|Inika” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootlex/output/authors.html":6.111-6.111: error: Bad value “http://fonts.googleapis.com/css?family=Arimo:400,700|Inika” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootlex/output/categories.html":6.111-6.111: error: Bad value “http://fonts.googleapis.com/css?family=Arimo:400,700|Inika” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootlex/output/index.html":6.111-6.111: error: Bad value “http://fonts.googleapis.com/css?family=Arimo:400,700|Inika” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootlex/output/my-first-review.html":6.111-6.111: error: Bad value “http://fonts.googleapis.com/css?family=Arimo:400,700|Inika” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootlex/output/tags.html":6.111-6.111: error: Bad value “http://fonts.googleapis.com/css?family=Arimo:400,700|Inika” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootlex/output/author/sven-kreiss.html":6.111-6.111: error: Bad value “http://fonts.googleapis.com/css?family=Arimo:400,700|Inika” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootlex/output/category/review.html":6.111-6.111: error: Bad value “http://fonts.googleapis.com/css?family=Arimo:400,700|Inika” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 2719, in <module>
+    list(map(working_set.add_entry,sys.path)) # match order
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 444, in add_entry
+    for dist in find_distributions(entry, True):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 1770, in find_on_path
+    path_item,entry,metadata,precedence=DEVELOP_DIST
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 2147, in from_location
+    py_version=py_version, platform=platform, **kw
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 2126, in __init__
+    self._version = safe_version(version)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 1091, in safe_version
+    version = version.replace(' ','.')
+KeyboardInterrupt

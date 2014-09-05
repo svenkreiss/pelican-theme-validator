@@ -1,12 +1,6 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/archives.html":73.53-73.53: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/archives.html":87.22-87.22: error: Duplicate ID “content”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/categories.html":73.53-73.53: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/index.html":73.53-73.53: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/my-first-review.html":73.53-73.53: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/my-first-review.html":87.22-87.22: error: Duplicate ID “content”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/tags.html":73.53-73.53: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/author/sven-kreiss.html":73.53-73.53: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap2-dark/output/category/review.html":73.53-73.53: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/encodings/__init__.py", line 31, in <module>
+    import codecs
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/codecs.py", line 8, in <module>
+    """#"
+KeyboardInterrupt

@@ -1,5 +1,24 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/SoMA2/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/SoMA2/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/SoMA2/output/categories.html":1.4-1.4: error: Start tag seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/SoMA2/output/categories.html":1.4-1.4: error: Element “head” is missing a required instance of child element “title”.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 35, in <module>
+    from urlparse import urlparse, urlunparse
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urlparse.py", line 333, in <module>
+    _asciire = re.compile('([\x00-\x7f]+)')
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 196, in compile
+    return _compile(pattern, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 246, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 502, in compile
+    code = _code(p, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 484, in _code
+    _compile_info(code, p, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 363, in _compile_info
+    lo, hi = pattern.getwidth()
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 162, in getwidth
+    i, j = av[1].getwidth()
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 166, in getwidth
+    i, j = av[2].getwidth()
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 173, in getwidth
+    break
+KeyboardInterrupt

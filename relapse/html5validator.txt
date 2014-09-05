@@ -1,28 +1,10 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/archives.html":108.12-108.12: error: Stray end tag “div”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/archives.html":115.7-115.7: error: End tag for  “body” seen, but there were unclosed elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/archives.html":41.19-41.19: error: Unclosed element “section”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/categories.html":107.12-107.12: error: Stray end tag “div”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/categories.html":114.7-114.7: error: End tag for  “body” seen, but there were unclosed elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/categories.html":41.19-41.19: error: Unclosed element “section”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/index.html":67.14-67.14: error: Element “detail” not allowed as child of element “article” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/index.html":118.12-118.12: error: Stray end tag “div”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/index.html":125.7-125.7: error: End tag for  “body” seen, but there were unclosed elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/index.html":41.19-41.19: error: Unclosed element “section”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/my-first-review.html":66.8-66.8: error: Element “detail” not allowed as child of element “article” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/my-first-review.html":114.12-114.12: error: Stray end tag “div”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/my-first-review.html":121.7-121.7: error: End tag for  “body” seen, but there were unclosed elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/my-first-review.html":41.19-41.19: error: Unclosed element “section”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/tags.html":106.12-106.12: error: Stray end tag “div”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/tags.html":113.7-113.7: error: End tag for  “body” seen, but there were unclosed elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/tags.html":41.19-41.19: error: Unclosed element “section”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/author/sven-kreiss.html":69.14-69.14: error: Element “detail” not allowed as child of element “article” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/author/sven-kreiss.html":121.12-121.12: error: Stray end tag “div”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/author/sven-kreiss.html":128.7-128.7: error: End tag for  “body” seen, but there were unclosed elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/author/sven-kreiss.html":41.19-41.19: error: Unclosed element “section”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/category/review.html":69.14-69.14: error: Element “detail” not allowed as child of element “article” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/category/review.html":121.12-121.12: error: Stray end tag “div”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/category/review.html":128.7-128.7: error: End tag for  “body” seen, but there were unclosed elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/relapse/output/category/review.html":41.19-41.19: error: Unclosed element “section”.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 20, in <module>
+    import re
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 111, in <module>
+    import sre_compile
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 11, in <module>
+    """Internal support module for sre"""
+KeyboardInterrupt

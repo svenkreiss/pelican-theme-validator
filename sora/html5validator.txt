@@ -1,5 +1,6 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/sora/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/sora/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/sora/output/categories.html":1.4-1.4: error: Start tag seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/sora/output/categories.html":1.4-1.4: error: Element “head” is missing a required instance of child element “title”.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/encodings/__init__.py", line 32, in <module>
+    from encodings import aliases
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/encodings/aliases.py", line 17, in <module>
+    """
+KeyboardInterrupt

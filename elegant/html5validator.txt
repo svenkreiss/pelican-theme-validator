@@ -1,15 +1,8 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/elegant/output/archives.html":7.55-7.55: error: Bad value “copyright” for attribute “name” on element “meta”: Keyword “copyright” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/elegant/output/archives.html":60.73-60.73: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/elegant/output/authors.html":7.55-7.55: error: Bad value “copyright” for attribute “name” on element “meta”: Keyword “copyright” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/elegant/output/categories.html":7.55-7.55: error: Bad value “copyright” for attribute “name” on element “meta”: Keyword “copyright” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/elegant/output/categories.html":70.99-70.99: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/elegant/output/index.html":7.55-7.55: error: Bad value “copyright” for attribute “name” on element “meta”: Keyword “copyright” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/elegant/output/index.html":64.77-64.77: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/elegant/output/my-first-review.html":7.55-7.55: error: Bad value “copyright” for attribute “name” on element “meta”: Keyword “copyright” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/elegant/output/my-first-review.html":73.73-73.73: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/elegant/output/tags.html":7.55-7.55: error: Bad value “copyright” for attribute “name” on element “meta”: Keyword “copyright” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/elegant/output/author/sven-kreiss.html":7.55-7.55: error: Bad value “copyright” for attribute “name” on element “meta”: Keyword “copyright” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/elegant/output/author/sven-kreiss.html":63.77-63.77: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/elegant/output/category/review.html":7.55-7.55: error: Bad value “copyright” for attribute “name” on element “meta”: Keyword “copyright” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/elegant/output/category/review.html":64.77-64.77: error: Attribute “pubdate” not allowed on element “time” at this point.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 22, in <module>
+    import zipfile
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/zipfile.py", line 3, in <module>
+    """
+KeyboardInterrupt

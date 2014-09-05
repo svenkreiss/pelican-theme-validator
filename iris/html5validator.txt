@@ -1,25 +1,22 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/archives.html":55.216-55.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/archives.html":63.121-63.121: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/archives.html":64.89-64.89: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/authors.html":51.216-51.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/authors.html":59.121-59.121: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/authors.html":60.89-60.89: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/categories.html":50.216-50.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/categories.html":58.121-58.121: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/categories.html":59.89-59.89: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/index.html":77.216-77.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/index.html":85.121-85.121: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/index.html":86.89-86.89: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/my-first-review.html":64.216-64.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/my-first-review.html":72.121-72.121: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/my-first-review.html":73.89-73.89: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/tags.html":50.216-50.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/tags.html":58.121-58.121: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/tags.html":59.89-59.89: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/author/sven-kreiss.html":77.216-77.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/author/sven-kreiss.html":85.121-85.121: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/author/sven-kreiss.html":86.89-86.89: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/category/review.html":77.216-77.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/category/review.html":85.121-85.121: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/category/review.html":86.89-86.89: error: An “a” start tag seen but an element of the same type was already open.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 702, in <module>
+    class Environment(object):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 705, in Environment
+    def __init__(self, search_path=None, platform=get_supported_platform(), python=PY_MAJOR):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 144, in get_supported_platform
+    plat = 'macosx-%s-%s' % ('.'.join(_macosx_vers()[:2]), m.group(3))
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 237, in _macosx_vers
+    version = platform.mac_ver()[0]
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/platform.py", line 809, in mac_ver
+    info = _mac_ver_xml()
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/platform.py", line 786, in _mac_ver_xml
+    pl = plistlib.readPlist(fn)
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plistlib.py", line 78, in readPlist
+    rootObject = p.parse(pathOrFile)
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plistlib.py", line 401, in parse
+    from xml.parsers.expat import ParserCreate
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/parsers/expat.py", line 4, in <module>
+    from pyexpat import *
+KeyboardInterrupt

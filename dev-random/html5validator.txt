@@ -1,23 +1,8 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/archives.html":28.17-28.17: error: The element “h2” must not appear as a descendant of the “dt” element.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/archives.html":41.12-41.12: error: Element “dl” is missing a required instance of child element “dd”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/archives.html":64.62-64.62: error: Bad value “You can add links in your config file” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/archives.html":65.44-65.44: error: Bad value “Another social link” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/authors.html":49.62-49.62: error: Bad value “You can add links in your config file” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/authors.html":50.44-50.44: error: Bad value “Another social link” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/categories.html":51.62-51.62: error: Bad value “You can add links in your config file” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/categories.html":52.44-52.44: error: Bad value “Another social link” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/index.html":30.71-30.71: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/index.html":79.62-79.62: error: Bad value “You can add links in your config file” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/index.html":80.44-80.44: error: Bad value “Another social link” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/my-first-review.html":29.69-29.69: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/my-first-review.html":75.62-75.62: error: Bad value “You can add links in your config file” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/my-first-review.html":76.44-76.44: error: Bad value “Another social link” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/tags.html":61.62-61.62: error: Bad value “You can add links in your config file” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/tags.html":62.44-62.44: error: Bad value “Another social link” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/author/sven-kreiss.html":30.71-30.71: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/author/sven-kreiss.html":79.62-79.62: error: Bad value “You can add links in your config file” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/author/sven-kreiss.html":80.44-80.44: error: Bad value “Another social link” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/category/review.html":30.71-30.71: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/category/review.html":79.62-79.62: error: Bad value “You can add links in your config file” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random/output/category/review.html":80.44-80.44: error: Bad value “Another social link” for attribute “href” on element “a”: Illegal character in path segment: not a URL code point.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 31, in <module>
+    import platform
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/platform.py", line 10, in <module>
+    """
+KeyboardInterrupt

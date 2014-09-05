@@ -1,14 +1,14 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbtle/output/archives.html":8.120-8.120: error: Bad value “http://fonts.googleapis.com/css?family=Open+Sans:800,400,300|Inconsolata” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbtle/output/authors.html":8.120-8.120: error: Bad value “http://fonts.googleapis.com/css?family=Open+Sans:800,400,300|Inconsolata” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbtle/output/categories.html":8.120-8.120: error: Bad value “http://fonts.googleapis.com/css?family=Open+Sans:800,400,300|Inconsolata” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbtle/output/categories.html":55.6-55.6: error: Element “ul” not allowed as child of element “dl” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbtle/output/index.html":8.120-8.120: error: Bad value “http://fonts.googleapis.com/css?family=Open+Sans:800,400,300|Inconsolata” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbtle/output/index.html":55.6-55.6: error: Element “ol” not allowed as child of element “dl” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbtle/output/my-first-review.html":8.120-8.120: error: Bad value “http://fonts.googleapis.com/css?family=Open+Sans:800,400,300|Inconsolata” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbtle/output/tags.html":8.120-8.120: error: Bad value “http://fonts.googleapis.com/css?family=Open+Sans:800,400,300|Inconsolata” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbtle/output/tags.html":55.6-55.6: error: Element “ul” not allowed as child of element “dl” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbtle/output/author/sven-kreiss.html":8.120-8.120: error: Bad value “http://fonts.googleapis.com/css?family=Open+Sans:800,400,300|Inconsolata” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbtle/output/author/sven-kreiss.html":55.6-55.6: error: Element “ol” not allowed as child of element “dl” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbtle/output/category/review.html":8.120-8.120: error: Bad value “http://fonts.googleapis.com/css?family=Open+Sans:800,400,300|Inconsolata” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/svbtle/output/category/review.html":55.6-55.6: error: Element “ol” not allowed as child of element “dl” in this context. (Suppressing further errors from this subtree.)
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 22, in <module>
+    import zipfile
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/zipfile.py", line 4, in <module>
+    import struct, os, time, sys, shutil
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/shutil.py", line 12, in <module>
+    import collections
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/collections.py", line 12, in <module>
+    import heapq as _heapq
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/heapq.py", line 31, in <module>
+    """
+KeyboardInterrupt

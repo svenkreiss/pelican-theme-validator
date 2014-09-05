@@ -1,11 +1,10 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/archives.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/authors.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/authors.html":66.12-66.12: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/categories.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/index.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/my-first-review.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/tags.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/tags.html":86.54-86.54: error: Duplicate ID “tags”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/author/sven-kreiss.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/category/review.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 20, in <module>
+    import re
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 111, in <module>
+    import sre_compile
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 11, in <module>
+    """Internal support module for sre"""
+KeyboardInterrupt

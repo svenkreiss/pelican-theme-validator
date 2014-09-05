@@ -1,32 +1,12 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/archives.html":8.28-8.28: error: Bad value “top” for attribute “rel” on element “link”: The string “top” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/archives.html":8.187-8.187: error: Bad value “http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic|Source+Code+Pro” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/archives.html":8.194-8.194: error: Stray end tag “link”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/authors.html":8.28-8.28: error: Bad value “top” for attribute “rel” on element “link”: The string “top” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/authors.html":8.187-8.187: error: Bad value “http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic|Source+Code+Pro” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/authors.html":8.194-8.194: error: Stray end tag “link”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/categories.html":8.28-8.28: error: Bad value “top” for attribute “rel” on element “link”: The string “top” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/categories.html":8.187-8.187: error: Bad value “http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic|Source+Code+Pro” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/categories.html":8.194-8.194: error: Stray end tag “link”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/index.html":8.28-8.28: error: Bad value “top” for attribute “rel” on element “link”: The string “top” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/index.html":8.187-8.187: error: Bad value “http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic|Source+Code+Pro” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/index.html":8.194-8.194: error: Stray end tag “link”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/index.html":39.15-39.15: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/index.html":82.7-82.7: error: Stray end tag “div”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/my-first-review.html":8.28-8.28: error: Bad value “top” for attribute “rel” on element “link”: The string “top” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/my-first-review.html":8.187-8.187: error: Bad value “http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic|Source+Code+Pro” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/my-first-review.html":8.194-8.194: error: Stray end tag “link”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/my-first-review.html":32.53-32.53: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/tags.html":8.28-8.28: error: Bad value “top” for attribute “rel” on element “link”: The string “top” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/tags.html":8.187-8.187: error: Bad value “http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic|Source+Code+Pro” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/tags.html":8.194-8.194: error: Stray end tag “link”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/author/sven-kreiss.html":8.28-8.28: error: Bad value “top” for attribute “rel” on element “link”: The string “top” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/author/sven-kreiss.html":8.187-8.187: error: Bad value “http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic|Source+Code+Pro” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/author/sven-kreiss.html":8.194-8.194: error: Stray end tag “link”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/author/sven-kreiss.html":32.53-32.53: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/author/sven-kreiss.html":41.75-41.75: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/category/review.html":8.28-8.28: error: Bad value “top” for attribute “rel” on element “link”: The string “top” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/category/review.html":8.187-8.187: error: Bad value “http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic|Source+Code+Pro” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/category/review.html":8.194-8.194: error: Stray end tag “link”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/category/review.html":32.53-32.53: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-simplegrey/output/category/review.html":41.75-41.75: error: No “p” element in scope but a “p” end tag seen.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/../lib/python2.7/site.py", line 703, in <module>
+    main()
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/../lib/python2.7/site.py", line 671, in main
+    abs__file__()
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/../lib/python2.7/site.py", line 111, in abs__file__
+    m.__file__ = os.path.abspath(f)
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/../lib/python2.7/posixpath.py", line 352, in abspath
+    if not isabs(path):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/../lib/python2.7/posixpath.py", line 59, in isabs
+    def isabs(s):
+KeyboardInterrupt

@@ -1,32 +1,20 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/archives.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/authors.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/categories.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/index.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/index.html":31.36-31.36: error: Element “a” not allowed as child of element “hgroup” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/index.html":32.26-32.26: error: Element “p” not allowed as child of element “hgroup” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/index.html":33.13-33.13: error: Element “hgroup” is missing a required instance of one or more of the following child elements: “h1”, “h2”, “h3”, “h4”, “h5”, “h6”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/index.html":38.23-38.23: error: The element “footer” must not appear as a descendant of the “header” element.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/index.html":51.93-51.93: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/index.html":61.17-61.17: error: Element “hr” not allowed as child of element “ol” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/my-first-review.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/my-first-review.html":32.36-32.36: error: Element “a” not allowed as child of element “hgroup” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/my-first-review.html":33.26-33.26: error: Element “p” not allowed as child of element “hgroup” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/my-first-review.html":34.13-34.13: error: Element “hgroup” is missing a required instance of one or more of the following child elements: “h1”, “h2”, “h3”, “h4”, “h5”, “h6”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/my-first-review.html":39.23-39.23: error: The element “footer” must not appear as a descendant of the “header” element.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/my-first-review.html":52.93-52.93: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/tags.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/author/sven-kreiss.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/author/sven-kreiss.html":31.37-31.37: error: Element “a” not allowed as child of element “hgroup” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/author/sven-kreiss.html":32.26-32.26: error: Element “p” not allowed as child of element “hgroup” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/author/sven-kreiss.html":33.13-33.13: error: Element “hgroup” is missing a required instance of one or more of the following child elements: “h1”, “h2”, “h3”, “h4”, “h5”, “h6”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/author/sven-kreiss.html":38.23-38.23: error: The element “footer” must not appear as a descendant of the “header” element.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/author/sven-kreiss.html":51.93-51.93: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/author/sven-kreiss.html":61.17-61.17: error: Element “hr” not allowed as child of element “ol” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/category/review.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/category/review.html":31.37-31.37: error: Element “a” not allowed as child of element “hgroup” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/category/review.html":32.26-32.26: error: Element “p” not allowed as child of element “hgroup” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/category/review.html":33.13-33.13: error: Element “hgroup” is missing a required instance of one or more of the following child elements: “h1”, “h2”, “h3”, “h4”, “h5”, “h6”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/category/review.html":38.23-38.23: error: The element “footer” must not appear as a descendant of the “header” element.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/category/review.html":51.93-51.93: error: Attribute “pubdate” not allowed on element “time” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-iliork/output/category/review.html":61.17-61.17: error: Element “hr” not allowed as child of element “ol” in this context. (Suppressing further errors from this subtree.)
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 31, in <module>
+    import platform
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/platform.py", line 1383, in <module>
+    r'([\w.+]+)\s*'
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 196, in compile
+    return _compile(pattern, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 246, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 498, in compile
+    p = sre_parse.parse(p, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 685, in parse
+    p = _parse_sub(source, pattern, 0)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 308, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 641, in _parse
+    group = state.opengroup(name)
+KeyboardInterrupt

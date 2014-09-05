@@ -1,19 +1,32 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/archives.html":36.45-36.45: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/authors.html":26.45-26.45: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/categories.html":36.45-36.45: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/index.html":36.45-36.45: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/my-first-review.html":36.45-36.45: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/my-first-review.html":68.284-68.284: error: “&” did not start a character reference. (“&” probably should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/my-first-review.html":68.305-68.305: error: “&” did not start a character reference. (“&” probably should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/my-first-review.html":68.311-68.311: error: Bad value “https://twitter.com/share?url=./my-first-review.html&text=My First Review&via=” for attribute “href” on element “a”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/my-first-review.html":70.135-70.135: error: “&” did not start a character reference. (“&” probably should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/my-first-review.html":72.294-72.294: error: “&” did not start a character reference. (“&” probably should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/my-first-review.html":72.313-72.313: error: Bad value “https://www.facebook.com/sharer.php?u=./my-first-review.html&t=My First Review” for attribute “href” on element “a”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/my-first-review.html":74.107-74.107: error: “&” did not start a character reference. (“&” probably should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/my-first-review.html":74.135-74.135: error: “&” did not start a character reference. (“&” probably should have been escaped as “&amp;”.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/my-first-review.html":74.310-74.310: error: Bad value “https://www.linkedin.com/shareArticle?mini=true&url=<./my-first-review.html&title=My First Review” for attribute “href” on element “a”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/my-first-review.html":76.233-76.233: error: Bad value “mailto:?subject=My First Review&body=Viens découvrir un article à propos de [My First Review] sur le site de Sven Kreiss. ./my-first-review.html” for attribute “href” on element “a”: Illegal character in query: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/tags.html":36.45-36.45: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/author/sven-kreiss.html":46.47-46.47: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notebook/output/category/review.html":46.47-46.47: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 702, in <module>
+    class Environment(object):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 705, in Environment
+    def __init__(self, search_path=None, platform=get_supported_platform(), python=PY_MAJOR):
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 144, in get_supported_platform
+    plat = 'macosx-%s-%s' % ('.'.join(_macosx_vers()[:2]), m.group(3))
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 237, in _macosx_vers
+    version = platform.mac_ver()[0]
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/platform.py", line 809, in mac_ver
+    info = _mac_ver_xml()
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/platform.py", line 782, in _mac_ver_xml
+    import plistlib
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plistlib.py", line 187, in <module>
+    _dateParser = re.compile(r"(?P<year>\d\d\d\d)(?:-(?P<month>\d\d)(?:-(?P<day>\d\d)(?:T(?P<hour>\d\d)(?::(?P<minute>\d\d)(?::(?P<second>\d\d))?)?)?)?)?Z")
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 196, in compile
+    return _compile(pattern, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 246, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 502, in compile
+    code = _code(p, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 487, in _code
+    _compile(code, p.data, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 101, in _compile
+    _compile(code, av[1], flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 57, in _compile
+    _compile_charset(av, flags, code, fixup)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 185, in _compile_charset
+    if op is NEGATE:
+KeyboardInterrupt

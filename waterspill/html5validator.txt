@@ -1,49 +1,30 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/archives.html":25.46-25.46: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/archives.html":25.18-25.18: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/archives.html":27.8-27.8: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/archives.html":32.21-32.21: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/archives.html":32.21-32.21: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/archives.html":32.21-32.21: error fatal: Cannot recover after last error. Any further errors will be ignored.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/authors.html":25.46-25.46: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/authors.html":25.18-25.18: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/authors.html":27.8-27.8: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/authors.html":32.21-32.21: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/authors.html":32.21-32.21: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/authors.html":32.21-32.21: error fatal: Cannot recover after last error. Any further errors will be ignored.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/categories.html":25.46-25.46: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/categories.html":25.18-25.18: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/categories.html":27.8-27.8: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/categories.html":32.21-32.21: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/categories.html":32.21-32.21: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/categories.html":32.21-32.21: error fatal: Cannot recover after last error. Any further errors will be ignored.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/index.html":25.46-25.46: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/index.html":25.18-25.18: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/index.html":27.8-27.8: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/index.html":32.21-32.21: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/index.html":32.21-32.21: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/index.html":32.21-32.21: error fatal: Cannot recover after last error. Any further errors will be ignored.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/my-first-review.html":25.46-25.46: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/my-first-review.html":25.18-25.18: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/my-first-review.html":27.8-27.8: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/my-first-review.html":32.21-32.21: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/my-first-review.html":32.21-32.21: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/my-first-review.html":32.21-32.21: error fatal: Cannot recover after last error. Any further errors will be ignored.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/tags.html":25.46-25.46: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/tags.html":25.18-25.18: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/tags.html":27.8-27.8: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/tags.html":32.21-32.21: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/tags.html":32.21-32.21: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/tags.html":32.21-32.21: error fatal: Cannot recover after last error. Any further errors will be ignored.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/author/sven-kreiss.html":25.47-25.47: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/author/sven-kreiss.html":25.19-25.19: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/author/sven-kreiss.html":27.8-27.8: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/author/sven-kreiss.html":32.22-32.22: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/author/sven-kreiss.html":32.22-32.22: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/author/sven-kreiss.html":32.22-32.22: error fatal: Cannot recover after last error. Any further errors will be ignored.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/category/review.html":25.47-25.47: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/category/review.html":25.19-25.19: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/category/review.html":27.8-27.8: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/category/review.html":32.22-32.22: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/category/review.html":32.22-32.22: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/waterspill/output/category/review.html":32.22-32.22: error fatal: Cannot recover after last error. Any further errors will be ignored.
-Found files to validate: 8
+Traceback (most recent call last):
+  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 22, in <module>
+    import zipfile
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/zipfile.py", line 8, in <module>
+    import string
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/string.py", line 124, in <module>
+    class Template:
+  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/string.py", line 121, in __init__
+    cls.pattern = _re.compile(pattern, _re.IGNORECASE | _re.VERBOSE)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 196, in compile
+    return _compile(pattern, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/re.py", line 246, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_compile.py", line 498, in compile
+    p = sre_parse.parse(p, flags)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 685, in parse
+    p = _parse_sub(source, pattern, 0)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 308, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 645, in _parse
+    p = _parse_sub(source, state)
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 308, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 407, in _parse
+    this = sourceget()
+  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/sre_parse.py", line 201, in get
+    def get(self):
+KeyboardInterrupt
