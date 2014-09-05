@@ -15,7 +15,7 @@ def rebuild(theme):
 def rst_git_info(location):
     repo = git.Repo(location)
     headcommit = repo.heads[0].commit
-    out = 'Based on commit '+headcommit.id_abbrev+' from ' + \
+    out = 'Based on commit ``'+headcommit.id_abbrev+'`` from ' + \
           time.strftime('%a, %d %b %Y %H:%M', headcommit.committed_date) + \
           '.\n\n'
     return out
@@ -37,7 +37,7 @@ def rst(themes):
         out += '.. image:: http://www.svenkreiss.com/pelican-theme-validator/{0}/screen_capture.png\n'.format(t)
         out += '    :target: http://www.svenkreiss.com/pelican-theme-validator/{0}/output/\n'.format(t)
         out += '    :alt: preview of theme {0}\n'.format(t)
-        out += '    :scale: 50%\n'
+        out += '    :scale: 30%\n'
         out += '\n'
     return out
 
