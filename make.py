@@ -25,6 +25,8 @@ def rst(themes):
     out = ''
     for t in themes:
         title = '`{0} <http://www.svenkreiss.com/pelican-theme-validator/{0}/output/>`_'.format(t)
+        out += '------\n'
+        out += '\n'
         out += title+'\n'
         out += '+'*len(title)+'\n'
         out += '.. image:: http://www.svenkreiss.com/pelican-theme-validator/{0}/status.svg\n'.format(t)
@@ -37,7 +39,6 @@ def rst(themes):
         out += '.. image:: http://www.svenkreiss.com/pelican-theme-validator/{0}/screen_capture.png\n'.format(t)
         out += '    :target: http://www.svenkreiss.com/pelican-theme-validator/{0}/output/\n'.format(t)
         out += '    :alt: preview of theme {0}\n'.format(t)
-        out += '    :width: 200px\n'
         out += '\n'
     return out
 
