@@ -1,0 +1,70 @@
+/*sticky footer*/
+
+html,
+body {
+  height: 100%;
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 60px;
+  border-width: 0;
+}
+
+html,
+body {
+  font-size: 15px;
+}
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+  font-size: 17px;
+}
+
+#footer .container {
+  font-size: 14px;
+  padding: 20px 0;
+}
+
+h1 {font-size: 1.7em;}
+h2 {font-size: 1.6em;}
+h3 {font-size: 1.5em;}
+h4 {font-size: 1.4em;}
+h5 {font-size: 1.3em;}
+h6 {font-size: 1.2em;}
+
+#article_info {
+  font-size: 1.0em;
+}
+
+blockquote p {
+  font-size: 1.0em;
+}
+
+.pagination {
+  font-size: 1.2em;
+}
+
+td.code {
+    width:100%;
+}
+
+p {
+  word-break: break-all;
+  /*hyphens: auto;*/
+  /*-ms-hyphens: auto;*/
+  /*-webkit-hyphens: auto;*/
+  /*-moz-hyphens: auto;*/
+}
