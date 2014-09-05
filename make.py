@@ -15,7 +15,7 @@ def rst(themes):
     for t in themes:
         out += t+'\n'
         out += '+'*len(t)+'\n'
-        out += '`preview <http://www.svenkreiss.com/pelican-theme-validator/{0}/>`_\n'
+        out += '`preview <http://www.svenkreiss.com/pelican-theme-validator/{0}/>`_\n\n'.format(t)
         out += '.. image:: https://travis-ci.org/svenkreiss/pelican-theme-validator.svg?branch={0}\n'.format(t)
         out += '    :target: https://travis-ci.org/svenkreiss/pelican-theme-validator/branches\n'
         out += '\n'
