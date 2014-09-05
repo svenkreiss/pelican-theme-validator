@@ -22,8 +22,10 @@ var/
 .installed.cfg
 *.egg
 
+.DS_Store
 cache/
 output/
+output_all/
 venv/
 
 # Installer logs

@@ -19,6 +19,9 @@ def rst(themes):
         out += '.. image:: https://travis-ci.org/svenkreiss/pelican-theme-validator.svg?branch={0}\n'.format(t)
         out += '    :target: https://travis-ci.org/svenkreiss/pelican-theme-validator/branches\n'
         out += '\n'
+        out += '.. image:: http://www.svenkreiss.com/pelican-theme-validator/{0}/screen_capture.png\n'.format(t)
+        out += '    :target: http://www.svenkreiss.com/pelican-theme-validator/{0}/output/\n'.format(t)
+        out += '\n'
     return out
 
 
@@ -45,6 +48,10 @@ def rst_write(themes):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("themes", help="path to clone of pelican-themes")
+    parser.add_argument("--skip_validation",
+                        action="store_true", default=False,
+                        help="skip validation and git pushes on individual "
+                        "branches")
     args = parser.parse_args()
 
     themes = os.listdir(args.themes)
@@ -59,18 +66,23 @@ def main():
 
     rst_write(themes)
 
-    for t in themes:
-        print('--- '+t+' ---')
-        rebuild(args.themes+t)
-        # copy for gh-pages
-        os.system('mkdir -p output_all/'+t)
-        os.system('cp -r output output_all/'+t)
-        # cp the travis file
-        os.system('cp travis_for_theme_branches.yml output/.travis.yml')
-        # import into branch and git push
-        os.system('ghp-import -b {0} {1}'.format(t, 'output/'))
-        os.system('git push origin {0}'.format(t))
+    if not args.skip_validation:
+        for t in themes:
+            print('--- '+t+' ---')
+            rebuild(args.themes+t)
+            # copy for gh-pages
+            os.system('mkdir -p output_all/'+t)
+            os.system('cp -r output output_all/'+t)
+            # cp the travis file
+            os.system('cp travis_for_theme_branches.yml output/.travis.yml')
+            # import into branch and git push
+            os.system('ghp-import -b {0} {1}'.format(t, 'output/'))
+            os.system('git push origin {0}'.format(t))
 
+    # create screen captures with phantomjs
+    os.system('phantomjs screen_captures.js')
+
+    # push gh-pages branch
     os.system('ghp-import -b gh-pages output_all')
     os.system('git push origin gh-pages')
 
