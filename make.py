@@ -21,6 +21,7 @@ def rst(themes):
         out += '\n'
         out += '.. image:: http://www.svenkreiss.com/pelican-theme-validator/{0}/screen_capture.png\n'.format(t)
         out += '    :target: http://www.svenkreiss.com/pelican-theme-validator/{0}/output/\n'.format(t)
+        out += '    :alt: preview of theme {0}\n'.format(t)
         out += '\n'
     return out
 
