@@ -19,6 +19,9 @@ def rst(themes):
         out += '.. image:: https://travis-ci.org/svenkreiss/pelican-theme-validator.svg?branch={0}\n'.format(t)
         out += '    :target: https://travis-ci.org/svenkreiss/pelican-theme-validator/branches\n'
         out += '\n'
+        out += '`preview <http://www.svenkreiss.com/pelican-theme-validator/{0}/output/>`_, '.format(t)
+        out += '`html5validator output <http://www.svenkreiss.com/pelican-theme-validator/{0}/html5validator.txt>`_\n'.format(t)
+        out += '\n'
         out += '.. image:: http://www.svenkreiss.com/pelican-theme-validator/{0}/screen_capture.png\n'.format(t)
         out += '    :target: http://www.svenkreiss.com/pelican-theme-validator/{0}/output/\n'.format(t)
         out += '    :alt: preview of theme {0}\n'.format(t)
@@ -79,6 +82,10 @@ def main():
             # import into branch and git push
             os.system('ghp-import -b {0} {1}'.format(t, 'output/'))
             os.system('git push origin {0}'.format(t))
+
+        for t in themes:
+            print('--- local: '+t+' ---')
+            os.system('html5validator --root=output_all/'+t+'/output/ | tee output_all/'+t+'/html5validator.txt')
 
     # create screen captures with phantomjs
     os.system('phantomjs screen_captures.js')
