@@ -8,6 +8,10 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/author/sven-kreiss.html":49.22-49.22: error: Stray end tag “section”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/category/review.html":48.17-48.17: error: Stray end tag “ol”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/category/review.html":49.22-49.22: error: Stray end tag “section”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/tag/keyboards.html":48.17-48.17: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/tag/keyboards.html":49.22-49.22: error: Stray end tag “section”.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/tag/galleries.html":48.17-48.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/tag/galleries.html":49.22-49.22: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/tag/pelican.html":48.17-48.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/tag/pelican.html":49.22-49.22: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/tag/themes.html":48.17-48.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/subtle/output/tag/themes.html":49.22-49.22: error: Stray end tag “section”.
+Found files to validate: 13

@@ -1,4 +1,10 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/tags.html":34.57-34.57: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/tag/keyboards.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/tag/keyboards.html": error: Element “head” is missing a required instance of child element “title”.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/tags.html":35.12-35.12: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/tags.html":36.12-36.12: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/tag/galleries.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/tag/galleries.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/tag/pelican.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/tag/pelican.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/tag/themes.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/crowsfoot/output/tag/themes.html": error: Element “head” is missing a required instance of child element “title”.
+Found files to validate: 13

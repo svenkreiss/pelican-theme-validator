@@ -1,7 +1,19 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/my-first-review.html":9.45-9.45: error: Bad value “tags” for attribute “name” on element “meta”: Keyword “tags” is not registered.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/my-first-review.html":9.45-9.45: error: Attribute “contents” not allowed on element “meta” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/my-first-review.html":9.45-9.45: error: Element “meta” is missing one or more of the following attributes: “content”, “property”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/tags.html":14.57-14.57: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/tag/keyboards.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/tag/keyboards.html": error: Element “head” is missing a required instance of child element “title”.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/tags.html":15.12-15.12: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/tags.html":16.12-16.12: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/theme-review.html":9.42-9.42: error: Bad value “tags” for attribute “name” on element “meta”: Keyword “tags” is not registered.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/theme-review.html":9.42-9.42: error: Attribute “contents” not allowed on element “meta” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/theme-review.html":9.42-9.42: error: Element “meta” is missing one or more of the following attributes: “content”, “property”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/theme-review.html":10.45-10.45: error: Bad value “tags” for attribute “name” on element “meta”: Keyword “tags” is not registered.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/theme-review.html":10.45-10.45: error: Attribute “contents” not allowed on element “meta” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/theme-review.html":10.45-10.45: error: Element “meta” is missing one or more of the following attributes: “content”, “property”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/theme-review.html":11.43-11.43: error: Bad value “tags” for attribute “name” on element “meta”: Keyword “tags” is not registered.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/theme-review.html":11.43-11.43: error: Attribute “contents” not allowed on element “meta” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/theme-review.html":11.43-11.43: error: Element “meta” is missing one or more of the following attributes: “content”, “property”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/tag/galleries.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/tag/galleries.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/tag/pelican.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/tag/pelican.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/tag/themes.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/burrito/output/tag/themes.html": error: Element “head” is missing a required instance of child element “title”.
+Found files to validate: 13

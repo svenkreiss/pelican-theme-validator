@@ -1,3 +1,3 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/pujangga/output/archives.html":51.48-51.48: error: Duplicate ID “content”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/pujangga/output/archives.html":66.13-66.13: error: Stray end tag “dl”.
-Found files to validate: 9
+Found files to validate: 13

@@ -2,10 +2,16 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/index.html":33.17-33.17: error: Stray end tag “ol”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/index.html":34.22-34.22: error: Stray end tag “section”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/tags.html":23.57-23.57: error: Element “li” not allowed as child of element “section” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/tags.html":24.12-24.12: error: Element “li” not allowed as child of element “section” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/tags.html":25.12-25.12: error: Element “li” not allowed as child of element “section” in this context. (Suppressing further errors from this subtree.)
 "file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/author/sven-kreiss.html":33.17-33.17: error: Stray end tag “ol”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/author/sven-kreiss.html":34.22-34.22: error: Stray end tag “section”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/category/review.html":33.17-33.17: error: Stray end tag “ol”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/category/review.html":34.22-34.22: error: Stray end tag “section”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/tag/keyboards.html":33.17-33.17: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/tag/keyboards.html":34.22-34.22: error: Stray end tag “section”.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/tag/galleries.html":33.17-33.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/tag/galleries.html":34.22-34.22: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/tag/pelican.html":33.17-33.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/tag/pelican.html":34.22-34.22: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/tag/themes.html":33.17-33.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/blueidea/output/tag/themes.html":34.22-34.22: error: Stray end tag “section”.
+Found files to validate: 13

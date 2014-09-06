@@ -1,14 +1,18 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/index.html":42.61-42.61: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/index.html":42.139-42.139: error: No “p” element in scope but a “p” end tag seen.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/index.html":45.5-45.5: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/my-first-review.html":44.61-44.61: error: No “p” element in scope but a “p” end tag seen.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/tags.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/tags.html": error: Element “head” is missing a required instance of child element “title”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/author/sven-kreiss.html":42.62-42.62: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/theme-review.html":44.139-44.139: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/author/sven-kreiss.html":42.142-42.142: error: No “p” element in scope but a “p” end tag seen.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/author/sven-kreiss.html":45.5-45.5: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/category/review.html":42.62-42.62: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/category/review.html":42.142-42.142: error: No “p” element in scope but a “p” end tag seen.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/category/review.html":45.5-45.5: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/tag/keyboards.html":42.62-42.62: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/tag/keyboards.html":45.5-45.5: error: Stray end tag “ol”.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/tag/galleries.html":42.142-42.142: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/tag/galleries.html":45.5-45.5: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/tag/pelican.html":42.142-42.142: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/tag/pelican.html":45.5-45.5: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/tag/themes.html":42.142-42.142: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/notmyidea-cms/output/tag/themes.html":45.5-45.5: error: Stray end tag “ol”.
+Found files to validate: 13

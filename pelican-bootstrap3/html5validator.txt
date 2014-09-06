@@ -3,10 +3,12 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/authors.html":66.12-66.12: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
 "file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/categories.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/index.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/my-first-review.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/tags.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/tags.html":98.54-98.54: error: Duplicate ID “tags”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/tags.html":122.54-122.54: error: Duplicate ID “tags”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/theme-review.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/author/sven-kreiss.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/category/review.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/tag/keyboards.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/tag/galleries.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/tag/pelican.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelican-bootstrap3/output/tag/themes.html":7.57-7.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+Found files to validate: 13

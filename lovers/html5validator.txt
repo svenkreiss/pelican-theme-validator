@@ -35,7 +35,7 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/index.html":4.52-4.52: error: Attribute “xmlns:og” not allowed here.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/index.html":4.52-4.52: error: Attribute “xmlns:fb” not allowed here.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/index.html":8.57-8.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/index.html":46.95-46.95: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/index.html":46.478-46.478: error: No “p” element in scope but a “p” end tag seen.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/index.html":69.101-69.101: error: Bad value “./theme/images/You can add links in your config file-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/index.html":69.101-69.101: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/index.html":69.107-69.107: error: Stray end tag “img”.
@@ -49,43 +49,43 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/index.html":101.198-101.198: error: Stray end tag “i”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/index.html":101.274-101.274: error: Stray end tag “i”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/index.html":101.336-101.336: error: Stray end tag “i”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":4.52-4.52: error: Attribute “xmlns:og” not allowed here.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":4.52-4.52: error: Attribute “xmlns:fb” not allowed here.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":8.57-8.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":93.101-93.101: error: Bad value “./theme/images/You can add links in your config file-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":93.101-93.101: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":93.107-93.107: error: Stray end tag “img”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":96.83-96.83: error: Bad value “./theme/images/Another social link-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":96.83-96.83: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":96.89-96.89: error: Stray end tag “img”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":107.36-107.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":109.36-109.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":111.36-111.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":113.36-113.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":125.198-125.198: error: Stray end tag “i”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":125.274-125.274: error: Stray end tag “i”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/my-first-review.html":125.336-125.336: error: Stray end tag “i”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":4.52-4.52: error: Attribute “xmlns:og” not allowed here.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":4.52-4.52: error: Attribute “xmlns:fb” not allowed here.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":8.57-8.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":60.101-60.101: error: Bad value “./theme/images/You can add links in your config file-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":60.101-60.101: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":60.107-60.107: error: Stray end tag “img”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":63.83-63.83: error: Bad value “./theme/images/Another social link-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":63.83-63.83: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":63.89-63.89: error: Stray end tag “img”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":74.36-74.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":62.101-62.101: error: Bad value “./theme/images/You can add links in your config file-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":62.101-62.101: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":62.107-62.107: error: Stray end tag “img”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":65.83-65.83: error: Bad value “./theme/images/Another social link-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":65.83-65.83: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":65.89-65.89: error: Stray end tag “img”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":76.36-76.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":78.36-78.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":80.36-80.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":92.198-92.198: error: Stray end tag “i”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":92.274-92.274: error: Stray end tag “i”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":92.336-92.336: error: Stray end tag “i”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":82.36-82.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":94.198-94.198: error: Stray end tag “i”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":94.274-94.274: error: Stray end tag “i”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tags.html":94.336-94.336: error: Stray end tag “i”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":4.52-4.52: error: Attribute “xmlns:og” not allowed here.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":4.52-4.52: error: Attribute “xmlns:fb” not allowed here.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":8.57-8.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":97.101-97.101: error: Bad value “./theme/images/You can add links in your config file-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":97.101-97.101: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":97.107-97.107: error: Stray end tag “img”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":100.83-100.83: error: Bad value “./theme/images/Another social link-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":100.83-100.83: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":100.89-100.89: error: Stray end tag “img”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":111.36-111.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":113.36-113.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":115.36-115.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":117.36-117.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":129.198-129.198: error: Stray end tag “i”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":129.274-129.274: error: Stray end tag “i”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/theme-review.html":129.336-129.336: error: Stray end tag “i”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/author/sven-kreiss.html":4.19-4.19: error: Element “title” must not be empty.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/category/review.html":4.52-4.52: error: Attribute “xmlns:og” not allowed here.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/category/review.html":4.52-4.52: error: Attribute “xmlns:fb” not allowed here.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/category/review.html":8.57-8.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/category/review.html":46.95-46.95: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/category/review.html":46.478-46.478: error: No “p” element in scope but a “p” end tag seen.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/category/review.html":69.102-69.102: error: Bad value “../theme/images/You can add links in your config file-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/category/review.html":69.102-69.102: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/category/review.html":69.108-69.108: error: Stray end tag “img”.
@@ -99,21 +99,55 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/category/review.html":101.198-101.198: error: Stray end tag “i”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/category/review.html":101.274-101.274: error: Stray end tag “i”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/category/review.html":101.336-101.336: error: Stray end tag “i”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":4.52-4.52: error: Attribute “xmlns:og” not allowed here.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":4.52-4.52: error: Attribute “xmlns:fb” not allowed here.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":8.57-8.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":46.95-46.95: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":69.102-69.102: error: Bad value “../theme/images/You can add links in your config file-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":69.102-69.102: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":69.108-69.108: error: Stray end tag “img”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":72.84-72.84: error: Bad value “../theme/images/Another social link-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":72.84-72.84: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":72.90-72.90: error: Stray end tag “img”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":83.36-83.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":85.36-85.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":87.36-87.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":89.36-89.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":101.198-101.198: error: Stray end tag “i”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":101.274-101.274: error: Stray end tag “i”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/keyboards.html":101.336-101.336: error: Stray end tag “i”.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":4.52-4.52: error: Attribute “xmlns:og” not allowed here.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":4.52-4.52: error: Attribute “xmlns:fb” not allowed here.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":8.57-8.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":46.478-46.478: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":69.102-69.102: error: Bad value “../theme/images/You can add links in your config file-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":69.102-69.102: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":69.108-69.108: error: Stray end tag “img”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":72.84-72.84: error: Bad value “../theme/images/Another social link-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":72.84-72.84: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":72.90-72.90: error: Stray end tag “img”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":83.36-83.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":85.36-85.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":87.36-87.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":89.36-89.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":101.198-101.198: error: Stray end tag “i”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":101.274-101.274: error: Stray end tag “i”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/galleries.html":101.336-101.336: error: Stray end tag “i”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":4.52-4.52: error: Attribute “xmlns:og” not allowed here.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":4.52-4.52: error: Attribute “xmlns:fb” not allowed here.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":8.57-8.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":46.478-46.478: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":69.102-69.102: error: Bad value “../theme/images/You can add links in your config file-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":69.102-69.102: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":69.108-69.108: error: Stray end tag “img”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":72.84-72.84: error: Bad value “../theme/images/Another social link-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":72.84-72.84: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":72.90-72.90: error: Stray end tag “img”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":83.36-83.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":85.36-85.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":87.36-87.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":89.36-89.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":101.198-101.198: error: Stray end tag “i”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":101.274-101.274: error: Stray end tag “i”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/pelican.html":101.336-101.336: error: Stray end tag “i”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":4.52-4.52: error: Attribute “xmlns:og” not allowed here.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":4.52-4.52: error: Attribute “xmlns:fb” not allowed here.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":8.57-8.57: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":46.478-46.478: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":69.102-69.102: error: Bad value “../theme/images/You can add links in your config file-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":69.102-69.102: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":69.108-69.108: error: Stray end tag “img”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":72.84-72.84: error: Bad value “../theme/images/Another social link-icon.png” for attribute “src” on element “img”: Illegal character in path segment: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":72.84-72.84: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":72.90-72.90: error: Stray end tag “img”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":83.36-83.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":85.36-85.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":87.36-87.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":89.36-89.36: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":101.198-101.198: error: Stray end tag “i”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":101.274-101.274: error: Stray end tag “i”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lovers/output/tag/themes.html":101.336-101.336: error: Stray end tag “i”.
+Found files to validate: 13

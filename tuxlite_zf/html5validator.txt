@@ -1,13 +1,11 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":48.20-48.20: error: Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":49.73-49.73: error: End tag “li” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":49.38-49.38: error: Unclosed element “a”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":49.67-49.67: error: End tag “li” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":49.35-49.35: error: Unclosed element “a”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":50.6-50.6: error: End tag “ul” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":50.7-50.7: error: Element “a” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":51.5-51.5: error: End tag “ul” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":53.10-53.10: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":60.42-60.42: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":60.42-60.42: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":60.42-60.42: error fatal: Cannot recover after last error. Any further errors will be ignored.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":51.1-51.1: error: Element “a” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":51.34-51.34: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":51.34-51.34: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/tuxlite_zf/output/tags.html":51.34-51.34: error fatal: Cannot recover after last error. Any further errors will be ignored.
+Found files to validate: 13

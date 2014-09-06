@@ -2,9 +2,11 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/authors.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/categories.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/index.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/my-first-review.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/tags.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/theme-review.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/author/sven-kreiss.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/category/review.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/tag/keyboards.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/tag/galleries.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/tag/pelican.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/tag/themes.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+Found files to validate: 13

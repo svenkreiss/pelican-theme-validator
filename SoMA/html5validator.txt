@@ -1,4 +1,6 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/SoMA/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/SoMA/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/SoMA/output/tags.html":32.57-32.57: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/SoMA/output/tags.html":33.12-33.12: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/SoMA/output/tags.html":34.12-34.12: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+Found files to validate: 13

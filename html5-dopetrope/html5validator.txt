@@ -1,17 +1,23 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/archives.html":74.82-74.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/authors.html":72.82-72.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/categories.html":71.82-71.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/index.html":56.98-56.98: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/index.html":89.82-89.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/my-first-review.html":59.59-59.59: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/my-first-review.html":59.59-59.59: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/my-first-review.html":86.82-86.82: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/archives.html":74.465-74.465: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/authors.html":72.465-72.465: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/categories.html":71.465-71.465: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/index.html":56.95-56.95: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/index.html":89.465-89.465: error: No “p” element in scope but a “p” end tag seen.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tags.html":50.57-50.57: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tags.html":69.82-69.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/author/sven-kreiss.html":56.99-56.99: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/author/sven-kreiss.html":89.82-89.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/category/review.html":56.99-56.99: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/category/review.html":89.82-89.82: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tag/keyboards.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tag/keyboards.html": error: Element “head” is missing a required instance of child element “title”.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tags.html":51.12-51.12: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tags.html":52.12-52.12: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tags.html":71.465-71.465: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/theme-review.html":59.59-59.59: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/theme-review.html":59.59-59.59: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/theme-review.html":86.465-86.465: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/author/sven-kreiss.html":56.96-56.96: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/author/sven-kreiss.html":89.465-89.465: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/category/review.html":56.96-56.96: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/category/review.html":89.465-89.465: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tag/galleries.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tag/galleries.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tag/pelican.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tag/pelican.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tag/themes.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/html5-dopetrope/output/tag/themes.html": error: Element “head” is missing a required instance of child element “title”.
+Found files to validate: 13

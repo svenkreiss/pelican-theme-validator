@@ -1,14 +1,20 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/index.html":42.61-42.61: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/index.html":42.139-42.139: error: No “p” element in scope but a “p” end tag seen.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/index.html":46.5-46.5: error: Stray end tag “ol”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/index.html":47.10-47.10: error: Stray end tag “section”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/my-first-review.html":44.61-44.61: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/author/sven-kreiss.html":42.62-42.62: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/theme-review.html":44.139-44.139: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/author/sven-kreiss.html":42.142-42.142: error: No “p” element in scope but a “p” end tag seen.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/author/sven-kreiss.html":46.5-46.5: error: Stray end tag “ol”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/author/sven-kreiss.html":47.10-47.10: error: Stray end tag “section”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/category/review.html":42.62-42.62: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/category/review.html":42.142-42.142: error: No “p” element in scope but a “p” end tag seen.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/category/review.html":46.5-46.5: error: Stray end tag “ol”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/category/review.html":47.10-47.10: error: Stray end tag “section”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/tag/keyboards.html":42.62-42.62: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/tag/keyboards.html":46.5-46.5: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/tag/keyboards.html":47.10-47.10: error: Stray end tag “section”.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/tag/galleries.html":42.142-42.142: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/tag/galleries.html":46.5-46.5: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/tag/galleries.html":47.10-47.10: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/tag/pelican.html":42.142-42.142: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/tag/pelican.html":46.5-46.5: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/tag/pelican.html":47.10-47.10: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/tag/themes.html":42.142-42.142: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/tag/themes.html":46.5-46.5: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sneakyidea/output/tag/themes.html":47.10-47.10: error: Stray end tag “section”.
+Found files to validate: 13

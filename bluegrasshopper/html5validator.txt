@@ -8,6 +8,10 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/author/sven-kreiss.html":52.22-52.22: error: Stray end tag “section”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/category/review.html":51.17-51.17: error: Stray end tag “ol”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/category/review.html":52.22-52.22: error: Stray end tag “section”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/tag/keyboards.html":51.17-51.17: error: Stray end tag “ol”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/tag/keyboards.html":52.22-52.22: error: Stray end tag “section”.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/tag/galleries.html":51.17-51.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/tag/galleries.html":52.22-52.22: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/tag/pelican.html":51.17-51.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/tag/pelican.html":52.22-52.22: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/tag/themes.html":51.17-51.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/tag/themes.html":52.22-52.22: error: Stray end tag “section”.
+Found files to validate: 13

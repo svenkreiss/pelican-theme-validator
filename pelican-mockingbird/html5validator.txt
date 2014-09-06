@@ -1,1 +1,1 @@
-Found files to validate: 9
+Found files to validate: 13

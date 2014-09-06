@@ -2,12 +2,18 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/authors.html":25.7-25.7: error: Stray end tag “head”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/categories.html":25.7-25.7: error: Stray end tag “head”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/index.html":25.7-25.7: error: Stray end tag “head”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/my-first-review.html":28.45-28.45: error: “meta” element between “head” and “body”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/my-first-review.html":28.45-28.45: error fatal: Cannot recover after last error. Any further errors will be ignored.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/tags.html":25.7-25.7: error: Stray end tag “head”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/tags.html":33.57-33.57: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/tags.html":34.12-34.12: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/tags.html":35.12-35.12: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/theme-review.html":28.42-28.42: error: “meta” element between “head” and “body”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/theme-review.html":28.42-28.42: error fatal: Cannot recover after last error. Any further errors will be ignored.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/author/sven-kreiss.html":25.7-25.7: error: Stray end tag “head”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/category/review.html":25.7-25.7: error: Stray end tag “head”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/tag/keyboards.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/tag/keyboards.html": error: Element “head” is missing a required instance of child element “title”.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/tag/galleries.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/tag/galleries.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/tag/pelican.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/tag/pelican.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/tag/themes.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/basic/output/tag/themes.html": error: Element “head” is missing a required instance of child element “title”.
+Found files to validate: 13

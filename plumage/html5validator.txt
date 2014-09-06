@@ -1,5 +1,9 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/my-first-review.html":81.119-81.119: error: No “p” element in scope but a “p” end tag seen.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/my-first-review.html":87.162-87.162: error: Bad value “tag tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/my-first-review.html":88.139-88.139: error: Bad value “tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/tags.html":70.133-70.133: error: Bad value “tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/tags.html":70.130-70.130: error: Bad value “tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/tags.html":71.131-71.131: error: Bad value “tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/tags.html":72.133-72.133: error: Bad value “tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/theme-review.html":81.119-81.119: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/theme-review.html":87.162-87.162: error: Bad value “tag tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/theme-review.html":88.136-88.136: error: Bad value “tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/theme-review.html":89.137-89.137: error: Bad value “tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/theme-review.html":90.139-90.139: error: Bad value “tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
+Found files to validate: 13

@@ -17,40 +17,52 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/categories.html":41.49-41.49: error: An “a” start tag seen but an element of the same type was already open.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/categories.html":41.49-41.49: error: End tag “a” violates nesting rules.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/categories.html":41.49-41.49: error fatal: Cannot recover after last error. Any further errors will be ignored.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/index.html":44.50-44.50: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/index.html":44.22-44.22: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/index.html":45.11-45.11: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/index.html":48.49-48.49: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/index.html":48.49-48.49: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/index.html":48.49-48.49: error fatal: Cannot recover after last error. Any further errors will be ignored.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/my-first-review.html":45.50-45.50: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/my-first-review.html":45.22-45.22: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/my-first-review.html":46.11-46.11: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/my-first-review.html":49.49-49.49: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/my-first-review.html":49.49-49.49: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/my-first-review.html":49.49-49.49: error fatal: Cannot recover after last error. Any further errors will be ignored.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tags.html":36.50-36.50: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tags.html":36.22-36.22: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tags.html":37.11-37.11: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tags.html":40.49-40.49: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tags.html":40.49-40.49: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tags.html":40.49-40.49: error fatal: Cannot recover after last error. Any further errors will be ignored.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/author/sven-kreiss.html":44.51-44.51: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/author/sven-kreiss.html":44.23-44.23: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/author/sven-kreiss.html":45.11-45.11: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/author/sven-kreiss.html":48.50-48.50: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/author/sven-kreiss.html":48.50-48.50: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/author/sven-kreiss.html":48.50-48.50: error fatal: Cannot recover after last error. Any further errors will be ignored.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/category/review.html":44.51-44.51: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/category/review.html":44.23-44.23: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/category/review.html":45.11-45.11: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/category/review.html":48.50-48.50: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/category/review.html":48.50-48.50: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/category/review.html":48.50-48.50: error fatal: Cannot recover after last error. Any further errors will be ignored.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/keyboards.html":44.51-44.51: error: End tag “h1” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/keyboards.html":44.23-44.23: error: Unclosed element “a”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/keyboards.html":45.11-45.11: error: End tag “div” seen, but there were open elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/keyboards.html":48.50-48.50: error: An “a” start tag seen but an element of the same type was already open.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/keyboards.html":48.50-48.50: error: End tag “a” violates nesting rules.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/keyboards.html":48.50-48.50: error fatal: Cannot recover after last error. Any further errors will be ignored.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/index.html":46.50-46.50: error: End tag “h1” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/index.html":46.22-46.22: error: Unclosed element “a”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/index.html":47.11-47.11: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/index.html":50.49-50.49: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/index.html":50.49-50.49: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/index.html":50.49-50.49: error fatal: Cannot recover after last error. Any further errors will be ignored.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tags.html":38.50-38.50: error: End tag “h1” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tags.html":38.22-38.22: error: Unclosed element “a”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tags.html":39.11-39.11: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tags.html":42.49-42.49: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tags.html":42.49-42.49: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tags.html":42.49-42.49: error fatal: Cannot recover after last error. Any further errors will be ignored.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/theme-review.html":47.50-47.50: error: End tag “h1” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/theme-review.html":47.22-47.22: error: Unclosed element “a”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/theme-review.html":48.11-48.11: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/theme-review.html":51.49-51.49: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/theme-review.html":51.49-51.49: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/theme-review.html":51.49-51.49: error fatal: Cannot recover after last error. Any further errors will be ignored.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/author/sven-kreiss.html":46.51-46.51: error: End tag “h1” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/author/sven-kreiss.html":46.23-46.23: error: Unclosed element “a”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/author/sven-kreiss.html":47.11-47.11: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/author/sven-kreiss.html":50.50-50.50: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/author/sven-kreiss.html":50.50-50.50: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/author/sven-kreiss.html":50.50-50.50: error fatal: Cannot recover after last error. Any further errors will be ignored.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/category/review.html":46.51-46.51: error: End tag “h1” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/category/review.html":46.23-46.23: error: Unclosed element “a”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/category/review.html":47.11-47.11: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/category/review.html":50.50-50.50: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/category/review.html":50.50-50.50: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/category/review.html":50.50-50.50: error fatal: Cannot recover after last error. Any further errors will be ignored.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/galleries.html":46.51-46.51: error: End tag “h1” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/galleries.html":46.23-46.23: error: Unclosed element “a”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/galleries.html":47.11-47.11: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/galleries.html":50.50-50.50: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/galleries.html":50.50-50.50: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/galleries.html":50.50-50.50: error fatal: Cannot recover after last error. Any further errors will be ignored.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/pelican.html":46.51-46.51: error: End tag “h1” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/pelican.html":46.23-46.23: error: Unclosed element “a”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/pelican.html":47.11-47.11: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/pelican.html":50.50-50.50: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/pelican.html":50.50-50.50: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/pelican.html":50.50-50.50: error fatal: Cannot recover after last error. Any further errors will be ignored.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/themes.html":46.51-46.51: error: End tag “h1” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/themes.html":46.23-46.23: error: Unclosed element “a”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/themes.html":47.11-47.11: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/themes.html":50.50-50.50: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/themes.html":50.50-50.50: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/brownstone/output/tag/themes.html":50.50-50.50: error fatal: Cannot recover after last error. Any further errors will be ignored.
+Found files to validate: 13

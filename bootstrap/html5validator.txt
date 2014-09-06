@@ -1,4 +1,4 @@
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap/output/my-first-review.html":73.7-73.7: error: End tag for  “body” seen, but there were unclosed elements.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap/output/my-first-review.html":54.24-54.24: error: Unclosed element “div”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap/output/my-first-review.html":35.30-35.30: error: Unclosed element “div”.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap/output/theme-review.html":73.7-73.7: error: End tag for  “body” seen, but there were unclosed elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap/output/theme-review.html":54.24-54.24: error: Unclosed element “div”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bootstrap/output/theme-review.html":35.30-35.30: error: Unclosed element “div”.
+Found files to validate: 13

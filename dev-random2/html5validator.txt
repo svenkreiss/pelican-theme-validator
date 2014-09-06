@@ -4,9 +4,11 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/authors.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/categories.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/index.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/my-first-review.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/tags.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/theme-review.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/author/sven-kreiss.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/category/review.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/tag/keyboards.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
-Found files to validate: 9
+"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/tag/galleries.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/tag/pelican.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/dev-random2/output/tag/themes.html":5.72-5.72: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+Found files to validate: 13
