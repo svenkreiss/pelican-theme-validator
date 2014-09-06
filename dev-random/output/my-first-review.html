@@ -1,87 +1,113 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-        <meta charset="utf-8" />
-    <title>My First Review — Pelican Theme Validator</title>
-    <link rel="stylesheet" type="text/css" href="./theme/css/skeleton.css" />
-    <link rel="stylesheet" type="text/css" href="./theme/css/main.css" />
-    <link rel="shortcut icon" type="text/css" href="./favicon.ico" />
-    <link rel="alternate" type="application/atom+xml"
-                           title="Pelican Theme Validator — Flux Atom"
-                           href="./" /> 
-    <!--[if lte IE 8]><script src="./theme/js/html5shiv.js"></script><![endif]-->
-    <meta name="viewport" content="initial-scale=1.0, width=device-width, user-scalable=no" />
+<head>
+    <meta charset="utf-8" />
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width" />
 
-    <meta name="author"   content="Sven Kreiss" />
-    <meta name="keywords" content="keyboards" />
-  </head>
-  <body>
-    <div class="page">
-      <header class="page-head">
-        <h1>
-          <a href="./index.html">Pelican Theme Validator</a>
-        </h1>
-      </header>
+    <title>My First Review</title>
 
-      <div class="page-content">
-     <article class="post content">
-      <header class="post-header">
-        <time datetime="2010-12-03T10:20:00+01:00" pubdate="pubdate">
-          Fri 03 December 2010
-        </time>
-        <h1>
-          <a rel="bookmark"
-             href="./my-first-review.html"
-             title="Lien permanent vers «My First Review»">
-             My First Review
-          </a>
-        </h1>
-        <div class="meta">
-            Dans «<a href="./category/review.html">Review</a>» 
-            par <a href="./author/sven-kreiss.html">Sven Kreiss</a>
-        </div>
-      </header>
-      <div class="post-content"> 
-        <p>Following is a review of my favorite mechanical keyboard.</p>
-      </div>
-      <footer class="post-footer">
-        <div class="meta">
-            Posté dans «<a href="./category/review.html">Review</a>» 
-            par <a href="./author/sven-kreiss.html">Sven Kreiss</a><br />
-            Mots-clés:  #<a href="./tag/keyboards.html">keyboards</a>        </div>
-      </footer>
-    </article>
-      </div>
-    <aside class="page-sidebar">
-      <nav class="widget">
-      <h3>Site</h3>
-        <ul>
-          <li><a href=".">Accueil</a></li>
-          <li><a href="./archives.html">Archives</a></li>
-          <li><a href="./tags.html">Mots-clés</a></li>
-        </ul>
-      </nav>
+    <link rel="stylesheet" href="./theme/css/normalize.css" />
+    <link rel="stylesheet" href="./theme/css/foundation.min.css" />
+    <link rel="stylesheet" href="./theme/css/style.css" />
+    <link rel="stylesheet" href="./theme/css/pygments.css" />	
+    <script src="./theme/js/custom.modernizr.js"></script>
+</head>
 
-      <nav class="widget">
-        <h3>Catégories</h3>
-        <ul>
-          <li><a href="./category/review.html">Review</a></li>
-        </ul>
-      </nav>
+<body>
 
-      <nav class="widget">
-        <h3>Social</h3>
-        <ul>
-          <li><a href="You can add links in your config file">#</a></li>
-          <li><a href="Another social link">#</a></li>
-          <li><a href="./" rel="alternate">Flux Atom</a></li>
-        </ul>
-      </nav>
-    </aside> 
-
-      <footer class="page-footer">
-        <p> Powered by <a href="http://pelican.readthedocs.org">Pelican</a></p>
-      </footer>
+<!-- Nav Bar -->
+<nav>
+<div class="top-bar">
+<div class="row">
+    <div class="large-9 large-centered columns">
+	    <h1><a href=".">Pelican Theme Validator</a></h1>
     </div>
-  </body>
-</html>
+</div>
+</div>
+
+<!-- Show menu items and pages -->
+<div class="row">
+<div class="large-9 columns">
+    <ul class="button-group navigation">
+
+    </ul>
+</div>
+</div>
+</nav>
+<!-- End Nav -->
+
+
+<!-- Main Page Content and Sidebar -->
+<div class="row">
+
+    <!-- Main Blog Content -->
+    <div class="large-9 columns">
+<article>
+    <header>
+        <h3 class="article-title"><a href="./my-first-review.html" rel="bookmark"
+        title="Permalink to My First Review">My First Review</a></h3>
+    </header>
+
+<h6 class="subheader" title="2010-12-03T10:20:00+01:00">Fri 03 December 2010
+</h6>
+
+
+    <p>Following is a review of my favorite mechanical keyboard.</p>
+<p class="subheader">Category: <a href="./category/review.html">Review</a>
+
+    Tagged: 
+    <a href="./tag/keyboards.html">keyboards </a>
+</p>
+
+
+
+
+</article>
+    </div>
+    <!-- End Main Content -->
+
+    <!-- Sidebar -->
+    <aside class="large-3 columns">
+        <h5 class="sidebar-title">Site</h5>
+        <ul class="side-nav">
+            <li><a href="./archives.html">Archives</a>
+            <li><a href="./tags.html">Tags</a>
+        </ul>
+
+		
+        <h5 class="sidebar-title">Categories</h5>
+        <ul class="side-nav">
+            <li><a href="./category/review.html">Review</a></li>
+   
+        </ul>
+
+        <h5 class="sidebar-title">Links</h5>
+        <ul class="side-nav">
+            <li><a href="http://getpelican.com/">Pelican</a></li>
+            <li><a href="http://python.org/">Python.org</a></li>
+            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+            <li><a href="#">You can modify those links in your config file</a></li>
+        </ul>
+		
+        <h5 class="sidebar-title">Social</h5>
+        <ul class="side-nav">
+            <li><a href="#">You can add links in your config file</a></li>
+            <li><a href="#">Another social link</a></li>
+        </ul>
+
+    </aside> <!-- End Sidebar -->
+
+</div> <!-- End Main Content and Sidebar -->
+
+
+<!-- Footer -->
+<footer class="row">
+    <div class="large-12 columns">
+        <hr />
+        <div class="row">
+            <div class="large-6 columns">
+              <!--                  <p>Pelican Theme Validator by Sven Kreiss</p> -->
+            </div>
+            </div>
+    </div>
+</footer>

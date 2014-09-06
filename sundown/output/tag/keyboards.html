@@ -1,80 +1,123 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Pelican Theme Validator - keyboards KenIngle.com</title>
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8" />
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width" />
 
-    <link rel="stylesheet" href="../theme/css/main.css">
-    <link rel="stylesheet" href="../theme/css/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <div><img src="" class="grv-img"/></div>
-        <div class="title"><a href="../">Pelican Theme Validator </a></div>
-        <div class="sub-title"></div>
+    <title>Pelican Theme Validator - keyboards</title>
 
-<p>
-  <div class="view"><a href="../archives.html">Archives</a></div>
-</p>
+    <link rel="stylesheet" href="../theme/css/normalize.css" />
+    <link rel="stylesheet" href="../theme/css/foundation.min.css" />
+    <link rel="stylesheet" href="../theme/css/style.css" />
+    <link rel="stylesheet" href="../theme/css/pygments.css" />	
+    <script src="../theme/js/custom.modernizr.js"></script>
+</head>
 
-<!-- Social links -->
-<div class="social">
-<h4>Follow Me</h4>
-<ul>
-    <li><a href="#">You can add links in your config file</a></li>
-    <li><a href="#">Another social link</a></li>
-</ul>
+<body>
+
+<!-- Nav Bar -->
+<nav>
+<div class="top-bar">
+<div class="row">
+    <div class="large-9 large-centered columns">
+	    <h1><a href="..">Pelican Theme Validator</a></h1>
+    </div>
+</div>
 </div>
 
-      </header>
-      <section>
-      <div class="front-title"><a href="../my-first-review.html">My First Review</a></div>
+<!-- Show menu items and pages -->
+<div class="row">
+<div class="large-9 columns">
+    <ul class="button-group navigation">
+
+    </ul>
+</div>
+</div>
+</nav>
+<!-- End Nav -->
+
+
+<!-- Main Page Content and Sidebar -->
+<div class="row">
+
+    <!-- Main Blog Content -->
+    <div class="large-9 columns">
+        
+        
+
+            <article>
+                <a href="../my-first-review.html"><h3 class="article-title">My First Review</h3></a>
+<h6 class="subheader" title="2010-12-03T10:20:00+01:00">Fri 03 December 2010
+</h6>
+
+
+<p>Following is a review of my favorite mechanical keyboard.</p><p class="subheader">Category: <a href="../category/review.html">Review</a>
+
+    Tagged: 
+    <a href="../tag/keyboards.html">keyboards </a>
+</p>
+
+
+
+            </article>
+
+<div class="pagination-centered">
+<h6 class="subheader">Page 1 of 1</h6>
+
 <p>
-<small>
-<abbr class="published" title="2010-12-03T10:20:00+01:00">
-  Fri 03 December 2010
-</abbr> | 
-  tags: 
-    <a href="../tag/keyboards.html">keyboards</a>, 
- -- (<a href="../my-first-review.html" rel="bookmark">permalink</a>)
-</small>
-</p>      <p>Following is a review of my favorite mechanical keyboard.</p> 
-      <div class="read-more"><a href="../my-first-review.html">read more...</a></div>
-      <hr />
 
-      </section>
-      <footer>
-        <p><small>&copy; Pelican Theme Validator &mdash; Theme based on Sundown by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
+</p>
+</div>
+
+
+
+            <!-- /#posts-list -->
+
     </div>
-    <!-- Scale fix -->
-    <script>
-      var metas = document.getElementsByTagName('meta');
-      var i;
-      
-      if (navigator.userAgent.match(/iPhone/i)) {
-        for (i=0; i<metas.length; i++) {
-          if (metas[i].name == "viewport") {
-            metas[i].content = "width=device-width, minimum-scale=1.0, maximum-scale=1.0";
-          }
-        }
-      
-        document.addEventListener("gesturestart", gestureStart, false);
-      }
+    <!-- End Main Content -->
 
-      function gestureStart() {
-        for (i=0; i<metas.length; i++) {
-          if (metas[i].name == "viewport") {
-            metas[i].content = "width=device-width, minimum-scale=0.25, maximum-scale=1.6";
-          }
-        }
-      }
-    </script>
-  </body>
-</html>
+    <!-- Sidebar -->
+    <aside class="large-3 columns">
+        <h5 class="sidebar-title">Site</h5>
+        <ul class="side-nav">
+            <li><a href="../archives.html">Archives</a>
+            <li><a href="../tags.html">Tags</a>
+        </ul>
+
+		
+        <h5 class="sidebar-title">Categories</h5>
+        <ul class="side-nav">
+            <li><a href="../category/review.html">Review</a></li>
+   
+        </ul>
+
+        <h5 class="sidebar-title">Links</h5>
+        <ul class="side-nav">
+            <li><a href="http://getpelican.com/">Pelican</a></li>
+            <li><a href="http://python.org/">Python.org</a></li>
+            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+            <li><a href="#">You can modify those links in your config file</a></li>
+        </ul>
+		
+        <h5 class="sidebar-title">Social</h5>
+        <ul class="side-nav">
+            <li><a href="#">You can add links in your config file</a></li>
+            <li><a href="#">Another social link</a></li>
+        </ul>
+
+    </aside> <!-- End Sidebar -->
+
+</div> <!-- End Main Content and Sidebar -->
+
+
+<!-- Footer -->
+<footer class="row">
+    <div class="large-12 columns">
+        <hr />
+        <div class="row">
+            <div class="large-6 columns">
+              <!--                  <p>Pelican Theme Validator by Sven Kreiss</p> -->
+            </div>
+            </div>
+    </div>
+</footer>

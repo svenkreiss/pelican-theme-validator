@@ -1,98 +1,113 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
 <head>
-  <meta charset="utf-8">
-  <!-- Site Meta Data -->
-  <title>My First Review</title>
-  <meta name="description" content="">
-  <meta name="author" content="Sven Kreiss">
+    <meta charset="utf-8" />
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width" />
 
-  <!-- Style Meta Data -->
-  <link rel="stylesheet" href="./theme/css/notebook.css" type="text/css" />
-  <link rel="shortcut icon" href="./">
+    <title>My First Review</title>
 
-  <!-- Feed Meta Data -->
-  <link href="./" type="application/atom+xml" rel="alternate" title="Pelican Theme Validator ATOM Feed" />
-
-  <!-- Twitter Feed -->
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="">
-  <meta name="twitter:image" content="./">
-
-<meta name="twitter:creator" content="">
-<meta name="twitter:url" content="./my-first-review.html">
-<meta name="twitter:title" content="Pelican Theme Validator ~ My First Review">
-<meta name="twitter:description" content="<p>Following is a review of my favorite mechanical keyboard.</p>">
-
-<!-- Facebook Meta Data -->
-<meta property="og:title" content="Pelican Theme Validator ~ My First Review" />
-<meta property="og:description" content="<p>Following is a review of my favorite mechanical keyboard.</p>" />
-<meta property="og:image" content="" />
+    <link rel="stylesheet" href="./theme/css/normalize.css" />
+    <link rel="stylesheet" href="./theme/css/foundation.min.css" />
+    <link rel="stylesheet" href="./theme/css/style.css" />
+    <link rel="stylesheet" href="./theme/css/pygments.css" />	
+    <script src="./theme/js/custom.modernizr.js"></script>
 </head>
 
 <body>
-  <!-- Sidebar -->
-  <aside>
-    <p><a href="."><img id="avatar" src="./"></a></p>
-    <h1>Pelican Theme Validator</h1>
-    <p></p>
-    <hr>
-    <h2>Social</h2>
-    <ul class="social">
-      <li style="list-style-image : url(./theme/images/icons/you can add links in your config file.png);"><a href="#">You can add links in your config file</a></li>
-      <li style="list-style-image : url(./theme/images/icons/another social link.png);"><a href="#">Another social link</a></li>
-      <li style="list-style-image : url(./theme/images/icons/rss.png);"><a href="./" rel="alternate"><i class="icon-bookmark icon-large"></i>Atom feed</a></li>
+
+<!-- Nav Bar -->
+<nav>
+<div class="top-bar">
+<div class="row">
+    <div class="large-9 large-centered columns">
+	    <h1><a href=".">Pelican Theme Validator</a></h1>
+    </div>
+</div>
+</div>
+
+<!-- Show menu items and pages -->
+<div class="row">
+<div class="large-9 columns">
+    <ul class="button-group navigation">
+
     </ul>
-    <h2>Categories</h2>
-    <ul class="navbar">
-      <li class="active"><a href="./category/review.html">Review</a></li>
-    </ul> 
-  </aside>
+</div>
+</div>
+</nav>
+<!-- End Nav -->
 
-  <!-- Content -->
-  <article>
-<section id="content">
-    <article>
-        <header class="post_list">
-            <h2 class="post_title"><a href="./my-first-review.html" rel="bookmark" title="Permalink to My First Review">My First Review</a></h2>
-            <span>Par </span>
-            <a href="./author/sven-kreiss.html">@Sven Kreiss</a>
-            <span> dans </span>
-            <span class="post_category"><a href="./category/review.html" rel="bookmark" title="Permalink to Review">[ Review ]</a></span>
-            <span> le </span>
-            <span class="post_date">Fri 03 December 2010</span>
-            <div><span>Tags : </span>
-                <span><a href="./tag/keyboards.html">#keyboards, </a></span>
+
+<!-- Main Page Content and Sidebar -->
+<div class="row">
+
+    <!-- Main Blog Content -->
+    <div class="large-9 columns">
+<article>
+    <header>
+        <h3 class="article-title"><a href="./my-first-review.html" rel="bookmark"
+        title="Permalink to My First Review">My First Review</a></h3>
+    </header>
+
+<h6 class="subheader" title="2010-12-03T10:20:00+01:00">Fri 03 December 2010
+</h6>
+
+
+    <p>Following is a review of my favorite mechanical keyboard.</p>
+<p class="subheader">Category: <a href="./category/review.html">Review</a>
+
+    Tagged: 
+    <a href="./tag/keyboards.html">keyboards </a>
+</p>
+
+
+
+
+</article>
+    </div>
+    <!-- End Main Content -->
+
+    <!-- Sidebar -->
+    <aside class="large-3 columns">
+        <h5 class="sidebar-title">Site</h5>
+        <ul class="side-nav">
+            <li><a href="./archives.html">Archives</a>
+            <li><a href="./tags.html">Tags</a>
+        </ul>
+
+		
+        <h5 class="sidebar-title">Categories</h5>
+        <ul class="side-nav">
+            <li><a href="./category/review.html">Review</a></li>
+   
+        </ul>
+
+        <h5 class="sidebar-title">Links</h5>
+        <ul class="side-nav">
+            <li><a href="http://getpelican.com/">Pelican</a></li>
+            <li><a href="http://python.org/">Python.org</a></li>
+            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+            <li><a href="#">You can modify those links in your config file</a></li>
+        </ul>
+		
+        <h5 class="sidebar-title">Social</h5>
+        <ul class="side-nav">
+            <li><a href="#">You can add links in your config file</a></li>
+            <li><a href="#">Another social link</a></li>
+        </ul>
+
+    </aside> <!-- End Sidebar -->
+
+</div> <!-- End Main Content and Sidebar -->
+
+
+<!-- Footer -->
+<footer class="row">
+    <div class="large-12 columns">
+        <hr />
+        <div class="row">
+            <div class="large-6 columns">
+              <!--                  <p>Pelican Theme Validator by Sven Kreiss</p> -->
             </div>
-
-            <div class="entry-social">
-                <span class="twitter"><a target="_blank" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;" title="Twitter" href="https://twitter.com/share?url=./my-first-review.html&text=My First Review&via=">Twitter</a></span>
-
-                <span class="gplus"><a target="_blank" title="Google +" href="https://plus.google.com/share?url=./my-first-review.html&hl=fr" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;">Google+</a></span>
-
-                <span class="facebook"><a target="_blank" title="Facebook" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;" href="https://www.facebook.com/sharer.php?u=./my-first-review.html&t=My First Review">Facebook</a></span>
-
-                <a  target="_blank" title="Linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=<./my-first-review.html&title=My First Review" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;">Linkedin</a>
-
-                <span class="mail"><a href="mailto:?subject=My First Review&amp;body=Viens découvrir un article à propos de [My First Review] sur le site de Sven Kreiss. ./my-first-review.html" title="Share by Email" target="_blank">Mail</a></span>
             </div>
-        </header>
-        <div class="entry-content">
-            <p>Following is a review of my favorite mechanical keyboard.</p>
-        </div>
-    </article>
-</section>
-  </article>
-
-  <!-- Footer -->
-  <footer>
-    <address id="about" class="vcard body">
-      Blog powered by <a href="http://getpelican.com/">Pelican</a>, 
-      which takes great advantage of <a href="http://python.org">Python</a>.
-      Theme <a href="https://github.com/quack1/notebook/">Notebook</a> by <a href="https://twitter.com/_Quack1">@Quack1</a>.
-    </address>
-  </footer>
-
-
-</body>
-</html>
+    </div>
+</footer>

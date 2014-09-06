@@ -1,109 +1,113 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-
+<!DOCTYPE html>
 <head>
+    <meta charset="utf-8" />
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width" />
 
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  
-  <title>My First Review</title>
-<link href="./theme/css/style.css" rel="stylesheet" type="text/css" media="screen" />
-<link href="./" type="application/atom+xml" rel="alternate" title="Pelican Theme Validator ATOM Feed" />
-  
-  <!--[if IE]>
-  <style type="text/css"> 
-  .twoColFixRtHdr #mainContent { zoom: 1; }
-  </style>
-  <![endif]-->
+    <title>My First Review</title>
 
+    <link rel="stylesheet" href="./theme/css/normalize.css" />
+    <link rel="stylesheet" href="./theme/css/foundation.min.css" />
+    <link rel="stylesheet" href="./theme/css/style.css" />
+    <link rel="stylesheet" href="./theme/css/pygments.css" />	
+    <script src="./theme/js/custom.modernizr.js"></script>
 </head>
 
 <body>
 
-<div id="container">
+<!-- Nav Bar -->
+<nav>
+<div class="top-bar">
+<div class="row">
+    <div class="large-9 large-centered columns">
+	    <h1><a href=".">Pelican Theme Validator</a></h1>
+    </div>
+</div>
+</div>
 
-  <div id="header">
-  <h1><a href="./index.html">Pelican Theme Validator</h1>
-  
-  </div><!-- end #header -->
-  
-  <div id="topMenu">
-  
-    <ul>
-    	<li><a href="./index.html">Home</a></li>
-        <li>&ndash;</li>
-        <li><a href="./archives.html">Archives</a></li>
-        
+<!-- Show menu items and pages -->
+<div class="row">
+<div class="large-9 columns">
+    <ul class="button-group navigation">
+
     </ul>
-  
-  </div><!-- end #topMenu -->
-
-  <div id="sidebar">
-    <ul>
-	<li>
-	    <h3>Pages</h3>
-	    <ul>
-	    </ul>
-	</li>
-	<li>
-            <h3>Categories</h3>
-            <ul>
-		     <li class="active"><a href="./category/review.html">Review</a></li>
-	    </ul>
-	</li>
-	<li>
-		<h3>Blogroll</h3>
-		<ul>
-                    <li><a href="http://getpelican.com/">Pelican</a></li>
-                    <li><a href="http://python.org/">Python.org</a></li>
-                    <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
-                    <li><a href="#">You can modify those links in your config file</a></li>
-		</ul>
-	</li>
-        <li>
-                <h3>Social</h3>
-                <ul>
-                    <li><a href="#">You can add links in your config file</a></li>
-                    <li><a href="#">Another social link</a></li>
-                </ul>
-        </li><!-- /.social -->
-        <li>
-            <h3>Tags</h3>
-            <ul>
-                    <li><a href="./tag/keyboards.html">keyboards</a></li>
-            </ul>
-        </li>
-    </ul>
-  </div><!-- end #sidebar -->
-
-  <div id="mainContent">
-  	
- 
+</div>
+</div>
+</nav>
+<!-- End Nav -->
 
 
-<div class="blogItem">
-    
-      <h2><a href="./my-first-review.html">My First Review</a></h2>
-      <h3>Fri 03 December 2010</h3>
-      
-  <p>Following is a review of my favorite mechanical keyboard.</p>	
-      
-      <h3 class="blogMeta">By <a href="#">Sven Kreiss</a>, Category: <a href="./category/review.html">Review</a></h3>
-<h3 class="blogMeta">Tags: <span><a href="./tag/keyboards.html">keyboards</a> / </span>
-</h3>    
-    </div><!-- end #blogItem -->
-				
-				<!-- end #content -->
-  
-  </div><!-- end #mainContent -->
+<!-- Main Page Content and Sidebar -->
+<div class="row">
 
-<div class="clearfloat"></div>
+    <!-- Main Blog Content -->
+    <div class="large-9 columns">
+<article>
+    <header>
+        <h3 class="article-title"><a href="./my-first-review.html" rel="bookmark"
+        title="Permalink to My First Review">My First Review</a></h3>
+    </header>
 
-  <div id="footer">
-  
-    <p><a href="http://css4free.com/" title="free CSS web site designs">Free CSS Gallery</a></p>
-    <p>Proudly powered by <a href="http://getpelican.com">pelican</a>, which takes great advantages of <a href="http://python.org">python</a>.
-  </div><!-- end #footer -->
+<h6 class="subheader" title="2010-12-03T10:20:00+01:00">Fri 03 December 2010
+</h6>
 
-</div><!-- end #container -->
-</body>
-</html>
+
+    <p>Following is a review of my favorite mechanical keyboard.</p>
+<p class="subheader">Category: <a href="./category/review.html">Review</a>
+
+    Tagged: 
+    <a href="./tag/keyboards.html">keyboards </a>
+</p>
+
+
+
+
+</article>
+    </div>
+    <!-- End Main Content -->
+
+    <!-- Sidebar -->
+    <aside class="large-3 columns">
+        <h5 class="sidebar-title">Site</h5>
+        <ul class="side-nav">
+            <li><a href="./archives.html">Archives</a>
+            <li><a href="./tags.html">Tags</a>
+        </ul>
+
+		
+        <h5 class="sidebar-title">Categories</h5>
+        <ul class="side-nav">
+            <li><a href="./category/review.html">Review</a></li>
+   
+        </ul>
+
+        <h5 class="sidebar-title">Links</h5>
+        <ul class="side-nav">
+            <li><a href="http://getpelican.com/">Pelican</a></li>
+            <li><a href="http://python.org/">Python.org</a></li>
+            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+            <li><a href="#">You can modify those links in your config file</a></li>
+        </ul>
+		
+        <h5 class="sidebar-title">Social</h5>
+        <ul class="side-nav">
+            <li><a href="#">You can add links in your config file</a></li>
+            <li><a href="#">Another social link</a></li>
+        </ul>
+
+    </aside> <!-- End Sidebar -->
+
+</div> <!-- End Main Content and Sidebar -->
+
+
+<!-- Footer -->
+<footer class="row">
+    <div class="large-12 columns">
+        <hr />
+        <div class="row">
+            <div class="large-6 columns">
+              <!--                  <p>Pelican Theme Validator by Sven Kreiss</p> -->
+            </div>
+            </div>
+    </div>
+</footer>

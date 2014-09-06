@@ -1,92 +1,113 @@
-<!doctype html>
-<html lang="">	
+<!DOCTYPE html>
 <head>
-	<meta charset="utf-8"/>
-	<title>My First Review - Pelican Theme Validator</title>	
-	<meta name="author" content="Sven Kreiss">
-	
-	<link rel="top" href="#" /><link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic|Source+Code+Pro' rel='stylesheet' type='text/css'></link>
-	<link rel="stylesheet" href="./theme/css/main.css" type="text/css" />
-		
+    <meta charset="utf-8" />
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width" />
 
+    <title>My First Review</title>
+
+    <link rel="stylesheet" href="./theme/css/normalize.css" />
+    <link rel="stylesheet" href="./theme/css/foundation.min.css" />
+    <link rel="stylesheet" href="./theme/css/style.css" />
+    <link rel="stylesheet" href="./theme/css/pygments.css" />	
+    <script src="./theme/js/custom.modernizr.js"></script>
 </head>
-	
+
 <body>
 
-    <div class="container">
-	  
-	  <header role="banner">
-	    <div class="feeds">
-	    </div>
-		<a href="." class="title">Pelican Theme Validator</a>
-      </header>
-	
-	  <div class="wrapper">
+<!-- Nav Bar -->
+<nav>
+<div class="top-bar">
+<div class="row">
+    <div class="large-9 large-centered columns">
+	    <h1><a href=".">Pelican Theme Validator</a></h1>
+    </div>
+</div>
+</div>
 
-		  <div role="main" class="content">
-	<article class="full">
-			
-		<h1>My First Review</h1>
+<!-- Show menu items and pages -->
+<div class="row">
+<div class="large-9 columns">
+    <ul class="button-group navigation">
+
+    </ul>
+</div>
+</div>
+</nav>
+<!-- End Nav -->
+
+
+<!-- Main Page Content and Sidebar -->
+<div class="row">
+
+    <!-- Main Blog Content -->
+    <div class="large-9 columns">
+<article>
+    <header>
+        <h3 class="article-title"><a href="./my-first-review.html" rel="bookmark"
+        title="Permalink to My First Review">My First Review</a></h3>
+    </header>
+
+<h6 class="subheader" title="2010-12-03T10:20:00+01:00">Fri 03 December 2010
+</h6>
+
+
+    <p>Following is a review of my favorite mechanical keyboard.</p>
+<p class="subheader">Category: <a href="./category/review.html">Review</a>
+
+    Tagged: 
+    <a href="./tag/keyboards.html">keyboards </a>
+</p>
+
+
+
+
+</article>
+    </div>
+    <!-- End Main Content -->
+
+    <!-- Sidebar -->
+    <aside class="large-3 columns">
+        <h5 class="sidebar-title">Site</h5>
+        <ul class="side-nav">
+            <li><a href="./archives.html">Archives</a>
+            <li><a href="./tags.html">Tags</a>
+        </ul>
+
 		
-<div class="metadata">
-  <time datetime="2010-12-03T10:20:00+01:00" pubdate>Fri 03 December 2010</time>
-    <address class="vcard author">
-      by <a class="url fn" href="./author/sven-kreiss.html">Sven Kreiss</a>
-    </address>
-  in <a href="./category/review.html">Review</a>
-<p class="tags">tagged <a href="./tag/keyboards.html">keyboards</a></p></div>		
-		<p>Following is a review of my favorite mechanical keyboard.</p>	
+        <h5 class="sidebar-title">Categories</h5>
+        <ul class="side-nav">
+            <li><a href="./category/review.html">Review</a></li>
+   
+        </ul>
 
-	</article>
+        <h5 class="sidebar-title">Links</h5>
+        <ul class="side-nav">
+            <li><a href="http://getpelican.com/">Pelican</a></li>
+            <li><a href="http://python.org/">Python.org</a></li>
+            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+            <li><a href="#">You can modify those links in your config file</a></li>
+        </ul>
+		
+        <h5 class="sidebar-title">Social</h5>
+        <ul class="side-nav">
+            <li><a href="#">You can add links in your config file</a></li>
+            <li><a href="#">Another social link</a></li>
+        </ul>
 
-    <p>
-	<a href="https://twitter.com/share" class="twitter-share-button" data-via="" data-lang="en" data-size="large" data-related="">Tweet</a>
-	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-	</p>
+    </aside> <!-- End Sidebar -->
+
+</div> <!-- End Main Content and Sidebar -->
 
 
-		  </div>	
-		  
-		  <div class="sidebar">
-
-	        <div class="widget">
-	          <h2>Categories</h2>
-	          <ul>
-	              <li class="active"><a href="./category/review.html">Review</a></li>
-	          </ul>
-	        </div>
-
-	          <div class="widget">
-	          <h2>Social</h2>
-			    <ul class="social">
-				  <li><a href="#">You can add links in your config file</a><i></i></li>
-				  <li><a href="#">Another social link</a><i></i></li>
-			    </ul>
-			  </div>
-
-	          <div class="widget blogroll">
-	            <h2>Blogroll</h2>
-	            <ul>
-	                <li><a href="http://getpelican.com/">Pelican</a></li>
-	                <li><a href="http://python.org/">Python.org</a></li>
-	                <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
-	                <li><a href="#">You can modify those links in your config file</a></li>
-	            </ul>
-	          </div>
-
-		  </div>
-
-	  </div>
-
-      <footer>
-		<p role="contentinfo">
-		  © 2013 Sven Kreiss - Proudly powered by <a href="http://alexis.notmyidea.org/pelican/">pelican</a>. Theme <a href="https://github.com/fle/pelican-simplegrey">pelican-simplegrey</a>.
-    	</p>
-
-	  </footer>	
-
-	</div>
-	
-
-</body>
-</html>
+<!-- Footer -->
+<footer class="row">
+    <div class="large-12 columns">
+        <hr />
+        <div class="row">
+            <div class="large-6 columns">
+              <!--                  <p>Pelican Theme Validator by Sven Kreiss</p> -->
+            </div>
+            </div>
+    </div>
+</footer>

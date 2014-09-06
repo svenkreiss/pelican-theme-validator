@@ -1,181 +1,113 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8"/>
+<head>
+    <meta charset="utf-8" />
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width" />
 
-    <title>  My First Review
- | Pelican Theme Validator</title>
+    <title>My First Review</title>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <meta name="author" content=""/>
+    <link rel="stylesheet" href="./theme/css/normalize.css" />
+    <link rel="stylesheet" href="./theme/css/foundation.min.css" />
+    <link rel="stylesheet" href="./theme/css/style.css" />
+    <link rel="stylesheet" href="./theme/css/pygments.css" />	
+    <script src="./theme/js/custom.modernizr.js"></script>
+</head>
 
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/css/bootstrap-responsive.min.css"/>
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css"/>
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/jquery.magnific-popup/0.9.9/magnific-popup.css"/>
-    <link rel="stylesheet" href="./theme/css/jquery.mglass.css"/>
-    <link rel="stylesheet" href="./theme/css/pygment-solarized-dark.css"/>
-    <link rel="stylesheet" href="./theme/css/style.css"/>
+<body>
 
-    <!-- Fonts -->
-    <link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
-    <link href='//fonts.googleapis.com/css?family=Istok+Web' rel='stylesheet' type='text/css'/>
-    <link href='//fonts.googleapis.com/css?family=Droid+Sans+Mono' rel='stylesheet' type='text/css'/>
-
-
-    <link rel="icon" href="./favicon.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
-
-    <!-- Feeds -->
-
-
-  </head>
-
-  <body>
-    <div class="container">
-
-      <header>
-        <div class="page-header">
-          <h1><a href=".">Pelican Theme Validator</a> <small></small></h1>
-        </div>
-
-        <div class="navbar">
-          <div class="navbar-inner">
-            <a class="brand" href="." title="">Pelican Theme Validator</a>
-            <ul class="nav">
-            </ul>
-          </div>
-        </div>
-      </header>
-
-      <section>
-
-        <div class="row">
-          <div class=" span9  ">
-  <h1>
-    <a href="./my-first-review.html" rel="bookmark" title="Permalink to My First Review">My First Review</a>
-  </h1>
-          </div>
-        </div>
-
-        <div class="row">
-
-
-          <div class=" span9 " id="content" role="main">
-  
-
-  <div>
-    <p>Following is a review of my favorite mechanical keyboard.</p>
-  </div>
-
-
-
-          </div>
-
-            <div class="span3">
-  <div class="well">
-
-    <p><abbr class="fa fa-calendar" title="2010-12-03T10:20:00+01:00"> Fri 03 December 2010</abbr></p>
-
-      <p><address class="fa fa-user"> By <a href="./author/sven-kreiss.html" rel="author">Sven Kreiss</a></address></p>
-
-
-    <hr/>
-
-      <p>
-              <a href="./category/review.html" rel="tag tooltip" class="label label-info" data-placement="right" data-original-title="1 article in this category">Review</a>
-            <a href="/tag/keyboards.html" rel="tooltip" class="label" data-placement="right" data-original-title="1 article with this tag">keyboards</a>
-      </p>
-      <hr/>
-
-
-
-  </div>
-              
-            </div>
-
-        </div>
-      </section>
-
+<!-- Nav Bar -->
+<nav>
+<div class="top-bar">
+<div class="row">
+    <div class="large-9 large-centered columns">
+	    <h1><a href=".">Pelican Theme Validator</a></h1>
     </div>
+</div>
+</div>
 
-    <!-- TODO: make footer sticky -->
-    <footer class="container-fluid">
-      <div class="container">
+<!-- Show menu items and pages -->
+<div class="row">
+<div class="large-9 columns">
+    <ul class="button-group navigation">
+
+    </ul>
+</div>
+</div>
+</nav>
+<!-- End Nav -->
+
+
+<!-- Main Page Content and Sidebar -->
+<div class="row">
+
+    <!-- Main Blog Content -->
+    <div class="large-9 columns">
+<article>
+    <header>
+        <h3 class="article-title"><a href="./my-first-review.html" rel="bookmark"
+        title="Permalink to My First Review">My First Review</a></h3>
+    </header>
+
+<h6 class="subheader" title="2010-12-03T10:20:00+01:00">Fri 03 December 2010
+</h6>
+
+
+    <p>Following is a review of my favorite mechanical keyboard.</p>
+<p class="subheader">Category: <a href="./category/review.html">Review</a>
+
+    Tagged: 
+    <a href="./tag/keyboards.html">keyboards </a>
+</p>
+
+
+
+
+</article>
+    </div>
+    <!-- End Main Content -->
+
+    <!-- Sidebar -->
+    <aside class="large-3 columns">
+        <h5 class="sidebar-title">Site</h5>
+        <ul class="side-nav">
+            <li><a href="./archives.html">Archives</a>
+            <li><a href="./tags.html">Tags</a>
+        </ul>
+
+		
+        <h5 class="sidebar-title">Categories</h5>
+        <ul class="side-nav">
+            <li><a href="./category/review.html">Review</a></li>
+   
+        </ul>
+
+        <h5 class="sidebar-title">Links</h5>
+        <ul class="side-nav">
+            <li><a href="http://getpelican.com/">Pelican</a></li>
+            <li><a href="http://python.org/">Python.org</a></li>
+            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+            <li><a href="#">You can modify those links in your config file</a></li>
+        </ul>
+		
+        <h5 class="sidebar-title">Social</h5>
+        <ul class="side-nav">
+            <li><a href="#">You can add links in your config file</a></li>
+            <li><a href="#">Another social link</a></li>
+        </ul>
+
+    </aside> <!-- End Sidebar -->
+
+</div> <!-- End Main Content and Sidebar -->
+
+
+<!-- Footer -->
+<footer class="row">
+    <div class="large-12 columns">
+        <hr />
         <div class="row">
-
-            <div class="span2">
-                <h5>Social</h5>
-                <ul class="unstyled">
-                  <li>  <a href="#">
-    You can add links in your config file
-  </a></li>
-                  <li>  <a href="#">
-    Another social link
-  </a></li>
-                </ul>
+            <div class="large-6 columns">
+              <!--                  <p>Pelican Theme Validator by Sven Kreiss</p> -->
             </div>
-            <div class="span2">
-                <h5>Links</h5>
-                <ul class="unstyled">
-                  <li>  <a href="http://getpelican.com/">
-      <img src="http://g.etfv.co/http://getpelican.com?defaulticon=lightpng" width="16" height="16" class="icon" alt="getpelican.com icon"/>
-    Pelican
-  </a></li>
-                  <li>  <a href="http://python.org/">
-      <img src="http://g.etfv.co/http://python.org?defaulticon=lightpng" width="16" height="16" class="icon" alt="python.org icon"/>
-    Python.org
-  </a></li>
-                  <li>  <a href="http://jinja.pocoo.org/">
-      <img src="http://g.etfv.co/http://jinja.pocoo.org?defaulticon=lightpng" width="16" height="16" class="icon" alt="jinja.pocoo.org icon"/>
-    Jinja2
-  </a></li>
-                  <li>  <a href="#">
-    You can modify those links in your config file
-  </a></li>
-                </ul>
             </div>
-
-          <div class="span2">
-            <h5>Browse content by</h5>
-            <ul class="fa-ul">
-
-            </ul>
-          </div>
-
-          <div class="span2 muted">
-            <h5>Copyright notice</h5>
-            <p>© Copyright 2010 Sven Kreiss.</p>
-          </div>
-
-          <div class="span2 muted">
-            <h5>Disclaimer</h5>
-              <p>All opinions expressed in this site are my own personal opinions and are not endorsed by, nor do they represent the opinions of my previous, current and future employers or any of its affiliates, partners or customers.</p>
-          </div>
-
-          <div class="span2">
-            <h5 class="pull-right"><a href="#" class="fa fa-arrow-up"> Back to top</a></h5>
-          </div>
-
-        </div>
-      </div>
-
-      <div class="container">
-        <div class="row span12 muted text-center">
-          Site generated by <a href="http://getpelican.com"> Pelican</a>.<br/>
-          <a href="https://github.com/kdeldycke/plumage"> Plumage</a> theme by <a href="http://kevin.deldycke.com">Kevin Deldycke</a>.
-        </div>
-      </div>
-
-    </footer>
-
-    <script src="//code.jquery.com/jquery-2.0.3.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
-    <script src="//cdn.jsdelivr.net/jquery.magnific-popup/0.9.9/jquery.magnific-popup.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.min.js"></script>
-    <script src="./theme/js/jquery.mglass.js"></script>
-    <script src="./theme/js/application.js"></script>
-
-  </body>
-</html>
+    </div>
+</footer>

@@ -1,88 +1,113 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Pelican Theme Validator</title>
-    <!-- Fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Gabriela' rel='stylesheet' type='text/css'>
-    
-    <!-- CSS -->
-    <link rel="stylesheet" href="./theme/css/main.css" type="text/css" />
-    <link rel="stylesheet" href="./theme/css/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="./theme/css/font-awesome.css" type="text/css" />
+<head>
     <meta charset="utf-8" />
-  
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width" />
 
-    <!-- Javascript-->
-    <script src="./theme/js/invisible-menu-scroll.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
-    <script type="text/javascript"> 
-      $(function() {
-        invisibleMenu();
-      });
-    </script> 
-  </head>
+    <title>My First Review</title>
 
-  <body id="index" class="home">
-    <div class="box-mat">
-    <div class="social-navigation">
-      <ol class="nav">
-            <li><a href="#"><i class="icon-You can add links in your config file"></i>  </a></li>
-            <li><a href="#"><i class="icon-Another social link"></i>  </a></li>
-        </ol>
-      </div>
-        <header id="banner" class="body">
-                <div class="banner"><a href=".">Pelican Theme Validator <strong></strong></a></div>
-        </header><!-- /#banner -->
-        <div class="navigation">
-          <ol>
-          </ol>
-        </div><!-- /#menu -->
-      <div class="box-outer">
-        <div class="box">
-<section id="content" class="body">
-  <header class="post">
-    <h2 class="entry-title">
-      My First Review
-    </h2>
-  </header>
-  <footer class="post-info">
-    <abbr>
-      Fri 03 December 2010 
-         By Sven Kreiss
-  
-    </abbr>
-  </footer><!-- /.post-info -->
-  <div class="entry-content">
-    <p>Following is a review of my favorite mechanical keyboard.</p>
-  </div><!-- /.entry-content -->
-</section>
-        </div> <!-- box -->
-      </div> <!-- box-outer -->
-      <div class="bottom"></div>
-      <footer id="contentinfo" class="footer">
-          <div>
-              <a href=".">Sven Kreiss</a> (2013)
-          </div>
-          <div>
-              This work is licensed under <a rel="license" href="http://opensource.org/licenses/bsd-3-clause">3 clause BSD</a>. Source code available on <a href="https://github.com/jarv/water-iris">Github</a>
-          </div>
-          <div>
-              powered by <a href="http://getpelican.com/">Pelican</a>
-              and <a href="http://python.org">Python</a>. 
-              <a href="http://github.com/jarv/water-iris">Theme</a> by <a href="http://jarv.org">John Jarvis</a> based on <a href="http://github.com/slok/iris">Iris</a>, <a href="https://github.com/getpelican/pelican-themes/tree/master/waterspill-en">Waterspill</a> and the <a href="http://flask.pocoo.org/">Flask</a> theme
-          </div>
-          <div>
-              Social icons (font awesome) by <a href="http://fortawesome.github.com/Font-Awesome/">font awesome</a>.
-              <a href="http://www.google.com/webfonts/specimen/Gabriela">Title</a> and <a href="http://www.google.com/webfonts/specimen/Inconsolata">source code</a> fonts by google fonts
-          </div>
-          <div class="social">
-                  <a href="#"><i class="icon-You can add links in your config file"></i>  </a>
-                  <a href="#"><i class="icon-Another social link"></i>  </a>
-          </div>
-      </footer><!-- /#contentinfo -->
+    <link rel="stylesheet" href="./theme/css/normalize.css" />
+    <link rel="stylesheet" href="./theme/css/foundation.min.css" />
+    <link rel="stylesheet" href="./theme/css/style.css" />
+    <link rel="stylesheet" href="./theme/css/pygments.css" />	
+    <script src="./theme/js/custom.modernizr.js"></script>
+</head>
 
-      <!--Add statistycs-->
+<body>
+
+<!-- Nav Bar -->
+<nav>
+<div class="top-bar">
+<div class="row">
+    <div class="large-9 large-centered columns">
+	    <h1><a href=".">Pelican Theme Validator</a></h1>
     </div>
-  </body>
-</html>
+</div>
+</div>
+
+<!-- Show menu items and pages -->
+<div class="row">
+<div class="large-9 columns">
+    <ul class="button-group navigation">
+
+    </ul>
+</div>
+</div>
+</nav>
+<!-- End Nav -->
+
+
+<!-- Main Page Content and Sidebar -->
+<div class="row">
+
+    <!-- Main Blog Content -->
+    <div class="large-9 columns">
+<article>
+    <header>
+        <h3 class="article-title"><a href="./my-first-review.html" rel="bookmark"
+        title="Permalink to My First Review">My First Review</a></h3>
+    </header>
+
+<h6 class="subheader" title="2010-12-03T10:20:00+01:00">Fri 03 December 2010
+</h6>
+
+
+    <p>Following is a review of my favorite mechanical keyboard.</p>
+<p class="subheader">Category: <a href="./category/review.html">Review</a>
+
+    Tagged: 
+    <a href="./tag/keyboards.html">keyboards </a>
+</p>
+
+
+
+
+</article>
+    </div>
+    <!-- End Main Content -->
+
+    <!-- Sidebar -->
+    <aside class="large-3 columns">
+        <h5 class="sidebar-title">Site</h5>
+        <ul class="side-nav">
+            <li><a href="./archives.html">Archives</a>
+            <li><a href="./tags.html">Tags</a>
+        </ul>
+
+		
+        <h5 class="sidebar-title">Categories</h5>
+        <ul class="side-nav">
+            <li><a href="./category/review.html">Review</a></li>
+   
+        </ul>
+
+        <h5 class="sidebar-title">Links</h5>
+        <ul class="side-nav">
+            <li><a href="http://getpelican.com/">Pelican</a></li>
+            <li><a href="http://python.org/">Python.org</a></li>
+            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+            <li><a href="#">You can modify those links in your config file</a></li>
+        </ul>
+		
+        <h5 class="sidebar-title">Social</h5>
+        <ul class="side-nav">
+            <li><a href="#">You can add links in your config file</a></li>
+            <li><a href="#">Another social link</a></li>
+        </ul>
+
+    </aside> <!-- End Sidebar -->
+
+</div> <!-- End Main Content and Sidebar -->
+
+
+<!-- Footer -->
+<footer class="row">
+    <div class="large-12 columns">
+        <hr />
+        <div class="row">
+            <div class="large-6 columns">
+              <!--                  <p>Pelican Theme Validator by Sven Kreiss</p> -->
+            </div>
+            </div>
+    </div>
+</footer>
