@@ -3,7 +3,7 @@ pelican-theme-validator
 
     Automatically create git branches with the output of pelican builds. Connect to TravisCI and show an overview of the status.
 
-This overview is generated using the `html5validator package <http://github.com/svenkreiss/html5validator>`_ and shows the status of the `pelican-themes repository <https://github.com/getpelican/pelican-themes>`_.
+This overview is generated using the `html5validator package <http://github.com/svenkreiss/html5validator>`_ and shows the status of the themes in the `pelican-themes repository <https://github.com/getpelican/pelican-themes>`_.
 
 .. include-list-of-themes
 Based on commit ``62c7297`` from Sun, 24 Aug 2014 15:07.

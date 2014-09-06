@@ -134,13 +134,21 @@ def main():
             else:
                 os.system('cp badges/HTML5-invalid-red.svg output_all/'+t+'/status.svg')
 
-    if not args.skip_screen_captures:
-        # create screen captures with phantomjs
-        os.system('phantomjs screen_captures.js')
+    if not args.skip_rebuild:
+        # push gh-pages branch
+        os.system('ghp-import -b gh-pages output_all')
+        os.system('git push origin gh-pages')
 
-    # push gh-pages branch
-    os.system('ghp-import -b gh-pages output_all')
-    os.system('git push origin gh-pages')
+    if not args.skip_screen_captures:
+        # Create screen captures with phantomjs (but uses the publicly
+        # served websites, so it can only be done at the very end).
+        # It have to be the public ones (or at least something starting
+        # with https:) for themes that use CDNs and hrefs with '//someurl'.
+        os.system('phantomjs screen_captures.js')
+        if not args.skip_rebuild:
+            # push gh-pages branch
+            os.system('ghp-import -b gh-pages output_all')
+            os.system('git push origin gh-pages')
 
 
 if __name__ == "__main__":

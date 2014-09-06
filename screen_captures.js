@@ -18,9 +18,11 @@ themes.map(function(t) {
     // take screenshot
     count += 1;
     var page = webpage.create();
+    page.settings.resourceTimeout = 5000; // 5 seconds
     page.viewportSize = { width: pageWidth, height: pageHeight };
     page.clipRect = { top: 0, left: 0, width: pageWidth, height: pageHeight };
-    page.open('file://'+fs.absolute('output_all/'+t+'/output/index.html'), function() {
+    // page.open('file://'+fs.absolute('output_all/'+t+'/output/index.html'), function() {
+    page.open('http://www.svenkreiss.com/pelican-theme-validator/'+t+'/output/', function() {
         console.log('rendering');
         page.render('output_all/'+t+'/screen_capture.png');
         count -= 1;
