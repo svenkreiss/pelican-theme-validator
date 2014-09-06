@@ -69,11 +69,6 @@ def rst(themes, location):
 
 
 def rst_write(themes, location):
-    # process THEMES.rst
-    with open("THEMES.rst", 'w') as f:
-        f.write(rst(themes, location))
-
-    # process README.rst
     readme = open('README.rst', 'r').readlines()
     # cut old list
     begin_marker = readme.index('.. include-list-of-themes\n')
@@ -129,6 +124,7 @@ def main():
 
         if not args.skip_validation:
             s = os.system('html5validator --root=output_all/'+t+'/output/ --blacklist=templates &> output_all/'+t+'/html5validator.txt')
+            # update valid/invalid badge
             if s == 0:
                 os.system('cp badges/HTML5-valid-green.svg output_all/'+t+'/status.svg')
             else:
