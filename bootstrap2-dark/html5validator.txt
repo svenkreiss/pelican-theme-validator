@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/encodings/__init__.py", line 31, in <module>
-    import codecs
-  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/codecs.py", line 8, in <module>
-    """#"
-KeyboardInterrupt

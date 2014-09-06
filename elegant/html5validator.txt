@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "/Users/zween/tech/pelican-theme-validator/venv/bin/html5validator", line 5, in <module>
-    from pkg_resources import load_entry_point
-  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/site-packages/pkg_resources.py", line 22, in <module>
-    import zipfile
-  File "/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/zipfile.py", line 3, in <module>
-    """
-KeyboardInterrupt

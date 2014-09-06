@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/encodings/__init__.py", line 100, in search_function
-    level=0)
-  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/encodings/utf_8.py", line 18, in <module>
-    class IncrementalEncoder(codecs.IncrementalEncoder):
-KeyboardInterrupt

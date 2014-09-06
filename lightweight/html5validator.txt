@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "/Users/zween/tech/pelican-theme-validator/venv/lib/python2.7/encodings/__init__.py", line 29, in <module>
-    """#"
-KeyboardInterrupt
