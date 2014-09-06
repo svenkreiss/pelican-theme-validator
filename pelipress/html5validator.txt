@@ -1,0 +1,40 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/archives.html":60.61-60.61: error: Attribute “pubdate” not allowed on element “time” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/archives.html":88.30-88.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/archives.html":99.23-99.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/archives.html":107.25-107.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/authors.html":67.30-67.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/authors.html":78.23-78.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/authors.html":86.25-86.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/categories.html":66.30-66.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/categories.html":77.23-77.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/categories.html":85.25-85.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/index.html":56.73-56.73: error: Attribute “pubdate” not allowed on element “time” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/index.html":61.56-61.56: error: Bad value “full-article” for attribute “rel” on element “a”: The string “full-article” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/index.html":81.30-81.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/index.html":92.23-92.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/index.html":100.25-100.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":54.73-54.73: error: Attribute “pubdate” not allowed on element “time” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":63.51-63.51: error: Attribute “pubdate” not allowed on element “time” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":83.30-83.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":94.23-94.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/my-first-review.html":102.25-102.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tags.html":50.57-50.57: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tags.html":64.30-64.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tags.html":75.23-75.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tags.html":83.25-83.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/author/sven-kreiss.html":56.73-56.73: error: Attribute “pubdate” not allowed on element “time” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/author/sven-kreiss.html":61.57-61.57: error: Bad value “full-article” for attribute “rel” on element “a”: The string “full-article” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/author/sven-kreiss.html":81.30-81.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/author/sven-kreiss.html":92.23-92.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/author/sven-kreiss.html":100.25-100.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/category/review.html":56.73-56.73: error: Attribute “pubdate” not allowed on element “time” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/category/review.html":61.57-61.57: error: Bad value “full-article” for attribute “rel” on element “a”: The string “full-article” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/category/review.html":81.30-81.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/category/review.html":92.23-92.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/category/review.html":100.25-100.25: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tag/keyboards.html":56.73-56.73: error: Attribute “pubdate” not allowed on element “time” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tag/keyboards.html":61.57-61.57: error: Bad value “full-article” for attribute “rel” on element “a”: The string “full-article” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tag/keyboards.html":81.30-81.30: error: Duplicate ID “recent_posts”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tag/keyboards.html":92.23-92.23: error: End tag “h2” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/pelipress/output/tag/keyboards.html":100.25-100.25: error: End tag “h2” seen, but there were open elements.
+Found files to validate: 9

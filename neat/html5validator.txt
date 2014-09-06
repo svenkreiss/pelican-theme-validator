@@ -1,0 +1,7 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/neat/output/my-first-review.html":9.45-9.45: error: Bad value “tags” for attribute “name” on element “meta”: Keyword “tags” is not registered.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/neat/output/my-first-review.html":9.45-9.45: error: Attribute “contents” not allowed on element “meta” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/neat/output/my-first-review.html":9.45-9.45: error: Element “meta” is missing one or more of the following attributes: “content”, “property”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/neat/output/tags.html":14.57-14.57: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/neat/output/tag/keyboards.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/neat/output/tag/keyboards.html": error: Element “head” is missing a required instance of child element “title”.
+Found files to validate: 9

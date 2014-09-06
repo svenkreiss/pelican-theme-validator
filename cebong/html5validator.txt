@@ -1,0 +1,12 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/cebong/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/cebong/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/cebong/output/index.html":42.17-42.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/cebong/output/index.html":43.22-43.22: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/cebong/output/tags.html":27.57-27.57: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/cebong/output/author/sven-kreiss.html":42.17-42.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/cebong/output/author/sven-kreiss.html":43.22-43.22: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/cebong/output/category/review.html":42.17-42.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/cebong/output/category/review.html":43.22-43.22: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/cebong/output/tag/keyboards.html":42.17-42.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/cebong/output/tag/keyboards.html":43.22-43.22: error: Stray end tag “section”.
+Found files to validate: 9

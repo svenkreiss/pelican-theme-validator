@@ -11,4 +11,4 @@
 "file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/categories.html":43.23-43.23: error: End tag “a” violates nesting rules.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/categories.html":43.23-43.23: error fatal: Cannot recover after last error. Any further errors will be ignored.
 "file:/Users/zween/tech/pelican-theme-validator/output_all/aboutwilson/output/my-first-review.html":32.23-32.23: error: Element “h4” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)
-Found files to validate: 8
+Found files to validate: 9

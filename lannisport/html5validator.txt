@@ -1,0 +1,14 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/archives.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/authors.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/categories.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/index.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/index.html":56.18-56.18: error: Stray end tag “footer”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/my-first-review.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/my-first-review.html":61.17-61.17: error: Stray end tag “footer”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/tags.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/tags.html":48.57-48.57: error: Element “li” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/author/sven-kreiss.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/author/sven-kreiss.html":56.18-56.18: error: Stray end tag “footer”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/category/review.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/lannisport/output/tag/keyboards.html":8.70-8.70: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+Found files to validate: 9

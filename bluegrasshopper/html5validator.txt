@@ -1,0 +1,13 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/index.html":51.17-51.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/index.html":52.22-52.22: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/tags.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/tags.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/author/sven-kreiss.html":51.17-51.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/author/sven-kreiss.html":52.22-52.22: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/category/review.html":51.17-51.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/category/review.html":52.22-52.22: error: Stray end tag “section”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/tag/keyboards.html":51.17-51.17: error: Stray end tag “ol”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/bluegrasshopper/output/tag/keyboards.html":52.22-52.22: error: Stray end tag “section”.
+Found files to validate: 9

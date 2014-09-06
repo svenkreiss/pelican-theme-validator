@@ -1,0 +1,28 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/archives.html":55.216-55.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/archives.html":63.121-63.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/archives.html":64.89-64.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/authors.html":51.216-51.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/authors.html":59.121-59.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/authors.html":60.89-60.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/categories.html":50.216-50.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/categories.html":58.121-58.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/categories.html":59.89-59.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/index.html":77.216-77.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/index.html":85.121-85.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/index.html":86.89-86.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/my-first-review.html":64.216-64.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/my-first-review.html":72.121-72.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/my-first-review.html":73.89-73.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/tags.html":51.216-51.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/tags.html":59.121-59.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/tags.html":60.89-60.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/author/sven-kreiss.html":77.216-77.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/author/sven-kreiss.html":85.121-85.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/author/sven-kreiss.html":86.89-86.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/category/review.html":77.216-77.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/category/review.html":85.121-85.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/category/review.html":86.89-86.89: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/tag/keyboards.html":77.216-77.216: error: Bad value “source code” for attribute “rel” on element “a”: The string “source” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/tag/keyboards.html":85.121-85.121: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/iris/output/tag/keyboards.html":86.89-86.89: error: An “a” start tag seen but an element of the same type was already open.
+Found files to validate: 9

@@ -1,0 +1,5 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/archives.html":24.16-24.16: error: Element “h3” not allowed as child of element “dl” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/archives.html":25.37-25.37: error: Element “ul” not allowed as child of element “dl” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/tag/keyboards.html":16.39-16.39: error: No space between attributes.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/simple-bootstrap/output/tag/keyboards.html":16.45-16.45: error: Attribute “active” not allowed on element “li” at this point.
+Found files to validate: 9

@@ -1,0 +1,5 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/my-first-review.html":81.119-81.119: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/my-first-review.html":87.162-87.162: error: Bad value “tag tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/my-first-review.html":88.139-88.139: error: Bad value “tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/plumage/output/tags.html":70.133-70.133: error: Bad value “tooltip” for attribute “rel” on element “a”: The string “tooltip” is not a registered keyword.
+Found files to validate: 9

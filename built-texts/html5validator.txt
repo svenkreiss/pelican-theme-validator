@@ -1,0 +1,74 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/archives.html":21.121-21.121: error: Bad value “http://fonts.googleapis.com/css?family=Gudea:400,400italic|Alegreya+SC” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/archives.html":70.57-70.57: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/archives.html":80.48-80.48: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/archives.html":92.44-92.44: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/archives.html":111.22-111.22: error: The “align” attribute on the “p” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":21.121-21.121: error: Bad value “http://fonts.googleapis.com/css?family=Gudea:400,400italic|Alegreya+SC” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":62.57-62.57: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":72.48-72.48: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":84.44-84.44: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/authors.html":103.22-103.22: error: The “align” attribute on the “p” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":21.121-21.121: error: Bad value “http://fonts.googleapis.com/css?family=Gudea:400,400italic|Alegreya+SC” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":49.49-49.49: error: End tag “li” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":49.38-49.38: error: Unclosed element “a”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":49.50-49.50: error: Element “a” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":50.5-50.5: error: End tag “ul” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":52.14-52.14: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":55.10-55.10: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":55.21-55.21: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":55.28-55.28: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":62.57-62.57: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":67.21-67.21: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":67.21-67.21: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/categories.html":67.21-67.21: error fatal: Cannot recover after last error. Any further errors will be ignored.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/index.html":21.121-21.121: error: Bad value “http://fonts.googleapis.com/css?family=Gudea:400,400italic|Alegreya+SC” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/index.html":52.27-52.27: error: No space between attributes.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/index.html":52.27-52.27: error: Saw “'” when expecting an attribute name. Probable cause: “=” missing immediately before.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/index.html":52.28-52.28: error: Attribute “'” not allowed on element “div” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/index.html":101.57-101.57: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/index.html":111.48-111.48: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/index.html":123.44-123.44: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/index.html":142.22-142.22: error: The “align” attribute on the “p” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/my-first-review.html":21.121-21.121: error: Bad value “http://fonts.googleapis.com/css?family=Gudea:400,400italic|Alegreya+SC” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/my-first-review.html":88.57-88.57: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/my-first-review.html":98.48-98.48: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/my-first-review.html":110.44-110.44: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/my-first-review.html":129.22-129.22: error: The “align” attribute on the “p” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tags.html":21.121-21.121: error: Bad value “http://fonts.googleapis.com/css?family=Gudea:400,400italic|Alegreya+SC” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tags.html":49.53-49.53: error: End tag “li” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tags.html":49.39-49.39: error: Unclosed element “a”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tags.html":49.54-49.54: error: Element “a” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tags.html":50.5-50.5: error: End tag “ul” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tags.html":51.14-51.14: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tags.html":54.10-54.10: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tags.html":54.21-54.21: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tags.html":54.28-54.28: error: End tag “div” seen, but there were open elements.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tags.html":61.57-61.57: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tags.html":66.21-66.21: error: An “a” start tag seen but an element of the same type was already open.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tags.html":66.21-66.21: error: End tag “a” violates nesting rules.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tags.html":66.21-66.21: error fatal: Cannot recover after last error. Any further errors will be ignored.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/author/sven-kreiss.html":21.121-21.121: error: Bad value “http://fonts.googleapis.com/css?family=Gudea:400,400italic|Alegreya+SC” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/author/sven-kreiss.html":52.27-52.27: error: No space between attributes.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/author/sven-kreiss.html":52.27-52.27: error: Saw “'” when expecting an attribute name. Probable cause: “=” missing immediately before.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/author/sven-kreiss.html":52.28-52.28: error: Attribute “'” not allowed on element “div” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/author/sven-kreiss.html":101.57-101.57: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/author/sven-kreiss.html":111.48-111.48: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/author/sven-kreiss.html":123.44-123.44: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/author/sven-kreiss.html":142.22-142.22: error: The “align” attribute on the “p” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/category/review.html":21.121-21.121: error: Bad value “http://fonts.googleapis.com/css?family=Gudea:400,400italic|Alegreya+SC” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/category/review.html":52.27-52.27: error: No space between attributes.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/category/review.html":52.27-52.27: error: Saw “'” when expecting an attribute name. Probable cause: “=” missing immediately before.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/category/review.html":52.28-52.28: error: Attribute “'” not allowed on element “div” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/category/review.html":101.57-101.57: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/category/review.html":111.48-111.48: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/category/review.html":123.44-123.44: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/category/review.html":142.22-142.22: error: The “align” attribute on the “p” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tag/keyboards.html":21.121-21.121: error: Bad value “http://fonts.googleapis.com/css?family=Gudea:400,400italic|Alegreya+SC” for attribute “href” on element “link”: Illegal character in query: not a URL code point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tag/keyboards.html":52.27-52.27: error: No space between attributes.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tag/keyboards.html":52.27-52.27: error: Saw “'” when expecting an attribute name. Probable cause: “=” missing immediately before.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tag/keyboards.html":52.28-52.28: error: Attribute “'” not allowed on element “div” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tag/keyboards.html":101.57-101.57: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tag/keyboards.html":111.48-111.48: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tag/keyboards.html":123.44-123.44: error: The “align” attribute on the “div” element is obsolete. Use CSS instead.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/built-texts/output/tag/keyboards.html":142.22-142.22: error: The “align” attribute on the “p” element is obsolete. Use CSS instead.
+Found files to validate: 9

@@ -1,0 +1,11 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/index.html":1.2-1.2: error: Saw “<?”. Probable cause: Attempt to use an XML processing instruction in HTML. (XML processing instructions are not supported in HTML.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/index.html":35.22-35.22: error: Duplicate ID “content”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/my-first-review.html":45.60-45.60: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/author/sven-kreiss.html":1.20-1.20: error: Start tag seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/author/sven-kreiss.html":1.20-1.20: error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/author/sven-kreiss.html":3.60-3.60: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/category/review.html":1.2-1.2: error: Saw “<?”. Probable cause: Attempt to use an XML processing instruction in HTML. (XML processing instructions are not supported in HTML.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/category/review.html":35.22-35.22: error: Duplicate ID “content”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/tag/keyboards.html":1.2-1.2: error: Saw “<?”. Probable cause: Attempt to use an XML processing instruction in HTML. (XML processing instructions are not supported in HTML.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/jesuislibre/output/tag/keyboards.html":35.22-35.22: error: Duplicate ID “content”.
+Found files to validate: 9

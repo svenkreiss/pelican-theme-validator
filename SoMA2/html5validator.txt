@@ -1,0 +1,6 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/SoMA2/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/SoMA2/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/SoMA2/output/categories.html":1.4-1.4: error: Start tag seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/SoMA2/output/categories.html":1.4-1.4: error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/SoMA2/output/tags.html":64.57-64.57: error: Element “li” not allowed as child of element “body” in this context. (Suppressing further errors from this subtree.)
+Found files to validate: 9

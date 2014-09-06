@@ -1,0 +1,36 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/archives.html":5.58-5.58: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/archives.html":18.42-18.42: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/archives.html":18.42-18.42: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/archives.html":24.4-24.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/authors.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/authors.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/categories.html":5.58-5.58: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/categories.html":18.42-18.42: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/categories.html":18.42-18.42: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/categories.html":24.4-24.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/index.html":5.58-5.58: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/index.html":18.42-18.42: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/index.html":18.42-18.42: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/index.html":24.4-24.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/my-first-review.html":5.58-5.58: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/my-first-review.html":18.42-18.42: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/my-first-review.html":18.42-18.42: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/my-first-review.html":24.4-24.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/tags.html":5.58-5.58: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/tags.html":18.42-18.42: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/tags.html":18.42-18.42: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/tags.html":24.4-24.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/tags.html":37.57-37.57: error: Element “li” not allowed as child of element “section” in this context. (Suppressing further errors from this subtree.)
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/author/sven-kreiss.html":5.58-5.58: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/author/sven-kreiss.html":18.42-18.42: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/author/sven-kreiss.html":18.42-18.42: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/author/sven-kreiss.html":24.4-24.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/category/review.html":5.58-5.58: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/category/review.html":18.42-18.42: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/category/review.html":18.42-18.42: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/category/review.html":24.4-24.4: error: No “p” element in scope but a “p” end tag seen.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/tag/keyboards.html":5.58-5.58: error: Bad value “X-UA-Compatible” for attribute “http-equiv” on element “meta”.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/tag/keyboards.html":18.42-18.42: error: Bad value “” for attribute “src” on element “img”: Must be non-empty.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/tag/keyboards.html":18.42-18.42: error: An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/sundown/output/tag/keyboards.html":24.4-24.4: error: No “p” element in scope but a “p” end tag seen.
+Found files to validate: 9

@@ -1,0 +1,10 @@
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/archives.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/authors.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/categories.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/index.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/my-first-review.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/tags.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/author/sven-kreiss.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/category/review.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+"file:/Users/zween/tech/pelican-theme-validator/output_all/gum/output/tag/keyboards.html":35.77-35.77: error: Attribute “gumby-trigger” not allowed on element “a” at this point.
+Found files to validate: 9
